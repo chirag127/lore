@@ -1,0 +1,22 @@
+{
+  "id": "spillover-david-quammen",
+  "slug": "spillover-david-quammen",
+  "title": "Spillover: Animal Infections and the Next Human Pandemic",
+  "subtitle": null,
+  "authors": ["David Quammen"],
+  "year": 2012,
+  "category": "Body, Health & Life Sciences",
+  "subcategory": "Public Health & Prevention",
+  "pages": 592,
+  "isbn": "9780393066807",
+  "language": "en",
+  "genres": ["Popular Science", "Epidemiology", "Medicine"],
+  "subjects": ["Zoonotic Diseases", "Epidemiology", "Virology", "Public Health"],
+  "themes": ["Disease Emergence", "One Health", "Pandemic Prevention", "Human-Animal Interface"],
+  "tags": ["zoonotic-diseases", "epidemiology", "virology", "pandemics", "ebola", "SARS", "COVID", "bat-viruses", "disease-ecology"],
+  "difficulty": "medium",
+  "estimatedReadingHours": 18,
+  "estimatedListeningMinutes": 1080,
+  "source": "generated",
+  "generatedAt": "2026-06-13"
+}

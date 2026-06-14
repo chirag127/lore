@@ -1,0 +1,18 @@
+{
+  "slug": "principles-of-neural-science-eric-kandel",
+  "title": "Principles of Neural Science",
+  "authors": ["Eric R. Kandel", "John D. Koester", "Sarah H. Mack", "Steven A. Siegelbaum"],
+  "publicationYear": 2021,
+  "publisher": "McGraw-Hill",
+  "isbn13": "9781259642234",
+  "pages": 1646,
+  "language": "en",
+  "genres": ["Textbook", "Neuroscience", "Medical Reference"],
+  "subjects": ["Neuroscience", "Neurobiology", "Nervous System", "Brain Science"],
+  "themes": ["Neural Circuits", "Synaptic Transmission", "Perception", "Motor Control", "Learning and Memory", "Consciousness"],
+  "tags": ["neuroscience", "neurobiology", "brain", "synaptic transmission", "neural circuits", "nobel laureate", "medical textbook"],
+  "difficulty": "dense",
+  "estimatedReadingHours": 120,
+  "estimatedListeningMinutes": 2400,
+  "excerpt": "The definitive reference in neuroscience, now in its sixth edition, providing a comprehensive exploration of the nervous system from molecular mechanisms to complex behaviors."
+}

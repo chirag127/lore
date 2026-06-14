@@ -1,0 +1,18 @@
+{
+  "slug": "grays-anatomy-for-students-richard-drake",
+  "title": "Gray's Anatomy for Students",
+  "authors": ["Richard L. Drake", "A. Wayne Vogl", "Adam W.M. Mitchell"],
+  "publicationYear": 2023,
+  "publisher": "Elsevier",
+  "isbn13": "9780323934237",
+  "pages": 1168,
+  "language": "en",
+  "genres": ["Medical Textbook", "Anatomy", "Science Education"],
+  "subjects": ["Human Anatomy", "Gross Anatomy", "Regional Anatomy"],
+  "themes": ["Clinical Anatomy", "Medical Education", "Structure-Function Relationship"],
+  "tags": ["anatomy", "medical textbook", "gross anatomy", "regional anatomy", "clinical anatomy", "medical education", "dissection", "radiology"],
+  "difficulty": "hard",
+  "estimatedReadingHours": 90,
+  "estimatedListeningMinutes": 1800,
+  "excerpt": "A comprehensive, student-friendly textbook that presents human anatomy through a regional approach, integrating clinical correlates and radiologic imaging to bridge basic science and medical practice."
+}

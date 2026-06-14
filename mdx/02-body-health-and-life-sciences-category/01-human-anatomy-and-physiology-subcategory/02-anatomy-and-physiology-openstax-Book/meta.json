@@ -1,0 +1,18 @@
+{
+  "slug": "anatomy-and-physiology-openstax",
+  "title": "Anatomy and Physiology 2e",
+  "authors": ["J. Gordon Betts", "Peter DeSaix", "Eddie Johnson", "Jody E. Johnson", "Oksana Korol", "Dean H. Kruse", "Brandon Poe", "James A. Wise", "Mark Womble", "Kelly A. Young"],
+  "publicationYear": 2022,
+  "publisher": "OpenStax, Rice University",
+  "isbn13": "9781711494067",
+  "pages": 1314,
+  "language": "en",
+  "genres": ["Textbook", "Anatomy", "Physiology", "Open Educational Resource"],
+  "subjects": ["Human Anatomy", "Human Physiology", "Body Systems"],
+  "themes": ["Homeostasis", "Structure-Function Relationship", "Body Systems Integration", "Clinical Applications"],
+  "tags": ["anatomy", "physiology", "open textbook", "OER", "body systems", "homeostasis", "biology", "allied health", "nursing"],
+  "difficulty": "medium",
+  "estimatedReadingHours": 70,
+  "estimatedListeningMinutes": 1440,
+  "excerpt": "A comprehensive, peer-reviewed open textbook covering human anatomy and physiology organized by body systems, designed for two-semester courses in life sciences and allied health."
+}
