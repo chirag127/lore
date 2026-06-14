@@ -1,0 +1,60 @@
+{
+  "slug": "clean-code-robert-c-martin",
+  "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "author": "Robert C. Martin",
+  "authors": [
+    "Robert C. Martin"
+  ],
+  "publicationYear": 2008,
+  "year": 2008,
+  "isbn": "9780132350884",
+  "pages": 464,
+  "publisher": "Prentice Hall",
+  "language": "en",
+  "genres": [
+    "Computer Science",
+    "Programming",
+    "Software Engineering"
+  ],
+  "subjects": [
+    "Code Quality",
+    "Refactoring",
+    "Testing",
+    "Design Patterns"
+  ],
+  "themes": [
+    "Craftsmanship",
+    "Code Quality",
+    "Professionalism"
+  ],
+  "tags": [
+    "programming",
+    "clean code",
+    "refactoring",
+    "testing",
+    "software engineering",
+    "agile"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 10,
+  "estimatedListeningMinutes": 600,
+  "excerpt": "Divided into principles, patterns, and practices of writing clean code with case studies. Covers meaningful names, small functions, comments, formatting, error handling, unit testing, and classes.",
+  "category": "computers ai and software",
+  "subcategory": "programming fundamentals",
+  "addedAt": 1781448632739,
+  "whoShouldRead": [
+    "Readers interested in Computer Science and Programming and Software Engineering"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of Clean Code: A Handbook of Agile Software Craftsmanship"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+    "color": "#1a365d"
+  }
+}

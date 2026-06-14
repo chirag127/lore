@@ -1,0 +1,59 @@
+{
+  "slug": "dune-frank-herbert",
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "authors": [
+    "Frank Herbert"
+  ],
+  "publicationYear": 1965,
+  "year": 1965,
+  "isbn": "9780441172719",
+  "pages": 896,
+  "publisher": "Ace Books",
+  "language": "en",
+  "genres": [
+    "Science Fiction",
+    "Fiction"
+  ],
+  "subjects": [
+    "Space Opera",
+    "Politics",
+    "Ecology",
+    "Religion"
+  ],
+  "themes": [
+    "Power",
+    "Destiny",
+    "Ecology",
+    "Religion and Politics"
+  ],
+  "tags": [
+    "sci-fi",
+    "dune",
+    "frank herbert",
+    "space opera",
+    "science fiction"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 20,
+  "estimatedListeningMinutes": 1200,
+  "excerpt": "An epic sci-fi novel set in a feudal interstellar society, following Paul Atreides on the desert planet Arrakis, the only source of the spice melange.",
+  "category": "fiction and literature",
+  "subcategory": "science fiction and futurism",
+  "addedAt": 1781448986262,
+  "whoShouldRead": [
+    "Readers interested in Science Fiction and Fiction"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of Dune"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
+    "color": "#1a365d"
+  }
+}

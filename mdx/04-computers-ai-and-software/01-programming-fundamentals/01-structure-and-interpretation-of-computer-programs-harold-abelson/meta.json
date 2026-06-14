@@ -1,0 +1,61 @@
+{
+  "slug": "structure-and-interpretation-of-computer-programs-harold-abelson",
+  "title": "Structure and Interpretation of Computer Programs",
+  "author": "Harold Abelson, Gerald Jay Sussman",
+  "authors": [
+    "Harold Abelson",
+    "Gerald Jay Sussman"
+  ],
+  "publicationYear": 1996,
+  "year": 1996,
+  "isbn": "9780262510875",
+  "pages": 688,
+  "publisher": "MIT Press",
+  "language": "en",
+  "genres": [
+    "Computer Science",
+    "Programming",
+    "Education"
+  ],
+  "subjects": [
+    "Programming",
+    "Abstraction",
+    "Recursion",
+    "Metacircular Evaluation"
+  ],
+  "themes": [
+    "Computational Thinking",
+    "Programming Paradigms",
+    "Abstraction"
+  ],
+  "tags": [
+    "computer science",
+    "programming",
+    "scheme",
+    "lisp",
+    "algorithms",
+    "sicp"
+  ],
+  "difficulty": "hard",
+  "estimatedReadingHours": 20,
+  "estimatedListeningMinutes": 1200,
+  "excerpt": "Teaches fundamental principles of computer programming using Scheme, covering recursion, abstraction, modularity, and programming language design. Used as MIT's introductory CS textbook from 1984 to 2007.",
+  "category": "computers ai and software",
+  "subcategory": "programming fundamentals",
+  "addedAt": 1781448632733,
+  "whoShouldRead": [
+    "Readers interested in Computer Science and Programming and Education"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of Structure and Interpretation of Computer Programs"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780262510875-L.jpg",
+    "color": "#1a365d"
+  }
+}

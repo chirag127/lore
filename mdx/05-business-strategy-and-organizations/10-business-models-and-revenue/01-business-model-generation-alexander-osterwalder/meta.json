@@ -1,0 +1,61 @@
+{
+  "slug": "business-model-generation-alexander-osterwalder",
+  "title": "Business Model Generation",
+  "author": "Alexander Osterwalder, Yves Pigneur",
+  "authors": [
+    "Alexander Osterwalder",
+    "Yves Pigneur"
+  ],
+  "publicationYear": 2010,
+  "year": 2010,
+  "isbn": "9780470876411",
+  "pages": 288,
+  "publisher": "Wiley",
+  "language": "en",
+  "genres": [
+    "Business",
+    "Strategy",
+    "Entrepreneurship"
+  ],
+  "subjects": [
+    "Business Models",
+    "Innovation",
+    "Strategy Canvas",
+    "Value Proposition"
+  ],
+  "themes": [
+    "Design Thinking",
+    "Innovation",
+    "Strategic Management"
+  ],
+  "tags": [
+    "business",
+    "business model",
+    "canvas",
+    "strategy",
+    "innovation",
+    "osterwalder"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 8,
+  "estimatedListeningMinutes": 480,
+  "excerpt": "A handbook for visionaries designing tomorrow's enterprises using the Business Model Canvas framework, co-created by 470 practitioners.",
+  "category": "business strategy and organizations",
+  "subcategory": "business models and revenue",
+  "addedAt": 1781448986245,
+  "whoShouldRead": [
+    "Readers interested in Business and Strategy and Entrepreneurship"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of Business Model Generation"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780470876411-L.jpg",
+    "color": "#1a365d"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "the-disappearing-spoon-sam-kean",
+  "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+  "author": "Sam Kean",
+  "authors": [
+    "Sam Kean"
+  ],
+  "publicationYear": 2010,
+  "year": 2010,
+  "isbn": "9780316051644",
+  "pages": 400,
+  "publisher": "Little, Brown and Company",
+  "language": "en",
+  "genres": [
+    "Chemistry",
+    "Science",
+    "History"
+  ],
+  "subjects": [
+    "Periodic Table",
+    "Elements",
+    "Chemistry History",
+    "Science Stories"
+  ],
+  "themes": [
+    "Discovery",
+    "Science and History",
+    "Human Drama"
+  ],
+  "tags": [
+    "chemistry",
+    "periodic table",
+    "elements",
+    "science history",
+    "sam kean"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 10,
+  "estimatedListeningMinutes": 600,
+  "excerpt": "A collection of short stories that trace the history of the periodic table through the human dramas behind each element. Runner-up for the Royal Society's Book of the Year.",
+  "category": "mathematics logic and science",
+  "subcategory": "chemistry and materials science",
+  "addedAt": 1781448632776,
+  "whoShouldRead": [
+    "Readers interested in Chemistry and Science and History"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780316051644-L.jpg",
+    "color": "#1a365d"
+  }
+}

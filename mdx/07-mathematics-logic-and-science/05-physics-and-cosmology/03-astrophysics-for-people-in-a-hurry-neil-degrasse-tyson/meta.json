@@ -1,0 +1,60 @@
+{
+  "slug": "astrophysics-for-people-in-a-hurry-neil-degrasse-tyson",
+  "title": "Astrophysics for People in a Hurry",
+  "author": "Neil deGrasse Tyson",
+  "authors": [
+    "Neil deGrasse Tyson"
+  ],
+  "publicationYear": 2017,
+  "year": 2017,
+  "isbn": "9780393609394",
+  "pages": 224,
+  "publisher": "W. W. Norton & Company",
+  "language": "en",
+  "genres": [
+    "Astrophysics",
+    "Cosmology",
+    "Science"
+  ],
+  "subjects": [
+    "Big Bang",
+    "Dark Matter",
+    "Black Holes",
+    "Exoplanets"
+  ],
+  "themes": [
+    "Cosmic Discovery",
+    "Scientific Wonder",
+    "Universe"
+  ],
+  "tags": [
+    "astrophysics",
+    "cosmology",
+    "big bang",
+    "dark matter",
+    "black holes",
+    "universe"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 5,
+  "estimatedListeningMinutes": 300,
+  "excerpt": "Tyson distills the cosmos into short, accessible chapters. The book covers the Big Bang, dark matter, dark energy, black holes, quarks, quantum mechanics, and the search for life in the universe.",
+  "category": "mathematics logic and science",
+  "subcategory": "physics and cosmology",
+  "addedAt": 1781448632729,
+  "whoShouldRead": [
+    "Readers interested in Astrophysics and Cosmology and Science"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of Astrophysics for People in a Hurry"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780393609394-L.jpg",
+    "color": "#1a365d"
+  }
+}
