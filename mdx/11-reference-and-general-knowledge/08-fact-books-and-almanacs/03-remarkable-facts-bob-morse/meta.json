@@ -3,20 +3,78 @@
   "slug": "remarkable-facts-bob-morse",
   "title": "The Little Book of Remarkable Facts",
   "subtitle": null,
-  "authors": ["Bob Morse"],
+  "authors": [
+    "Bob Morse"
+  ],
   "year": 1995,
   "category": "Reference & General Knowledge",
   "subcategory": "Fact Books and Almanacs",
   "pages": 208,
   "isbn": "9780761101259",
   "language": "en",
-  "genres": ["Trivia", "Reference", "Humor"],
-  "subjects": ["Curiosities", "Facts", "Reference", "General Knowledge"],
-  "themes": ["Wonder and Curiosity", "Surprising Knowledge", "The Joy of Discovery"],
-  "tags": ["facts", "trivia", "reference", "knowledge", "curiosity", "surprising-facts", "general-knowledge", "entertainment"],
+  "genres": [
+    "Trivia",
+    "Reference",
+    "Humor"
+  ],
+  "subjects": [
+    "Curiosities",
+    "Facts",
+    "Reference",
+    "General Knowledge"
+  ],
+  "themes": [
+    "Wonder and Curiosity",
+    "Surprising Knowledge",
+    "The Joy of Discovery"
+  ],
+  "tags": [
+    "facts",
+    "trivia",
+    "reference",
+    "knowledge",
+    "curiosity",
+    "surprising-facts",
+    "general-knowledge",
+    "entertainment"
+  ],
   "difficulty": "easy",
   "estimatedReadingHours": 3,
   "estimatedListeningMinutes": 180,
   "source": "generated",
-  "generatedAt": "2026-06-14"
+  "generatedAt": "2026-06-14",
+  "excerpt": "A delightful collection of surprising, curious, and little-known facts from every field of knowledge, designed to amuse, inform, and spark curiosity about the world.",
+  "addedAt": "2026-06-14",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780761101259-L.jpg",
+    "color": "#F39C12"
+  },
+  "keyIdeas": [
+    "The world is full of surprising facts that challenge our assumptions",
+    "Curiosity-driven learning is one of life's great pleasures",
+    "Fact collections can be both entertaining and educational"
+  ],
+  "keyTakeaways": [
+    "The book covers facts from science, history, nature, and everyday life",
+    "Each fact is concise, surprising, and memorable",
+    "The collection is designed for browsing and casual reading",
+    "Facts are organized into thematic categories",
+    "The tone is lighthearted and wonder-filled"
+  ],
+  "whoShouldRead": [
+    "Curious readers who enjoy surprising facts",
+    "Conversation starters for social situations",
+    "Teachers looking for engaging classroom material",
+    "Anyone who wants to appreciate the wonder of the world"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking systematic reference works",
+    "Those who prefer in-depth analysis to isolated facts",
+    "People who find trivia collections trivial"
+  ],
+  "relatedBooks": [
+    "world-almanac-2025-world-almanac",
+    "guinness-world-records-2024-guinness",
+    "the-book-of-general-ignorance-john-lloyd"
+  ]
 }

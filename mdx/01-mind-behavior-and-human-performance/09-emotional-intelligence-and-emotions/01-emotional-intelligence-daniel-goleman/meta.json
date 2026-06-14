@@ -60,5 +60,43 @@
     "Harvard Business Review 'Revolutionary, paradigm-shattering idea'",
     "Translated into 40 languages worldwide"
   ],
-  "excerpt": "IQ is not enough. Self-awareness, impulse control, empathy, and social deftness — emotional intelligence — matter more for success in relationships, work, and health than the analytical skills measured by IQ tests. And these skills can be taught."
+  "excerpt": "IQ is not enough. Self-awareness, impulse control, empathy, and social deftness — emotional intelligence — matter more for success in relationships, work, and health than the analytical skills measured by IQ tests. And these skills can be taught.",
+  "year": 1995,
+  "authors": [
+    "Daniel Goleman"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780553383713-L.jpg",
+    "color": "#4a148c"
+  },
+  "keyIdeas": [
+    "The emotional brain can hijack the rational brain — the amygdala triggers impulses before the neocortex can deliberate",
+    "Self-awareness — knowing one's own emotions as they occur — is the cornerstone of emotional intelligence",
+    "Empathy builds on self-awareness: the ability to read others' feelings is essential for social competence",
+    "Emotional skills can be learned and strengthened through neuroplasticity at any age"
+  ],
+  "keyTakeaways": [
+    "IQ accounts for at most 20% of life success; the rest depends on emotional and social competencies",
+    "Impulse control — delaying gratification — predicts better outcomes than IQ in longitudinal studies",
+    "Emotional literacy programs in schools reduce violence, anxiety, and improve academic performance",
+    "Marital satisfaction depends more on emotional repair skills than on intelligence or shared interests"
+  ],
+  "whoShouldRead": [
+    "Educators and parents wanting to understand how emotional skills shape child development",
+    "Managers and leaders seeking the evidence base for soft skills in the workplace",
+    "Anyone curious about the neuroscience behind emotions and why some smart people fail",
+    "Therapists and counselors looking for a broad framework connecting emotion, cognition, and behavior"
+  ],
+  "whoShouldSkip": [
+    "Readers already familiar with the EQ concept from the past 25 years of cultural saturation",
+    "Those seeking strict academic science — Goleman's pop-science approach prioritizes accessibility over rigor",
+    "Anyone expecting a step-by-step emotional skills training manual rather than a survey of research"
+  ],
+  "relatedBooks": [
+    "working-with-emotional-intelligence-daniel-goleman",
+    "primal-leadership-daniel-goleman",
+    "thinking-fast-and-slow-daniel-kahneman",
+    "social-intelligence-daniel-goleman",
+    "the-heart-of-social-intelligence-daniel-williams"
+  ]
 }

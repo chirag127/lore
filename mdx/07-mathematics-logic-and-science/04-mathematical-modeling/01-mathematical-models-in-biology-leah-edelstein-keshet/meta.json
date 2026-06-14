@@ -75,5 +75,11 @@
     "sync-steven-strogatz"
   ],
   "readingTimeMinutes": 1200,
-  "listeningTimeMinutes": 1560
+  "listeningTimeMinutes": 1560,
+  "year": 2005,
+  "excerpt": "The definitive textbook on mathematical biology, providing a rigorous introduction to differential equations, stochastic processes, and discrete models for understanding population dynamics, biological oscillations, and patterned formation in living systems.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780898719170-L.jpg",
+    "color": "#1b5e20"
+  }
 }

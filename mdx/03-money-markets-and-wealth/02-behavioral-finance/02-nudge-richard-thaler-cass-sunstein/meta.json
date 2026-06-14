@@ -41,5 +41,50 @@
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 8,
-  "rationale": "The foundational text of the nudge movement and libertarian paternalism. Thaler (2017 Nobel laureate) and Sunstein created the framework that launched behavioral insights teams in over 50 countries. Essential for behavioral-finance as it directly applies cognitive bias research to financial decision-making — retirement savings (Save More Tomorrow), investment choices, credit markets, and Social Security design."
+  "rationale": "The foundational text of the nudge movement and libertarian paternalism. Thaler (2017 Nobel laureate) and Sunstein created the framework that launched behavioral insights teams in over 50 countries. Essential for behavioral-finance as it directly applies cognitive bias research to financial decision-making — retirement savings (Save More Tomorrow), investment choices, credit markets, and Social Security design.",
+  "year": 2008,
+  "excerpt": "Two Nobel-adjacent thinkers make the case that carefully designed choice architecture — nudges — can improve individual and societal decisions without restricting freedom, founding a movement that reshaped public policy and corporate design worldwide.",
+  "addedAt": "2026-06-11",
+  "authors": [
+    "Richard H. Thaler",
+    "Cass R. Sunstein"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780143115267-L.jpg",
+    "color": "#1b5e20"
+  },
+  "keyIdeas": [
+    "Libertarian paternalism: it is legitimate to influence choices for people's own good, as long as all options remain available",
+    "Humans are not Econs — we use fast instinctive System 1 and slow deliberate System 2, and they often conflict",
+    "Choice architecture is inevitable — someone always designs how options are presented; designing it well is a moral obligation",
+    "Default options are powerful nudges because of inertia and status quo bias; smart defaults can save lives and trillions of dollars",
+    "The Save More Tomorrow program proves that commitment mechanisms, timed to pay raises, solve the present-bias savings problem"
+  ],
+  "keyTakeaways": [
+    "No choice architecture is neutral — cafeteria layout, form design, and default settings all nudge whether planned or not",
+    "A nudge changes behavior predictably without forbidding options or altering economic incentives",
+    "Self-control problems are real, predictable, and tractable through well-designed commitment devices",
+    "Organ donation default policies could eliminate waiting lists overnight; the evidence from opt-out countries is overwhelming",
+    "Libertarian paternalism works because it respects freedom of choice while acknowledging predictable human error"
+  ],
+  "whoShouldRead": [
+    "Policymakers at any level who design programs, defaults, or public communications",
+    "Finance professionals designing retirement plans, insurance products, or investment platforms",
+    "Behavioral science students seeking the foundational text of the field",
+    "HR and benefits administrators responsible for employee savings and health plan design",
+    "Anyone curious why their own choices seem inconsistent with their stated long-term goals"
+  ],
+  "whoShouldSkip": [
+    "Academic economists deeply immersed in rational choice theory — the book is explicitly anti-homo economicus",
+    "Readers seeking rigorous formal mathematical models — Nudge is a popularization, not a textbook",
+    "Libertarians who reject any form of paternalism, however mild — the book's core premise will feel like an affront"
+  ],
+  "relatedBooks": [
+    "thinking-fast-and-slow-daniel-kahneman",
+    "misbehaving-richard-thaler",
+    "the-psychology-of-money-morgan-housel",
+    "value-investing-and-behavioral-finance-prem-jain",
+    "predictably-irrational-dan-ariely",
+    "fooled-by-randomness-nassim-taleb"
+  ]
 }

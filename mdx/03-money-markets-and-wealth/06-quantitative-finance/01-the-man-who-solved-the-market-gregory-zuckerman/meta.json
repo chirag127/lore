@@ -19,5 +19,48 @@
     "Investing"
   ],
   "source": "generated",
-  "generatedAt": "2026-06-10"
+  "generatedAt": "2026-06-10",
+  "excerpt": "The gripping biography of Jim Simons and Renaissance Technologies — the most successful hedge fund in history — revealing how a mathematician and code-breaker built a quantitative empire that averaged 66% annual returns.",
+  "tags": [
+    "renaissance-technologies",
+    "jim-simons",
+    "quantitative-finance",
+    "algorithmic-trading",
+    "hedge-funds",
+    "gregory-zuckerman"
+  ],
+  "addedAt": "2026-06-10",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780735217980-L.jpg",
+    "color": "#0d1b2a"
+  },
+  "keyIdeas": [
+    "Jim Simons transformed from a brilliant mathematician and code-breaker into the most successful investor in history",
+    "Renaissance Technologies' Medallion Fund achieved average annual returns of 66% from 1988 to 2018",
+    "The fund's success stems from identifying subtle statistical patterns in financial data that others cannot see",
+    "Simons built a culture of intellectual brilliance, secrecy, and intense competitive drive"
+  ],
+  "keyTakeaways": [
+    "Quantitative investing can generate returns that dwarf traditional active management",
+    "The Renaissance model depends on massive data analysis, computational power, and mathematical talent",
+    "Simons's success required rejecting conventional financial theory and embracing a scientific approach",
+    "The Medallion Fund's returns are unprecedented and may never be replicated"
+  ],
+  "whoShouldRead": [
+    "Quantitative finance professionals and aspiring quant traders",
+    "Investors curious about how the world's best hedge fund actually works",
+    "Biography readers interested in genius, innovation, and unconventional success",
+    "Anyone skeptical about the possibility of consistently beating the market"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a how-to guide for quantitative trading",
+    "Those wanting a critical examination of hedge fund industry excesses",
+    "People looking for traditional value or macro investing strategies"
+  ],
+  "relatedBooks": [
+    "the-quants-scott-patterson",
+    "more-money-than-god-sebastian-mallaby",
+    "a-demon-of-our-own-design-richard-bookstaber",
+    "the-invisible-hands-steven-drobny"
+  ]
 }

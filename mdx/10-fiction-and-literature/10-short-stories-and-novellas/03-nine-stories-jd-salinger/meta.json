@@ -6,12 +6,77 @@
   "isbn": "9780316769501",
   "publisher": "Little, Brown",
   "language": "en",
-  "genres": ["Fiction", "Short Stories", "American Literature", "Classic Literature"],
-  "subjects": ["American Literature", "Post-War Fiction", "Alienation", "Childhood", "Zen Buddhism"],
-  "themes": ["Alienation and Connection", "The Wisdom of Children", "Trauma and War", "Spiritual Longing", "The Failure of Language"],
-  "tags": ["short stories", "American literature", "Salinger", "alienation", "childhood", "Glass family", "post-war", "Zen", "New York", "20th century"],
+  "genres": [
+    "Fiction",
+    "Short Stories",
+    "American Literature",
+    "Classic Literature"
+  ],
+  "subjects": [
+    "American Literature",
+    "Post-War Fiction",
+    "Alienation",
+    "Childhood",
+    "Zen Buddhism"
+  ],
+  "themes": [
+    "Alienation and Connection",
+    "The Wisdom of Children",
+    "Trauma and War",
+    "Spiritual Longing",
+    "The Failure of Language"
+  ],
+  "tags": [
+    "short stories",
+    "American literature",
+    "Salinger",
+    "alienation",
+    "childhood",
+    "Glass family",
+    "post-war",
+    "Zen",
+    "New York",
+    "20th century"
+  ],
   "difficulty": "easy-medium",
   "estimatedReadingHours": 4,
   "estimatedListeningMinutes": 270,
-  "excerpt": "Nine perfectly crafted stories that capture the ache of post-war American life—alienation, childhood wisdom, spiritual longing, and the terrible gap between what people feel and what they can say to each other."
+  "excerpt": "Nine perfectly crafted stories that capture the ache of post-war American life—alienation, childhood wisdom, spiritual longing, and the terrible gap between what people feel and what they can say to each other.",
+  "year": 1953,
+  "addedAt": "2026-06-14",
+  "authors": [
+    "J.D. Salinger"
+  ],
+  "cover": {
+    "url": "https://covers.openstreetsearch.org/b/isbn/9780316769501-L.jpg",
+    "color": "#c4a86a"
+  },
+  "keyIdeas": [
+    "Children see truths that adults have trained themselves to ignore",
+    "Alienation is the natural condition of the sensitive person in a麻木 world",
+    "The deepest connections happen in silence, in gesture, in what is left unsaid",
+    "Spiritual longing persists even when religious institutions fail"
+  ],
+  "keyTakeaways": [
+    "Pay attention to children—they understand more than adults give them credit for",
+    "The most meaningful connections are often the briefest and most unexpected",
+    "Salinger's Glass family shows how intelligence can be a curse as well as a gift",
+    "In a world full of phonies, authenticity is the highest virtue"
+  ],
+  "whoShouldRead": [
+    "Fans of mid-20th-century American short fiction",
+    "Anyone who has ever felt alienated, misunderstood, or out of place",
+    "Readers who loved The Catcher in the Rye and want more Salinger",
+    "Writers interested in dialogue-driven storytelling and pure, uncluttered prose"
+  ],
+  "whoShouldSkip": [
+    "Readers who find Salinger's precocious children and spiritual searching pretentious",
+    "Those who prefer plot-driven stories with clear resolutions",
+    "Readers who dislike ambiguity and stories that deliberately withhold meaning"
+  ],
+  "relatedBooks": [
+    "the-catcher-in-the-rye-jd-salinger",
+    "dubliners-james-joyce",
+    "franny-and-zooey-jd-salinger"
+  ]
 }

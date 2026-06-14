@@ -8,8 +8,19 @@
   "publisher": "Portfolio",
   "language": "en",
   "format": "Hardcover",
-  "genres": ["Business", "Psychology", "Self-Help", "Personal Development"],
-  "subjects": ["Expertise", "Deliberate Practice", "Talent", "Performance", "Skill Acquisition"],
+  "genres": [
+    "Business",
+    "Psychology",
+    "Self-Help",
+    "Personal Development"
+  ],
+  "subjects": [
+    "Expertise",
+    "Deliberate Practice",
+    "Talent",
+    "Performance",
+    "Skill Acquisition"
+  ],
   "authors": [
     {
       "name": "Geoff Colvin",
@@ -19,5 +30,45 @@
   "openlibrary": "OL16790238W",
   "goodreads": 4485966,
   "rating": 3.9,
-  "ratingsCount": 80000
+  "ratingsCount": 80000,
+  "excerpt": "A rigorous dismantling of the talent myth, arguing that deliberate practice—not innate gift—is the true engine of world-class performance across every field.",
+  "tags": [
+    "deliberate practice",
+    "talent",
+    "expertise",
+    "skill acquisition",
+    "performance"
+  ],
+  "addedAt": "2026-06-10",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781591842248-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Deliberate practice, not innate talent, is what separates elite performers from everyone else",
+    "Great performance requires pushing beyond one's comfort zone with specific goals and feedback",
+    "The 'talent' we see in others is almost always the result of years of structured, purposeful effort",
+    "Anyone can achieve remarkable performance by applying the right practice methods consistently"
+  ],
+  "keyTakeaways": [
+    "Stop believing in innate talent—focus on the quality of your practice instead",
+    "Design practice sessions that target specific weaknesses with immediate feedback",
+    "Commit to thousands of hours of deliberate practice in your chosen domain",
+    "Seek coaches and mentors who can push you beyond your current capability"
+  ],
+  "whoShouldRead": [
+    "Professionals seeking to accelerate skill development in their careers",
+    "Coaches, teachers, and parents helping others develop expertise",
+    "Anyone frustrated by plateaus in their learning or performance",
+    "Leaders who want to understand what truly drives exceptional performance"
+  ],
+  "whoShouldSkip": [
+    "Readers looking for quick fixes or effortless success",
+    "Those firmly committed to the belief that talent is innate"
+  ],
+  "relatedBooks": [
+    "peak-anders-ericsson",
+    "outliers-malcolm-gladwell",
+    "the-talent-code-daniel-coyle"
+  ]
 }

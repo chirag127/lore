@@ -77,5 +77,11 @@
     "complexity-mitchell-waldrop"
   ],
   "readingTimeMinutes": 660,
-  "listeningTimeMinutes": 900
+  "listeningTimeMinutes": 900,
+  "year": 1993,
+  "excerpt": "The classic introduction to game theory that pioneered the popular genre, showing how to recognize strategic situations and respond with moves and countermoves drawn from chess, poker, business, and military history.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780393310351-L.jpg",
+    "color": "#2d2d2d"
+  }
 }

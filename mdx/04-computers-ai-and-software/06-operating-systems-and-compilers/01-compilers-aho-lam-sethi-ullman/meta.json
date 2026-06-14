@@ -114,5 +114,12 @@
       "authors": "Robert Nystrom",
       "connection": "Accessible companion for the front-end chapters; builds an actual interpreter"
     }
-  ]
+  ],
+  "authors": [
+    "Alfred V. Aho",
+    "Monica S. Lam",
+    "Ravi Sethi",
+    "Jeffrey D. Ullman"
+  ],
+  "cover": "#0d47a1"
 }

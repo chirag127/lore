@@ -1,18 +1,74 @@
 {
   "slug": "netter-atlas-human-anatomy-frank-netter",
   "title": "Netter Atlas of Human Anatomy: Classic Regional Approach",
-  "authors": ["Frank H. Netter"],
+  "authors": [
+    "Frank H. Netter"
+  ],
   "publicationYear": 2026,
   "publisher": "Elsevier",
   "isbn13": "9780443118685",
   "pages": 736,
   "language": "en",
-  "genres": ["Medical Atlas", "Anatomy Reference", "Medical Illustration"],
-  "subjects": ["Human Anatomy", "Regional Anatomy", "Clinical Anatomy", "Medical Illustration"],
-  "themes": ["Visual Learning", "Regional Approach", "Clinical Perspective", "Medical Artistry"],
-  "tags": ["anatomy", "medical illustration", "atlas", "regional anatomy", "clinical anatomy", "Netter", "reference", "dissection", "medical education"],
+  "genres": [
+    "Medical Atlas",
+    "Anatomy Reference",
+    "Medical Illustration"
+  ],
+  "subjects": [
+    "Human Anatomy",
+    "Regional Anatomy",
+    "Clinical Anatomy",
+    "Medical Illustration"
+  ],
+  "themes": [
+    "Visual Learning",
+    "Regional Approach",
+    "Clinical Perspective",
+    "Medical Artistry"
+  ],
+  "tags": [
+    "anatomy",
+    "medical illustration",
+    "atlas",
+    "regional anatomy",
+    "clinical anatomy",
+    "Netter",
+    "reference",
+    "dissection",
+    "medical education"
+  ],
   "difficulty": "medium",
   "estimatedReadingHours": 50,
   "estimatedListeningMinutes": 600,
-  "excerpt": "The world's most widely used anatomy atlas, featuring over 500 exquisite medical illustrations that emphasize clinically relevant anatomic relationships."
+  "excerpt": "The world's most widely used anatomy atlas, featuring over 500 exquisite medical illustrations that emphasize clinically relevant anatomic relationships.",
+  "addedAt": "2026-06-14T00:00:00.000Z",
+  "keyIdeas": [
+    "Over 500 meticulously hand-painted medical illustrations unmatched in clarity",
+    "Regional organization mirrors how anatomy is taught and practiced clinically",
+    "Clinical tables and surface anatomy plates bridge structure to patient care",
+    "Netter's artistic legacy — generations of physicians learned anatomy through his eyes"
+  ],
+  "keyTakeaways": [
+    "Netter's illustrations are the gold standard for anatomic visual communication",
+    "The regional approach (head/neck, back, thorax, abdomen, pelvis, limbs) maps to clinical examination",
+    "Surface anatomy plates connect deep structures to palpable landmarks",
+    "Clinical tables summarize common injuries, pathologies, and surgical approaches per region"
+  ],
+  "whoShouldRead": [
+    "Medical students in preclinical anatomy courses",
+    "Surgical residents reviewing regional anatomy before procedures",
+    "Healthcare professionals — physicians, PAs, nurses, physiotherapists",
+    "Medical illustrators and artists studying anatomic accuracy",
+    "Premed and health sciences undergraduates"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking detailed physiologic or histologic information",
+    "Those wanting a text-heavy explanatory anatomy textbook (use Gray's for Students instead)",
+    "Anyone looking for a compact pocket reference (Netter's is a large-format atlas)"
+  ],
+  "relatedBooks": [
+    "grays-anatomy-for-students-richard-drake",
+    "anatomy-and-physiology-openstax",
+    "moores-clinically-oriented-anatomy"
+  ]
 }

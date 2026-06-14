@@ -39,5 +39,49 @@
     "the-end-of-history-francis-fukuyama",
     "orientalism-edward-said"
   ],
-  "added_at": "2026-06-09"
+  "added_at": "2026-06-09",
+  "excerpt": "Argues that post-Cold War global conflict will be driven not by ideology or economics but by cultural and civilizational differences between the world's major cultural blocs.",
+  "tags": [
+    "civilizations",
+    "geopolitics",
+    "cultural-conflict",
+    "post-cold-war",
+    "international-relations"
+  ],
+  "addedAt": "2026-06-09",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781451628975-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "The primary axis of global conflict shifted from ideological to cultural after the Cold War",
+    "Eight major civilizations define the new world order, with the West facing rising challengers",
+    "Modernization does not equal Westernization — non-Western societies can modernize while preserving distinct identities",
+    "Fault line conflicts between civilizations, especially Islam-West and China-US, will define geopolitics"
+  ],
+  "keyTakeaways": [
+    "Cultural identity, not political ideology, is the primary source of post-Cold War conflict",
+    "Non-Western societies can modernize economically while reinforcing, not abandoning, their cultural identities",
+    "The West's belief in universal values is dangerous and provokes civilizational backlash",
+    "Core states anchor civilizations and rally kin-countries during fault line conflicts"
+  ],
+  "whoShouldRead": [
+    "Students of international relations and geopolitics",
+    "Foreign policy professionals and diplomats",
+    "Readers seeking to understand post-Cold War geopolitical frameworks",
+    "Those studying the relationship between culture, religion, and global conflict"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking rigorous empirical or data-driven analysis",
+    "Those uncomfortable with broad civilizational generalizations",
+    "Readers looking for detailed intra-civilizational analysis",
+    "Those seeking prescriptive policy solutions"
+  ],
+  "relatedBooks": [
+    "the-soldier-and-the-state-huntington",
+    "political-order-changing-societies-huntington",
+    "who-are-we-huntington",
+    "the-end-of-history-francis-fukuyama",
+    "orientalism-edward-said"
+  ]
 }

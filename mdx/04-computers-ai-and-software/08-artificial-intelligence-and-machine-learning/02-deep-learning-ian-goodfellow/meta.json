@@ -20,5 +20,46 @@
   ],
   "source": "generated",
   "generatedAt": "2026-01-15",
-  "slug": "02-deep-learning-ian-goodfellow"
+  "slug": "02-deep-learning-ian-goodfellow",
+  "excerpt": "The definitive textbook on deep learning — covering the mathematical foundations, neural network architectures, and practical methodologies that power modern AI.",
+  "tags": [
+    "deep-learning",
+    "neural-networks",
+    "machine-learning",
+    "artificial-intelligence",
+    "textbook"
+  ],
+  "addedAt": "2026-01-15",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/id/12648516-L.jpg",
+    "color": "#311b92"
+  },
+  "keyIdeas": [
+    "Deep feedforward networks as universal function approximators",
+    "Backpropagation and gradient-based learning",
+    "Convolutional and recurrent architectures for structured data",
+    "Representation learning and the hierarchy of features"
+  ],
+  "keyTakeaways": [
+    "Deep learning solves the representation learning problem by composing simple transformations",
+    "The backpropagation algorithm enables end-to-end learning of millions of parameters",
+    "Different architectures are suited to different data types (CNNs for images, RNNs for sequences)",
+    "Practical deep learning requires careful tuning of optimization, regularization, and hyperparameters"
+  ],
+  "whoShouldRead": [
+    "Graduate students and researchers entering deep learning",
+    "Software engineers building production ML systems",
+    "Anyone with strong math background wanting to understand modern AI",
+    "Data scientists moving from shallow to deep methods"
+  ],
+  "whoShouldSkip": [
+    "Beginners without linear algebra and calculus fundamentals",
+    "Readers looking for practical code examples and tutorials",
+    "Those seeking a survey rather than mathematical depth"
+  ],
+  "relatedBooks": [
+    "hands-on-machine-learning-geron",
+    "neural-networks-and-deep-learning-nielsen",
+    "pattern-recognition-and-machine-learning-bishop"
+  ]
 }

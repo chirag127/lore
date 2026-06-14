@@ -27,5 +27,47 @@
     "color": "#1a237e"
   },
   "description": "The definitive graduate-level textbook on measure theory, integration, and functional analysis. Royden's approach organises real analysis as a single coherent subject: measure in Part I, abstract topological and Banach/Hilbert space theory in Part II, and general measure and integration in Part III. Long the standard first-year graduate analysis text at top U.S. mathematics departments.",
-  "rationale": "Selected as the root book for real-and-complex-analysis because it has served since 1963 as the single canonical graduate analysis text at institutions including Princeton, Stanford, and Rice. Its part-structure makes it uniquely suited as an organising spine for this subcategory; every subsequent analytic text in the subcategory (Folland, Rudin R&CA, Hewitt-Stromberg) either presupposes it or directly competes with it as a foundational reference."
+  "rationale": "Selected as the root book for real-and-complex-analysis because it has served since 1963 as the single canonical graduate analysis text at institutions including Princeton, Stanford, and Rice. Its part-structure makes it uniquely suited as an organising spine for this subcategory; every subsequent analytic text in the subcategory (Folland, Rudin R&CA, Hewitt-Stromberg) either presupposes it or directly competes with it as a foundational reference.",
+  "excerpt": "The definitive graduate-level treatment of measure theory, integration, and functional analysis that defined the standard curriculum for decades.",
+  "tags": [
+    "real-analysis",
+    "measure-theory",
+    "functional-analysis",
+    "integration",
+    "graduate-mathematics",
+    "lebesgue"
+  ],
+  "addedAt": "2026-06-11",
+  "authors": [
+    "H. L. Royden",
+    "Patrick M. Fitzpatrick"
+  ],
+  "keyIdeas": [
+    "Lebesgue measure and integration as the foundation of modern real analysis",
+    "Complete abstract treatment of metric, topological, Banach, and Hilbert spaces",
+    "Dual characterization of Banach spaces via Hahn-Banach, representing a deep structural theory",
+    "Integration over abstract measure spaces with Radon-Nikodym and product measure theorems",
+    "Convergence theorems (Vitali, Egoroff, Riesz-Fischer) as the operational toolkit of analysts"
+  ],
+  "keyTakeaways": [
+    "Measure theory subsumes and extends Riemann integration, enabling uniform integrability arguments",
+    "The Hahn-Banach theorem is the single most powerful tool for constructing linear functionals",
+    "Density of C_c in L^p and the Riesz-Markov theorem characterize dual spaces concretely",
+    "Stone-Weierstrass and Tietze extension theorems reconcile topology with functional analysis",
+    "Ergodic theory emerges naturally from invariant measure theory (Bogoliubov-Krilov)"
+  ],
+  "whoShouldRead": [
+    "First-year graduate students in mathematics beginning real analysis sequences",
+    "Analysts and applied mathematicians needing authoritative measure theory reference",
+    "Physicists and engineers working with Lebesgue integration in functional settings"
+  ],
+  "whoShouldSkip": [
+    "Students seeking an intuition-first introduction to analysis (Rudin or Apostol are gentler)",
+    "Readers who need extensive worked examples — Royden is famously terse"
+  ],
+  "relatedBooks": [
+    "real-analysis-apostol-vol2",
+    "measure-theory-folland",
+    "real-complex-analysis-rudin"
+  ]
 }

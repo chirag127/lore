@@ -182,5 +182,8 @@
   ],
   "generatedBy": "KnowledgeAtlas Book Content Generation Agent",
   "generatedDate": "2026-06-09",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "authors": [
+    "Eugen Herrigel"
+  ]
 }

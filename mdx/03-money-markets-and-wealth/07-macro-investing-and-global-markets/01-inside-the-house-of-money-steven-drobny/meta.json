@@ -19,5 +19,48 @@
     "Global Macro"
   ],
   "source": "generated",
-  "generatedAt": "2026-06-10"
+  "generatedAt": "2026-06-10",
+  "excerpt": "An unprecedented collection of interviews with the world's top global macro hedge fund traders, revealing how they analyze economies, manage risk, and make billion-dollar bets on currencies, interest rates, and commodities.",
+  "tags": [
+    "global-macro",
+    "hedge-funds",
+    "interviews",
+    "currency-trading",
+    "steven-drobny",
+    "macro-investing"
+  ],
+  "addedAt": "2026-06-10",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780471794479-L.jpg",
+    "color": "#1a2a1a"
+  },
+  "keyIdeas": [
+    "Global macro traders focus on big-picture economic trends rather than individual securities",
+    "The best macro traders combine rigorous fundamental analysis with flexible, opportunistic execution",
+    "Risk management in macro trading is about position sizing and scenario analysis, not stop-losses",
+    "Macro trading requires a global perspective and the ability to synthesize information across asset classes"
+  ],
+  "keyTakeaways": [
+    "Global macro is the most intellectually demanding hedge fund strategy",
+    "Successful macro traders think in terms of regimes and scenarios, not point forecasts",
+    "The best macro managers have survived multiple crises and adapted their approaches",
+    "Macro investing requires patience — the big trades take months or years to play out"
+  ],
+  "whoShouldRead": [
+    "Aspiring global macro traders seeking insight into how professionals think",
+    "Investors and allocators looking to understand macro hedge fund strategies",
+    "Economics students wanting to see how theory translates into practice",
+    "Anyone interested in how currencies, interest rates, and commodities interact"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking equity-focused or quantitative trading strategies",
+    "Those who prefer narrative history over interview-based formats",
+    "People looking for a single unified theory of trading"
+  ],
+  "relatedBooks": [
+    "the-invisible-hands-steven-drobny",
+    "hedge-fund-market-wizards-jack-schwager",
+    "the-new-market-wizards-jack-schwager",
+    "more-money-than-god-sebastian-mallaby"
+  ]
 }

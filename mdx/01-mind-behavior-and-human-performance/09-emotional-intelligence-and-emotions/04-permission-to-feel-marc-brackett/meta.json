@@ -8,8 +8,19 @@
   "publisher": "Celadon Books",
   "language": "en",
   "pageCount": 304,
-  "genres": ["Psychology", "Education", "Self-Help", "Parenting"],
-  "subjects": ["Emotional Intelligence", "Emotion Regulation", "Education", "Parenting", "Social-Emotional Learning"],
+  "genres": [
+    "Psychology",
+    "Education",
+    "Self-Help",
+    "Parenting"
+  ],
+  "subjects": [
+    "Emotional Intelligence",
+    "Emotion Regulation",
+    "Education",
+    "Parenting",
+    "Social-Emotional Learning"
+  ],
   "themes": [
     "The RULER framework: Recognize, Understand, Label, Express, Regulate",
     "Emotional literacy as a teachable skill, not an innate trait",
@@ -18,9 +29,16 @@
     "How to create emotionally safe environments at home and school"
   ],
   "tags": [
-    "emotional-intelligence", "emotions", "marc-brackett", "ruler",
-    "social-emotional-learning", "education", "parenting",
-    "emotion-regulation", "emotional-literacy", "psychology"
+    "emotional-intelligence",
+    "emotions",
+    "marc-brackett",
+    "ruler",
+    "social-emotional-learning",
+    "education",
+    "parenting",
+    "emotion-regulation",
+    "emotional-literacy",
+    "psychology"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 7,
@@ -29,5 +47,8 @@
     "Best Book of 2019 — Greater Good Science Center",
     "Founding Director, Yale Center for Emotional Intelligence"
   ],
-  "excerpt": "Marc Brackett, founding director of the Yale Center for Emotional Intelligence, argues that the most important skill we can teach our children — and ourselves — is emotional literacy. The RULER system (Recognize, Understand, Label, Express, Regulate) is a research-based framework for developing emotional skills. Brackett shows how giving ourselves and others permission to feel transforms schools, workplaces, and families."
+  "excerpt": "Marc Brackett, founding director of the Yale Center for Emotional Intelligence, argues that the most important skill we can teach our children — and ourselves — is emotional literacy. The RULER system (Recognize, Understand, Label, Express, Regulate) is a research-based framework for developing emotional skills. Brackett shows how giving ourselves and others permission to feel transforms schools, workplaces, and families.",
+  "authors": [
+    "Marc Brackett"
+  ]
 }

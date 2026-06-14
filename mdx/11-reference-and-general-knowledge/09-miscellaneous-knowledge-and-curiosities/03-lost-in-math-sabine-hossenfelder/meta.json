@@ -3,20 +3,79 @@
   "slug": "lost-in-math-sabine-hossenfelder",
   "title": "Lost in Math: How Beauty Leads Physics Astray",
   "subtitle": null,
-  "authors": ["Sabine Hossenfelder"],
+  "authors": [
+    "Sabine Hossenfelder"
+  ],
   "year": 2018,
   "category": "Reference & General Knowledge",
   "subcategory": "Miscellaneous Knowledge and Curiosities",
   "pages": 304,
   "isbn": "9780465094257",
   "language": "en",
-  "genres": ["Popular Science", "Physics", "Philosophy of Science"],
-  "subjects": ["Physics", "Mathematics", "Philosophy of Science", "String Theory"],
-  "themes": ["Scientific Methodology", "The Role of Beauty in Science", "Falsifiability"],
-  "tags": ["physics", "mathematics", "beauty", "philosophy-of-science", "fundamental-physics", "string-theory", "science-criticism", "theoretical-physics", "Hossenfelder", "methodology"],
+  "genres": [
+    "Popular Science",
+    "Physics",
+    "Philosophy of Science"
+  ],
+  "subjects": [
+    "Physics",
+    "Mathematics",
+    "Philosophy of Science",
+    "String Theory"
+  ],
+  "themes": [
+    "Scientific Methodology",
+    "The Role of Beauty in Science",
+    "Falsifiability"
+  ],
+  "tags": [
+    "physics",
+    "mathematics",
+    "beauty",
+    "philosophy-of-science",
+    "fundamental-physics",
+    "string-theory",
+    "science-criticism",
+    "theoretical-physics",
+    "Hossenfelder",
+    "methodology"
+  ],
   "difficulty": "medium",
   "estimatedReadingHours": 7,
   "estimatedListeningMinutes": 420,
   "source": "generated",
-  "generatedAt": "2026-06-14"
+  "generatedAt": "2026-06-14",
+  "excerpt": "A provocative critique of modern fundamental physics, arguing that the field has lost its way by privileging mathematical beauty and elegance over empirical testability and experimental grounding.",
+  "addedAt": "2026-06-14",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780465094257-L.jpg",
+    "color": "#2C3E50"
+  },
+  "keyIdeas": [
+    "Fundamental physics has made no major experimental discoveries in decades despite brilliant theoretical work",
+    "The field has become too focused on mathematical beauty at the expense of empirical grounding",
+    "String theory, multiverse theories, and other unfalsifiable ideas dominate physics despite lacking evidence"
+  ],
+  "keyTakeaways": [
+    "The last major experimental discovery in fundamental physics was the Higgs boson (2012) — predicted decades earlier",
+    "String theory has produced no testable predictions in 40+ years of research",
+    "The multiverse is not a scientific theory because it cannot be tested",
+    "Physics suffers from a cultural problem: beauty is confused with truth",
+    "The field needs to reorient toward empirically testable predictions"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in the current state of fundamental physics",
+    "Science enthusiasts who want to understand the crisis in theoretical physics",
+    "Philosophers of science concerned with falsifiability and scientific methodology",
+    "Readers who enjoy provocative, contrarian takes on scientific orthodoxy"
+  ],
+  "whoShouldSkip": [
+    "True believers in string theory who cannot tolerate criticism",
+    "Readers seeking a standard introduction to modern physics",
+    "Those who prefer their science books to celebrate rather than criticize"
+  ],
+  "relatedBooks": [
+    "what-if-randall-munroe",
+    "the-disappearing-spoon-sam-kean"
+  ]
 }

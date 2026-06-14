@@ -69,5 +69,43 @@
     "Called 'one of the first and still subtlest of the Darwinian investigations of the evolution of ethics' by Daniel Dennett",
     "Foundation text for post-structuralist ethics and critical theory"
   ],
-  "excerpt": "On the Genealogy of Morality is Nietzsche's most systematic and analytically powerful work — a devastating genealogical critique that traces our moral concepts of good and evil, guilt, bad conscience, and ascetic ideals back to their historical origins in cruelty, debt, and the will to power of both the strong and the weak."
+  "excerpt": "On the Genealogy of Morality is Nietzsche's most systematic and analytically powerful work — a devastating genealogical critique that traces our moral concepts of good and evil, guilt, bad conscience, and ascetic ideals back to their historical origins in cruelty, debt, and the will to power of both the strong and the weak.",
+  "year": 1887,
+  "addedAt": "2026-06-11",
+  "authors": [
+    "Friedrich Nietzsche"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780679724629-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Master morality vs. slave morality — the two original value-creating psychologies in human history",
+    "Ressentiment as the engine of the slave revolt in morals that inverted the aristocratic value equation",
+    "Bad conscience as the internalization of cruelty when the human animal was confined by civilization",
+    "Ascetic ideals as the will to power of the weak, a strategy for making suffering meaningful"
+  ],
+  "keyTakeaways": [
+    "Moral values are historical artifacts, not transcendental truths — they emerge from concrete power struggles",
+    "The concept of 'good' originally meant 'noble, powerful, strong,' not 'selfless' or 'altruistic'",
+    "Guilt began as a debt relation, not a moral category; punishment preceded any concept of moral desert",
+    "The ascetic priest is a paradoxical figure who uses self-denial as a technique of power",
+    "Genealogical critique exposes how Christian morality triumphed through psychological subversion, not argument"
+  ],
+  "whoShouldRead": [
+    "Philosophers and students of moral philosophy seeking the most radical critique of Western ethics",
+    "Readers of Foucault, Deleuze, and Derrida who want to understand genealogy at its source",
+    "Psychologists and psychoanalysts interested in the pre-Freudian exploration of guilt and conscience",
+    "Anyone troubled by the foundations of their moral beliefs who wants to see them questioned at the root"
+  ],
+  "whoShouldSkip": [
+    "Absolute beginners to philosophy — start with The Gay Science or a secondary introduction first",
+    "Readers seeking practical ethical guidance or a constructive moral system",
+    "Those easily offended by radical critiques of Christianity, compassion, and egalitarian values"
+  ],
+  "relatedBooks": [
+    "beyond-good-and-evil-friedrich-nietzsche",
+    "thus-spoke-zarathustra-friedrich-nietzsche",
+    "the-anti-christ-friedrich-nietzsche"
+  ]
 }

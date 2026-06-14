@@ -62,5 +62,42 @@
     "Chosen as a Scientific American recommended book",
     "Featured in The Guardian: 'They accomplish the wondrous task of clarifying the argumentative outline of Kurt Gödel's celebrated logic bomb.'"
   ],
-  "excerpt": "The classic layperson's guide to Gödel's incompleteness theorems. Nagel and Newman demystify one of the most celebrated and misunderstood results of 20th-century mathematics — Gödel's proof that any sufficiently powerful formal system is either incomplete or inconsistent — using clear historical exposition and a step-by-step walkthrough of Gödel's breathtaking self-referential construction."
+  "excerpt": "The classic layperson's guide to Gödel's incompleteness theorems. Nagel and Newman demystify one of the most celebrated and misunderstood results of 20th-century mathematics — Gödel's proof that any sufficiently powerful formal system is either incomplete or inconsistent — using clear historical exposition and a step-by-step walkthrough of Gödel's breathtaking self-referential construction.",
+  "year": 1958,
+  "addedAt": "2026-06-11",
+  "authors": [
+    "Ernest Nagel",
+    "James R. Newman"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780814758373-L.jpg",
+    "color": "#0d47a1"
+  },
+  "keyIdeas": [
+    "Formal axiomatic systems can be mapped onto themselves through Gödel numbering, allowing statements about the system to become statements within the system.",
+    "For any consistent formal system powerful enough to express arithmetic, there exist true statements that cannot be proved within that system — the system is essentially incomplete.",
+    "No such system can prove its own consistency — the second incompleteness theorem destroys Hilbert's program of finding an absolute consistency proof.",
+    "The distinction between mathematics (manipulating symbols) and meta-mathematics (reasoning about those manipulations) is fundamental to understanding the proof."
+  ],
+  "keyTakeaways": [
+    "Gödel's theorems impose absolute limits on what can be achieved by formal axiomatic methods in mathematics.",
+    "The proof rests on a breathtaking self-referential construction: a formula that says of itself 'This formula is not provable.'",
+    "The implications extend beyond mathematics to computer science, philosophy, and our understanding of mind and machine.",
+    "Nagel and Newman demonstrated that profoundly technical results can be made accessible without sacrificing intellectual honesty."
+  ],
+  "whoShouldRead": [
+    "Mathematics and computer science students seeking an intuitive grasp of incompleteness before tackling the technical literature.",
+    "Philosophers and lay readers fascinated by the limits of formal reasoning and the foundations of mathematics.",
+    "Readers of Gödel, Escher, Bach who want a more direct, concise treatment of the core proof.",
+    "Anyone curious about why the dream of a complete, consistent foundation for all mathematics is impossible."
+  ],
+  "whoShouldSkip": [
+    "Professional logicians needing the full formal derivation — this is an informal overview, not a rigorous proof.",
+    "Readers seeking practical applications in software engineering — the value is conceptual, not immediately applicable.",
+    "Those unwilling to engage with symbolic notation and abstract reasoning — the book demands focused attention."
+  ],
+  "relatedBooks": [
+    "gebs-douglas-hofstadter",
+    "the-little-schemer-daniel-friedman"
+  ]
 }

@@ -6,12 +6,77 @@
   "isbn": "9780375842207",
   "publisher": "Knopf",
   "language": "en",
-  "genres": ["Fiction", "Historical Fiction", "Young Adult", "War Literature"],
-  "subjects": ["Holocaust", "World War II", "Germany", "Books and Reading", "Death"],
-  "themes": ["Power of Words", "Childhood in War", "Ordinary Evil", "Resistance and Complicity", "Love and Loss"],
-  "tags": ["historical fiction", "WWII", "Holocaust", "books", "death narration", "Germany", "young adult", "war", "survival", "Nazi Germany"],
+  "genres": [
+    "Fiction",
+    "Historical Fiction",
+    "Young Adult",
+    "War Literature"
+  ],
+  "subjects": [
+    "Holocaust",
+    "World War II",
+    "Germany",
+    "Books and Reading",
+    "Death"
+  ],
+  "themes": [
+    "Power of Words",
+    "Childhood in War",
+    "Ordinary Evil",
+    "Resistance and Complicity",
+    "Love and Loss"
+  ],
+  "tags": [
+    "historical fiction",
+    "WWII",
+    "Holocaust",
+    "books",
+    "death narration",
+    "Germany",
+    "young adult",
+    "war",
+    "survival",
+    "Nazi Germany"
+  ],
   "difficulty": "easy",
   "estimatedReadingHours": 9,
   "estimatedListeningMinutes": 600,
-  "excerpt": "Narrated by Death itself, this is the story of a young German girl named Liesel Meminger who steals books during the Holocaust—and in doing so, discovers the power of words to sustain hope in the darkest of times."
+  "excerpt": "Narrated by Death itself, this is the story of a young German girl named Liesel Meminger who steals books during the Holocaust—and in doing so, discovers the power of words to sustain hope in the darkest of times.",
+  "year": 2005,
+  "addedAt": "2026-06-14",
+  "authors": [
+    "Markus Zusak"
+  ],
+  "cover": {
+    "url": "https://covers.openstreetsearch.org/b/isbn/9780375842207-L.jpg",
+    "color": "#1a1a1a"
+  },
+  "keyIdeas": [
+    "Words and stories have the power to save lives—and also to destroy them",
+    "Humanity persists even in the heart of the most inhumane regime",
+    "Childhood innocence offers a perspective that cuts through ideological darkness",
+    "Death is weary, not malevolent—a witness to human cruelty and kindness alike"
+  ],
+  "keyTakeaways": [
+    "Storytelling is an act of resistance against oppression",
+    "Small acts of kindness matter immensely in times of atrocity",
+    "Language can be used for propaganda or liberation—the choice is ours",
+    "The bonds of love and friendship survive even the worst circumstances"
+  ],
+  "whoShouldRead": [
+    "Young adult and adult readers who want a new perspective on WWII",
+    "Anyone who loves books about the power of books and reading",
+    "Teachers and students looking for accessible Holocaust literature",
+    "Readers who appreciate unconventional narrators and poetic prose"
+  ],
+  "whoShouldSkip": [
+    "Readers who prefer realistic, understated prose to lyrical style",
+    "Those who find the Death narrator gimmicky or distracting",
+    "Readers seeking a traditional historical novel without metafictional elements"
+  ],
+  "relatedBooks": [
+    "night-eli-wiesel",
+    "the-diary-of-a-young-girl-anne-frank",
+    "the-kite-runner-khaled-hosseini"
+  ]
 }

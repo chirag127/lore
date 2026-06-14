@@ -77,5 +77,11 @@
     "modeling-the-environment-andrew-ford"
   ],
   "readingTimeMinutes": 720,
-  "listeningTimeMinutes": 960
+  "listeningTimeMinutes": 960,
+  "year": 2017,
+  "excerpt": "A grand unified theory of scaling — why life, cities, and companies all follow universal mathematical laws that govern their growth, metabolism, and death, from the smallest cell to the largest corporation.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781594205588-L.jpg",
+    "color": "#00695c"
+  }
 }

@@ -17,5 +17,45 @@
     "Literary Theory"
   ],
   "source": "generated",
-  "generatedAt": "2026-06-09"
+  "generatedAt": "2026-06-09",
+  "excerpt": "A concise and lucid introduction to Marxist literary criticism, covering the relationship between literature and social history, the question of authorial commitment, and the debates between Marxist critics and formalists.",
+  "tags": [
+    "marxist-criticism",
+    "literary-theory",
+    "terry-eagleton",
+    "base-and-superstructure",
+    "ideology",
+    "literature-and-politics"
+  ],
+  "addedAt": "2026-06-09",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780520032439-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Literature is part of the superstructure determined by the economic base",
+    "Literary form is ideological — shaped by and shaping the social relations of production",
+    "The writer is both a producer and a product of history",
+    "The relationship between base and superstructure is mediated, not mechanical",
+    "Marxist criticism must attend to the specific formal properties of literary works"
+  ],
+  "keyTakeaways": [
+    "Marxist criticism analyzes the relationship between literary texts and their material historical conditions",
+    "Literature and ideology are mutually constitutive — literature can both reinforce and challenge dominant ideologies",
+    "The concept of 'authorial commitment' is more complex than simply writing political propaganda",
+    "Marxist and formalist approaches are not necessarily incompatible"
+  ],
+  "whoShouldRead": [
+    "Students of literary theory seeking an introduction to Marxist criticism",
+    "Scholars interested in the relationship between literature and politics",
+    "Readers of Eagleton's Literary Theory who want to explore his Marxist framework in depth"
+  ],
+  "whoShouldSkip": [
+    "Those already well-versed in Marxist literary theory — this is an introductory text",
+    "Readers resistant to any form of politically engaged criticism"
+  ],
+  "relatedBooks": [
+    "literary-theory-an-introduction",
+    "the-function-of-criticism-terry-eagleton"
+  ]
 }

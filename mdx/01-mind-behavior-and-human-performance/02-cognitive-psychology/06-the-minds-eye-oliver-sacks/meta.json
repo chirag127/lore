@@ -6,12 +6,77 @@
   "isbn": "9780307272089",
   "publisher": "Knopf",
   "language": "en",
-  "genres": ["Neuroscience", "Psychology", "Science", "Biography"],
-  "subjects": ["Neuroscience", "Perception", "Vision", "Brain Adaptation", "Neuroplasticity", "Clinical Case Studies"],
-  "themes": ["Visual Perception and the Brain", "Compensatory Adaptation", "The Nature of Visual Imagery", "Face Blindness (Prosopagnosia)", "Neuroplasticity in Sensory Loss"],
-  "tags": ["neuroscience", "brain", "vision", "perception", "neuroplasticity", "sacks", "case-studies", "neurology", "adaptation", "prosopagnosia"],
+  "genres": [
+    "Neuroscience",
+    "Psychology",
+    "Science",
+    "Biography"
+  ],
+  "subjects": [
+    "Neuroscience",
+    "Perception",
+    "Vision",
+    "Brain Adaptation",
+    "Neuroplasticity",
+    "Clinical Case Studies"
+  ],
+  "themes": [
+    "Visual Perception and the Brain",
+    "Compensatory Adaptation",
+    "The Nature of Visual Imagery",
+    "Face Blindness (Prosopagnosia)",
+    "Neuroplasticity in Sensory Loss"
+  ],
+  "tags": [
+    "neuroscience",
+    "brain",
+    "vision",
+    "perception",
+    "neuroplasticity",
+    "sacks",
+    "case-studies",
+    "neurology",
+    "adaptation",
+    "prosopagnosia"
+  ],
   "difficulty": "easy",
   "estimatedReadingHours": 7,
   "estimatedListeningMinutes": 420,
-  "excerpt": "Oliver Sacks turns his attention to how we perceive the visual world—exploring cases of people who lose the ability to read, recognize faces, or see in three dimensions, and how the brain's extraordinary plasticity allows them to adapt and find new ways of seeing."
+  "excerpt": "Oliver Sacks turns his attention to how we perceive the visual world—exploring cases of people who lose the ability to read, recognize faces, or see in three dimensions, and how the brain's extraordinary plasticity allows them to adapt and find new ways of seeing.",
+  "year": 2010,
+  "addedAt": "2026-06-14",
+  "authors": [
+    "Oliver Sacks"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780307272089-L.jpg",
+    "color": "#2c3e50"
+  },
+  "keyIdeas": [
+    "Visual perception is an active, constructive process, not passive reception",
+    "The brain can adapt remarkably when one sensory system is damaged",
+    "Visual imagery and visual perception use overlapping neural circuits",
+    "Face blindness (prosopagnosia) reveals how specialized facial recognition is"
+  ],
+  "keyTakeaways": [
+    "The brain's plasticity allows remarkable adaptations to sensory loss",
+    "Our experience of the visual world is a construction, not a recording",
+    "Neurological conditions reveal the normal functioning of the brain",
+    "There are many ways to 'see'—vision is not the only path to visual understanding"
+  ],
+  "whoShouldRead": [
+    "Fans of Oliver Sacks's neurological case studies",
+    "Anyone interested in visual perception and the brain",
+    "Artists and designers who work with visual media",
+    "People experiencing or caring for someone with visual impairment"
+  ],
+  "whoShouldSkip": [
+    "Readers looking for practical advice or systematic frameworks",
+    "Those who prefer structured argument to clinical narratives"
+  ],
+  "relatedBooks": [
+    "phantoms-in-the-brain-vs-ramachandran",
+    "incognito-david-eagleman",
+    "the-invisible-gorilla-christopher-chabris"
+  ]
 }

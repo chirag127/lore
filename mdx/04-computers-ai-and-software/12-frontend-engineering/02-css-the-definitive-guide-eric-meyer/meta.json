@@ -8,8 +8,20 @@
   "publisher": "O'Reilly Media",
   "language": "en",
   "pageCount": 1100,
-  "genres": ["Technology", "Web Design", "Frontend", "Reference"],
-  "subjects": ["CSS", "Web Design", "Layout", "Responsive Design", "Typography", "Frontend Development"],
+  "genres": [
+    "Technology",
+    "Web Design",
+    "Frontend",
+    "Reference"
+  ],
+  "subjects": [
+    "CSS",
+    "Web Design",
+    "Layout",
+    "Responsive Design",
+    "Typography",
+    "Frontend Development"
+  ],
   "themes": [
     "The cascade algorithm and specificity",
     "Box model fundamentals",
@@ -18,11 +30,58 @@
     "CSS Custom Properties and modern features"
   ],
   "tags": [
-    "css", "frontend", "web-design", "layout", "responsive-design",
-    "flexbox", "css-grid", "typography", "eric-meyer", "oreilly",
-    "the-cascade", "box-model", "custom-properties"
+    "css",
+    "frontend",
+    "web-design",
+    "layout",
+    "responsive-design",
+    "flexbox",
+    "css-grid",
+    "typography",
+    "eric-meyer",
+    "oreilly",
+    "the-cascade",
+    "box-model",
+    "custom-properties"
   ],
   "difficulty": "medium",
   "estimatedReadingHours": 20,
-  "estimatedListeningMinutes": 1200
+  "estimatedListeningMinutes": 1200,
+  "year": 2023,
+  "excerpt": "The authoritative reference on Cascading Style Sheets — covering selectors, inheritance, box model, layout, typography, transitions, and modern CSS features like Grid and Custom Properties.",
+  "addedAt": "2026-01-15",
+  "authors": [
+    "Eric Meyer"
+  ],
+  "cover": {
+    "url": "/books/css-the-definitive-guide-eric-meyer/cover.webp",
+    "color": "#e65100"
+  },
+  "keyIdeas": [
+    "CSS visual formatting model and box model fundamentals",
+    "Selectors, specificity, and the cascade algorithm",
+    "Flexbox and Grid layout systems",
+    "Responsive design with media queries and container queries",
+    "CSS Custom Properties and Houdini APIs"
+  ],
+  "keyTakeaways": [
+    "CSS is a powerful, complex language — respect its learning curve",
+    "Understanding the cascade and specificity prevents countless bugs",
+    "Modern CSS (Grid, Custom Properties, Container Queries) replaces most preprocessors"
+  ],
+  "whoShouldRead": [
+    "Frontend developers of all skill levels",
+    "Web designers wanting to understand CSS internals",
+    "Full-stack developers styling their own projects",
+    "Anyone maintaining production CSS at scale"
+  ],
+  "whoShouldSkip": [
+    "Complete programming beginners — learn HTML basics first",
+    "Those seeking a quick tutorial — this is a comprehensive reference",
+    "Backend-only developers who never touch the frontend"
+  ],
+  "relatedBooks": [
+    "01-learning-react-alex-banks",
+    "03-javascript-the-good-parts-douglas-crockford"
+  ]
 }

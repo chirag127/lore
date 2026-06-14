@@ -8,8 +8,20 @@
   "publisher": "Harper Business",
   "language": "en",
   "format": "Hardcover",
-  "genres": ["Self-Help", "Education", "Business", "Psychology", "Personal Development"],
-  "subjects": ["Self-Education", "Skill Acquisition", "Rapid Learning", "Career Development", "Expertise"],
+  "genres": [
+    "Self-Help",
+    "Education",
+    "Business",
+    "Psychology",
+    "Personal Development"
+  ],
+  "subjects": [
+    "Self-Education",
+    "Skill Acquisition",
+    "Rapid Learning",
+    "Career Development",
+    "Expertise"
+  ],
   "authors": [
     {
       "name": "Scott H. Young",
@@ -19,5 +31,45 @@
   "openlibrary": "OL26961202M",
   "goodreads": 43162333,
   "rating": 4.0,
-  "ratingsCount": 50000
+  "ratingsCount": 50000,
+  "excerpt": "A comprehensive framework for aggressive, self-directed learning that shows how to master hard skills quickly through nine principles of ultralearning.",
+  "tags": [
+    "ultralearning",
+    "self-directed learning",
+    "skill acquisition",
+    "rapid learning",
+    "career development"
+  ],
+  "addedAt": "2026-06-10",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780062852687-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Ultralearning is a intense, self-directed strategy for acquiring skills and knowledge quickly",
+    "Metalearning: spend 10% of your time figuring out how to learn before you start",
+    "Directness: learn by doing the thing you want to become good at, not by studying about it",
+    "Drill the weakest points: identify and isolate your performance bottlenecks"
+  ],
+  "keyTakeaways": [
+    "Map your learning project before starting—what to learn, how to learn it, and what resources to use",
+    "Practice the skill directly rather than consuming passive instruction",
+    "Get immediate feedback on your performance and use it to correct course",
+    "Push past the frustration barrier—deep learning requires sustained discomfort"
+  ],
+  "whoShouldRead": [
+    "Career changers needing to acquire new skills rapidly",
+    "Self-taught learners who want a systematic framework for their projects",
+    "Professionals in fast-changing industries where continuous learning is essential",
+    "Anyone inspired by stories of people who achieved extraordinary learning feats"
+  ],
+  "whoShouldSkip": [
+    "Those looking for a relaxed, low-effort approach to learning",
+    "Readers who prefer structured classroom environments to self-directed projects"
+  ],
+  "relatedBooks": [
+    "the-first-20-hours-josh-kaufman",
+    "peak-anders-ericsson",
+    "the-art-of-learning-josh-waitzkin"
+  ]
 }

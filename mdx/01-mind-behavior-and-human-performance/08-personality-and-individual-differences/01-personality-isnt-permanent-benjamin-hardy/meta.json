@@ -8,8 +8,18 @@
   "publisher": "Portfolio",
   "language": "en",
   "pageCount": 256,
-  "genres": ["Psychology", "Self-Help", "Personal Development"],
-  "subjects": ["Personality Change", "Identity", "Personal Transformation", "Self-Concept", "Growth Mindset"],
+  "genres": [
+    "Psychology",
+    "Self-Help",
+    "Personal Development"
+  ],
+  "subjects": [
+    "Personality Change",
+    "Identity",
+    "Personal Transformation",
+    "Self-Concept",
+    "Growth Mindset"
+  ],
   "themes": [
     "Personality is not fixed — it changes across the lifespan",
     "Labels and diagnoses can become self-fulfilling prophecies",
@@ -18,9 +28,16 @@
     "Intentional transformation requires new environments, not just new habits"
   ],
   "tags": [
-    "personality", "change", "identity", "benjamin-hardy",
-    "transformation", "self-concept", "growth-mindset",
-    "psychology", "personal-development", "narrative-identity"
+    "personality",
+    "change",
+    "identity",
+    "benjamin-hardy",
+    "transformation",
+    "self-concept",
+    "growth-mindset",
+    "psychology",
+    "personal-development",
+    "narrative-identity"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 6,
@@ -28,5 +45,8 @@
   "awards": [
     "Wall Street Journal Bestseller"
   ],
-  "excerpt": "What if the personality you think is 'just who you are' is actually a story you've been telling yourself? Benjamin Hardy, a PhD in organizational psychology, argues that personality is not a fixed trait but a dynamic pattern that can be intentionally redesigned. Drawing on narrative identity theory, growth mindset research, and his own personal transformation, Hardy provides a framework for breaking free from self-limiting beliefs and becoming the person you want to be."
+  "excerpt": "What if the personality you think is 'just who you are' is actually a story you've been telling yourself? Benjamin Hardy, a PhD in organizational psychology, argues that personality is not a fixed trait but a dynamic pattern that can be intentionally redesigned. Drawing on narrative identity theory, growth mindset research, and his own personal transformation, Hardy provides a framework for breaking free from self-limiting beliefs and becoming the person you want to be.",
+  "authors": [
+    "Benjamin Hardy"
+  ]
 }

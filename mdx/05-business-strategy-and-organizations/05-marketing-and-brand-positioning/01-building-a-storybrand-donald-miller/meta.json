@@ -133,5 +133,9 @@
       "label": "Narration",
       "description": "Narrative book review and audiobook-style walkthrough"
     }
-  }
+  },
+  "year": "2017",
+  "authors": [
+    "Donald Miller"
+  ]
 }

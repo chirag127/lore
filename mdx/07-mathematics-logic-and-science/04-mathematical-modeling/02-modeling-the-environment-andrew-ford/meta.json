@@ -71,5 +71,11 @@
     "sync-steven-strogatz"
   ],
   "readingTimeMinutes": 720,
-  "listeningTimeMinutes": 960
+  "listeningTimeMinutes": 960,
+  "year": 2009,
+  "excerpt": "A comprehensive introduction to system dynamics modeling for environmental systems, teaching how to build simulation models of climate, energy, water, and ecological systems using feedback loops, stocks and flows, and policy analysis.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781597260532-L.jpg",
+    "color": "#2e7d32"
+  }
 }

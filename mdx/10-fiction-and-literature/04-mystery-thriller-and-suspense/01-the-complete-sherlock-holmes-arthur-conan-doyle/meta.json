@@ -31,5 +31,8 @@
   "setting": "Victorian and Edwardian London",
   "protagonist": "Sherlock Holmes",
   "narrator": "Dr. John H. Watson",
-  "rationale": "The Complete Sherlock Holmes is the foundational text of modern crime fiction, establishing virtually every convention of the detective genre: the brilliant consulting detective, the loyal sidekick-narrator, forensic deduction, the locked-room puzzle, the arch-villain, and the serialized story format. No single work is more essential to understanding the mystery and crime fiction category."
+  "rationale": "The Complete Sherlock Holmes is the foundational text of modern crime fiction, establishing virtually every convention of the detective genre: the brilliant consulting detective, the loyal sidekick-narrator, forensic deduction, the locked-room puzzle, the arch-villain, and the serialized story format. No single work is more essential to understanding the mystery and crime fiction category.",
+  "authors": [
+    "Sir Arthur Conan Doyle"
+  ]
 }

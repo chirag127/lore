@@ -6,12 +6,75 @@
   "isbn": "9781494882273",
   "publisher": "CreateSpace",
   "language": "en",
-  "genres": ["Self-Help", "Psychology", "Productivity"],
-  "subjects": ["Habit Formation", "Behavior Change", "Self-Discipline", "Motivation", "Productivity"],
-  "themes": ["The Mini Habit Concept", "Willpower vs Motivation", "The One-Push Rule", "Cognitive Restructuring of Self-Efficacy", "The Power of Small Wins"],
-  "tags": ["habits", "mini-habits", "behavior-change", "self-discipline", "motivation", "willpower", "stephen-guise", "productivity", "small-steps", "goal-setting"],
+  "genres": [
+    "Self-Help",
+    "Psychology",
+    "Productivity"
+  ],
+  "subjects": [
+    "Habit Formation",
+    "Behavior Change",
+    "Self-Discipline",
+    "Motivation",
+    "Productivity"
+  ],
+  "themes": [
+    "The Mini Habit Concept",
+    "Willpower vs Motivation",
+    "The One-Push Rule",
+    "Cognitive Restructuring of Self-Efficacy",
+    "The Power of Small Wins"
+  ],
+  "tags": [
+    "habits",
+    "mini-habits",
+    "behavior-change",
+    "self-discipline",
+    "motivation",
+    "willpower",
+    "stephen-guise",
+    "productivity",
+    "small-steps",
+    "goal-setting"
+  ],
   "difficulty": "easy",
   "estimatedReadingHours": 4,
   "estimatedListeningMinutes": 240,
-  "excerpt": "What if the secret to building lasting habits was to make them so small they feel almost ridiculous? Stephen Guise shows that by reducing habits to their minimum viable version—one push-up, one page, one minute—you bypass willpower depletion and let momentum do the work."
+  "excerpt": "What if the secret to building lasting habits was to make them so small they feel almost ridiculous? Stephen Guise shows that by reducing habits to their minimum viable version—one push-up, one page, one minute—you bypass willpower depletion and let momentum do the work.",
+  "year": 2013,
+  "addedAt": "2026-06-14",
+  "authors": [
+    "Stephen Guise"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781494882273-L.jpg",
+    "color": "#e67e22"
+  },
+  "keyIdeas": [
+    "Willpower is limited but can be bypassed by making habits absurdly small",
+    "The 'one push-up' principle: a habit so easy you can't say no",
+    "Small daily wins create momentum that leads to bigger results",
+    "Motivation is unreliable; mini habits work even when motivation is zero"
+  ],
+  "keyTakeaways": [
+    "Reduce any habit to its 'stupid small' version (one push-up, one page, one minute)",
+    "Focus on consistency over intensity",
+    "Use the 'one push' rule: do one rep, then you're free to stop",
+    "Celebrate small wins to build self-efficacy"
+  ],
+  "whoShouldRead": [
+    "People who struggle to maintain habits despite good intentions",
+    "Anyone who finds Atomic Habits or Tiny Habits still too demanding",
+    "Those who believe they lack willpower or discipline",
+    "Readers looking for the simplest possible habit system"
+  ],
+  "whoShouldSkip": [
+    "People who already have strong habit systems",
+    "Those who want deep scientific analysis rather than practical techniques"
+  ],
+  "relatedBooks": [
+    "atomic-habits-james-clear",
+    "tiny-habits-bj-fogg",
+    "the-power-of-habit-charles-duhigg"
+  ]
 }

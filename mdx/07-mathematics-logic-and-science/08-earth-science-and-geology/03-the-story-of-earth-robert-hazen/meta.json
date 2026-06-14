@@ -3,20 +3,81 @@
   "slug": "the-story-of-earth-robert-hazen",
   "title": "The Story of Earth",
   "subtitle": "How Life and Rocks Co-Evolved",
-  "authors": ["Robert M. Hazen"],
+  "authors": [
+    "Robert M. Hazen"
+  ],
   "year": 2012,
   "category": "Mathematics, Logic & Science",
   "subcategory": "Earth Science and Geology",
   "pages": 288,
   "isbn": "9780143123644",
   "language": "en",
-  "genres": ["Science", "Geology", "Earth Science", "Nonfiction", "Popular Science"],
-  "subjects": ["Earth History", "Geology", "Co-Evolution", "Mineralogy", "Origin of Life"],
-  "themes": ["Life and Geology", "Planetary Evolution", "Complexity and Co-Evolution"],
-  "tags": ["earth-science", "geology", "co-evolution", "robert-hazen", "origins-of-life", "mineralogy", "biogeology", "earth-history", "popular-science"],
+  "genres": [
+    "Science",
+    "Geology",
+    "Earth Science",
+    "Nonfiction",
+    "Popular Science"
+  ],
+  "subjects": [
+    "Earth History",
+    "Geology",
+    "Co-Evolution",
+    "Mineralogy",
+    "Origin of Life"
+  ],
+  "themes": [
+    "Life and Geology",
+    "Planetary Evolution",
+    "Complexity and Co-Evolution"
+  ],
+  "tags": [
+    "earth-science",
+    "geology",
+    "co-evolution",
+    "robert-hazen",
+    "origins-of-life",
+    "mineralogy",
+    "biogeology",
+    "earth-history",
+    "popular-science"
+  ],
   "difficulty": "easy-medium",
   "estimatedReadingHours": 7,
   "estimatedListeningMinutes": 420,
   "source": "generated",
-  "generatedAt": "2026-06-14"
+  "generatedAt": "2026-06-14",
+  "excerpt": "Robert Hazen's groundbreaking account of how life and Earth have co-evolved over 4.5 billion years, revealing the surprising thesis that life played an active role in shaping the planet's geology.",
+  "addedAt": "2026-06-14",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780143123644-L.jpg",
+    "color": "#2E4A2E"
+  },
+  "keyIdeas": [
+    "Earth and life co-evolved — life is not a passive passenger but an active geological force",
+    "The mineral kingdom expanded dramatically as life introduced new chemical processes",
+    "Earth's history is a story of increasing complexity, driven by the interaction of life and geology"
+  ],
+  "keyTakeaways": [
+    "There were only about 250 minerals on the early Earth; now there are over 4,900, most of which are biological in origin",
+    "The oxygenation of the atmosphere by photosynthesis was the single greatest geological event since the planet's formation",
+    "Plate tectonics may be essential for life, recycling nutrients and regulating temperature",
+    "Life has transformed Earth's surface more than any purely geological process",
+    "Earth's story is one of increasing chemical complexity driven by living systems"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in Earth's history and the origins of life",
+    "Geology enthusiasts wanting a fresh, biology-informed perspective",
+    "Readers who enjoyed Sapiens or The Sixth Extinction for the big-picture approach",
+    "Science lovers who want to understand how life and geology interact"
+  ],
+  "whoShouldSkip": [
+    "Those wanting a traditional rocks-and-minerals geology textbook",
+    "Readers seeking detailed technical information about specific geological processes",
+    "People who prefer straightforward chronology to thematic exploration"
+  ],
+  "relatedBooks": [
+    "geology-and-tectonic-theory-book",
+    "oceanography-and-marine-science-book"
+  ]
 }

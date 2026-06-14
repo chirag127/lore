@@ -18,5 +18,45 @@
     "Memoir"
   ],
   "source": "generated",
-  "generatedAt": "2026-06-09"
+  "generatedAt": "2026-06-09",
+  "excerpt": "A botanist and member of the Citizen Potawatomi Nation braids together Indigenous wisdom, scientific knowledge, and personal story to reveal the gifts of the natural world.",
+  "tags": [
+    "indigenous-knowledge",
+    "botany",
+    "ecology",
+    "sweetgrass",
+    "reciprocity"
+  ],
+  "addedAt": "2026-06-09",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781571313355-L.jpg",
+    "color": "#3a5a2e"
+  },
+  "keyIdeas": [
+    "Indigenous knowledge and Western science are complementary ways of understanding the natural world",
+    "Plants are not resources but teachers, relatives, and gift-givers",
+    "Reciprocity - giving back to the land that sustains us - is the foundation of ecological ethics",
+    "Gratitude and attention are the first steps toward healing our relationship with nature"
+  ],
+  "keyTakeaways": [
+    "Sweetgrass grows stronger when harvested - a demonstration of reciprocity in action",
+    "The Three Sisters (corn, beans, squash) model a sustainable system of mutual support",
+    "Language shapes perception - the Potawatomi language's verb-based worldview sees the world as alive and active",
+    "Restoring ecological health requires restoring Indigenous relationships to land"
+  ],
+  "whoShouldRead": [
+    "Anyone feeling despair about the environmental crisis",
+    "Students of botany, ecology, and environmental studies",
+    "Indigenous and non-Indigenous readers seeking cultural reconciliation",
+    "Fans of poetic, reflective nature writing"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a technical botanical textbook",
+    "Those uncomfortable with Indigenous spiritual perspectives in a science context"
+  ],
+  "relatedBooks": [
+    "silent-spring-rachel-carson",
+    "a-sand-county-almanac-aldo-leopold",
+    "pilgrim-at-tinker-creek-annie-dillard"
+  ]
 }

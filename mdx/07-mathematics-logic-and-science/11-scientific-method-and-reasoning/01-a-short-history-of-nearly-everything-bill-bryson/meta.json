@@ -65,5 +65,19 @@
       "title": "The Selfish Gene",
       "slug": "the-selfish-gene-richard-dawkins"
     }
+  ],
+  "year": 2003,
+  "excerpt": "Bill Bryson's bestselling popular science tour from the Big Bang to the dawn of civilization, weaving together cosmology, geology, physics, and biology with humor and a storyteller's instinct for the human drama behind every discovery.",
+  "authors": [
+    "Bill Bryson"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780767908184-L.jpg",
+    "color": "#002147"
+  },
+  "whoShouldSkip": [
+    "Professional scientists seeking original research or deep technical treatment",
+    "Readers who want dense, rigorous argumentation rather than narrative synthesis",
+    "Those already deeply immersed in the pop-science canon who find the material familiar"
   ]
 }

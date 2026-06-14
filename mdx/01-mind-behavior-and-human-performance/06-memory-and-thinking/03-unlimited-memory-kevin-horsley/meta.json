@@ -8,8 +8,19 @@
   "publisher": "CreateSpace",
   "language": "en",
   "pageCount": 168,
-  "genres": ["Self-Help", "Psychology", "Memory", "Productivity"],
-  "subjects": ["Memory Improvement", "Speed Learning", "Concentration", "Mnemonics", "Productivity"],
+  "genres": [
+    "Self-Help",
+    "Psychology",
+    "Memory",
+    "Productivity"
+  ],
+  "subjects": [
+    "Memory Improvement",
+    "Speed Learning",
+    "Concentration",
+    "Mnemonics",
+    "Productivity"
+  ],
   "themes": [
     "Concentration as the foundation of memory",
     "Visualization and creative association techniques",
@@ -18,9 +29,16 @@
     "Speed reading and accelerated learning integration"
   ],
   "tags": [
-    "memory", "speed-learning", "concentration", "kevin-horsley",
-    "visualization", "pegging", "link-method", "mnemonics",
-    "brain-training", "productivity"
+    "memory",
+    "speed-learning",
+    "concentration",
+    "kevin-horsley",
+    "visualization",
+    "pegging",
+    "link-method",
+    "mnemonics",
+    "brain-training",
+    "productivity"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 4,
@@ -29,5 +47,8 @@
     "World Memory Championship bronze medalist",
     "Grandmaster of Memory"
   ],
-  "excerpt": "World Memory Championship medalist Kevin Horsley reveals the memory techniques that enable him to memorize 50,000 digits of pi, a deck of cards in under 30 seconds, and hundreds of random words in order. This compact book focuses on the core skills — concentration, visualization, and association — that power all memory feats, with practical applications for learning, productivity, and daily life."
+  "excerpt": "World Memory Championship medalist Kevin Horsley reveals the memory techniques that enable him to memorize 50,000 digits of pi, a deck of cards in under 30 seconds, and hundreds of random words in order. This compact book focuses on the core skills — concentration, visualization, and association — that power all memory feats, with practical applications for learning, productivity, and daily life.",
+  "authors": [
+    "Kevin Horsley"
+  ]
 }

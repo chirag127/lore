@@ -8,8 +8,19 @@
   "publisher": "Harmony Books",
   "language": "en",
   "pageCount": 304,
-  "genres": ["Psychology", "Self-Help", "Relationships", "Family"],
-  "subjects": ["Marriage", "Relationships", "Communication", "Conflict Resolution", "Couples Therapy"],
+  "genres": [
+    "Psychology",
+    "Self-Help",
+    "Relationships",
+    "Family"
+  ],
+  "subjects": [
+    "Marriage",
+    "Relationships",
+    "Communication",
+    "Conflict Resolution",
+    "Couples Therapy"
+  ],
   "themes": [
     "The Four Horsemen of the Apocalypse — criticism, contempt, defensiveness, stonewalling",
     "The magic ratio — 5 positive interactions to 1 negative",
@@ -18,9 +29,17 @@
     "Understanding your partner's inner world through love maps"
   ],
   "tags": [
-    "marriage", "relationships", "john-gottman", "conflict-resolution",
-    "communication", "couples-therapy", "love", "emotional-intelligence",
-    "marital-satisfaction", "psychology", "self-help"
+    "marriage",
+    "relationships",
+    "john-gottman",
+    "conflict-resolution",
+    "communication",
+    "couples-therapy",
+    "love",
+    "emotional-intelligence",
+    "marital-satisfaction",
+    "psychology",
+    "self-help"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 7,
@@ -29,5 +48,9 @@
     "New York Times Bestseller",
     "Over 3 million copies sold"
   ],
-  "excerpt": "John Gottman is the most famous relationship researcher in the world. His Seattle lab has observed thousands of couples for decades, and he can predict with 91% accuracy which couples will divorce after watching just a few minutes of interaction. This book distills his research into seven principles that distinguish masters of relationships from disasters of relationships — and provides practical exercises for building a stronger, more resilient partnership."
+  "excerpt": "John Gottman is the most famous relationship researcher in the world. His Seattle lab has observed thousands of couples for decades, and he can predict with 91% accuracy which couples will divorce after watching just a few minutes of interaction. This book distills his research into seven principles that distinguish masters of relationships from disasters of relationships — and provides practical exercises for building a stronger, more resilient partnership.",
+  "authors": [
+    "John Gottman",
+    "Nan Silver"
+  ]
 }

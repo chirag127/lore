@@ -43,8 +43,21 @@
       "note": "Selected letters in Oxford World's Classics series. Solid translation with good introductions."
     }
   ],
-  "genres": ["Philosophy", "Classics", "Letters", "Ethics"],
-  "subjects": ["Stoicism", "Ancient Philosophy", "Roman Empire", "Ethics", "Mortality", "Virtue", "Personal Development"],
+  "genres": [
+    "Philosophy",
+    "Classics",
+    "Letters",
+    "Ethics"
+  ],
+  "subjects": [
+    "Stoicism",
+    "Ancient Philosophy",
+    "Roman Empire",
+    "Ethics",
+    "Mortality",
+    "Virtue",
+    "Personal Development"
+  ],
   "themes": [
     "Virtue as the Sole Good",
     "Premeditation of Adversity",
@@ -58,12 +71,34 @@
     "Philosophy as Medicine for the Soul"
   ],
   "tags": [
-    "seneca", "stoicism", "stoic", "ancient philosophy", "roman empire",
-    "letters", "lucilius", "virtue", "wisdom", "courage", "justice",
-    "temperance", "mortality", "death", "resilience", "friendship",
-    "wealth", "poverty", "anger", "tranquility", "inner peace",
-    "premeditatio malorum", "memento mori", "practical philosophy",
-    "epicurus", "neros advisor", "penguin classics", "moral epistles"
+    "seneca",
+    "stoicism",
+    "stoic",
+    "ancient philosophy",
+    "roman empire",
+    "letters",
+    "lucilius",
+    "virtue",
+    "wisdom",
+    "courage",
+    "justice",
+    "temperance",
+    "mortality",
+    "death",
+    "resilience",
+    "friendship",
+    "wealth",
+    "poverty",
+    "anger",
+    "tranquility",
+    "inner peace",
+    "premeditatio malorum",
+    "memento mori",
+    "practical philosophy",
+    "epicurus",
+    "neros advisor",
+    "penguin classics",
+    "moral epistles"
   ],
   "difficulty": "medium",
   "estimatedReadingHours": 8,
@@ -74,5 +109,42 @@
     "color": "#1a1a2e"
   },
   "category": "09-philosophy",
-  "subcategory": "western-philosophy-by-era"
+  "subcategory": "western-philosophy-by-era",
+  "year": 65,
+  "authors": [
+    "Seneca (the Younger)"
+  ],
+  "keyIdeas": [
+    "Virtue is the only good; vice the only evil — everything else is an \"indifferent\"",
+    "Philosophy is medicine for the soul, not a classroom exercise",
+    "Time is your most precious resource — reclaim yourself for yourself",
+    "Premeditate adversity to inoculate yourself against misfortune",
+    "Death is not to be feared — it is the law that applies to everyone equally"
+  ],
+  "keyTakeaways": [
+    "Guard your time as you would your money — it is the one resource that cannot be recovered",
+    "Practice poverty voluntarily to lose your fear of losing wealth",
+    "Choose your companions carefully — the crowd infects you with its vices",
+    "Anger is never justified and never useful — it clouds judgment and destroys reason"
+  ],
+  "whoShouldRead": [
+    "Anyone seeking practical life philosophy grounded in daily practice",
+    "Stoic practitioners looking for the most comprehensive surviving guide to daily Stoic practice",
+    "Leaders and managers navigating power, politics, and moral compromise",
+    "People dealing with anxiety or fear — Seneca techniques anticipate CBT",
+    "Writers and communicators — the letters are masterclasses in persuasive writing"
+  ],
+  "whoShouldSkip": [
+    "Readers who want systematic philosophical argument rather than practical advice",
+    "Those put off by perceived hypocrisy in the author life",
+    "Anyone seeking modern self-help structure with step-by-step plans",
+    "Skeptics who dislike aphoristic moralizing"
+  ],
+  "relatedBooks": [
+    "meditations-marcus-aurelius",
+    "the-enchiridion-epictetus",
+    "the-republic-plato",
+    "the-daily-stoic-ryan-holiday",
+    "the-symposium-plato"
+  ]
 }

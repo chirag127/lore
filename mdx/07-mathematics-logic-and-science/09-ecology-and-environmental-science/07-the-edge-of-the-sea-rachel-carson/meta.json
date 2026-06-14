@@ -17,5 +17,45 @@
     "Field Guide"
   ],
   "source": "generated",
-  "generatedAt": "2026-06-09"
+  "generatedAt": "2026-06-09",
+  "excerpt": "A scientifically precise and lyrical exploration of the Atlantic shoreline, revealing the teeming life that thrives between the tides.",
+  "tags": [
+    "seashore",
+    "marine-biology",
+    "tide-pools",
+    "atlantic-coast",
+    "nature-writing"
+  ],
+  "addedAt": "2026-06-09",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780395075050-L.jpg",
+    "color": "#1a4a5e"
+  },
+  "keyIdeas": [
+    "The shoreline is a dynamic boundary zone where land and sea ecosystems intermingle",
+    "Intertidal organisms are remarkably adapted to extreme environmental fluctuations",
+    "The edge of the sea reveals the fundamental interconnectedness of marine life",
+    "Understanding shore ecology requires patient, attentive observation"
+  ],
+  "keyTakeaways": [
+    "Tide pools are microcosms of the ocean's complexity",
+    "Each coastal zone — rocky shore, sand beach, coral reef — hosts distinct communities",
+    "Human activity at the shore has profound ecological consequences",
+    "The diversity of shore life is far greater than casual observation reveals"
+  ],
+  "whoShouldRead": [
+    "Beachcombers and tide pool enthusiasts",
+    "Marine biology students",
+    "Coastal conservation advocates",
+    "Anyone who walks the shoreline and wants to understand what they see"
+  ],
+  "whoShouldSkip": [
+    "Those seeking global oceanography rather than coastal ecology",
+    "Readers wanting a field guide format (this is narrative, not reference)"
+  ],
+  "relatedBooks": [
+    "the-sea-around-us-rachel-carson",
+    "under-the-sea-wind-rachel-carson",
+    "silent-spring-rachel-carson"
+  ]
 }

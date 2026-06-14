@@ -73,5 +73,44 @@
     "Gear Patrol 10 Best Books of Summer",
     "Multi-Million Copy Bestseller"
   ],
-  "excerpt": "A modern operational manual for Stoic philosophy that distills Marcus Aurelius's three disciplines — perception, action, and will — into a practical framework for turning adversity into advantage. Holiday uses historical examples from John D. Rockefeller to Amelia Earhart to show that what blocks your path is often the path itself."
+  "excerpt": "A modern operational manual for Stoic philosophy that distills Marcus Aurelius's three disciplines — perception, action, and will — into a practical framework for turning adversity into advantage. Holiday uses historical examples from John D. Rockefeller to Amelia Earhart to show that what blocks your path is often the path itself.",
+  "year": 2014,
+  "addedAt": "2026-06-11",
+  "authors": [
+    "Ryan Holiday"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781591846352-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Obstacles are not impediments to the path — they are the path itself",
+    "Perception, Action, and Will form the three interdependent disciplines for overcoming adversity",
+    "The impediment to action advances action; what stands in the way becomes the way",
+    "Amor Fati — love of fate — transforms what you must endure into fuel for growth"
+  ],
+  "keyTakeaways": [
+    "You can always choose how you interpret and respond to an obstacle",
+    "Right action, persistently applied, dismantles even the most entrenched problems",
+    "Your will is the one thing no external force can touch or diminish",
+    "Every setback contains within it the seed of an equal or greater advantage"
+  ],
+  "whoShouldRead": [
+    "Anyone facing a difficult personal or professional challenge",
+    "Entrepreneurs, athletes, and leaders under pressure",
+    "Readers new to Stoicism seeking a practical, non-academic entry point",
+    "People who feel stuck, demoralized, or overwhelmed by circumstances"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking rigorous philosophical argument or historical scholarship",
+    "Those expecting evidence-based psychological research or empirical data",
+    "Anyone uncomfortable with self-help framed through cherry-picked historical examples"
+  ],
+  "relatedBooks": [
+    "meditations-marcus-aurelius",
+    "the-daily-stoic-ryan-holiday",
+    "letters-from-a-stoic-seneca",
+    "ego-is-the-enemy-ryan-holiday",
+    "stillness-is-the-key-ryan-holiday"
+  ]
 }

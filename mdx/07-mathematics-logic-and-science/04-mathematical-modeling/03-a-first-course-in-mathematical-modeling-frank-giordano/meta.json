@@ -88,5 +88,11 @@
     "practical-statistics-for-data-scientists-peter-bruce"
   ],
   "readingTimeMinutes": 1200,
-  "listeningTimeMinutes": 1560
+  "listeningTimeMinutes": 1560,
+  "year": 2013,
+  "excerpt": "The standard undergraduate textbook on mathematical modeling, covering optimization models, probability models, simulation, and discrete models with real-world applications from business and engineering to social science.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781285050904-L.jpg",
+    "color": "#0d47a1"
+  }
 }

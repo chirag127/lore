@@ -8,8 +8,20 @@
   "publisher": "CreateSpace",
   "language": "en",
   "pageCount": 276,
-  "genres": ["Self-Help", "Relationships", "Psychology", "Personal Development"],
-  "subjects": ["Dating", "Attraction", "Masculinity", "Vulnerability", "Social Skills", "Confidence"],
+  "genres": [
+    "Self-Help",
+    "Relationships",
+    "Psychology",
+    "Personal Development"
+  ],
+  "subjects": [
+    "Dating",
+    "Attraction",
+    "Masculinity",
+    "Vulnerability",
+    "Social Skills",
+    "Confidence"
+  ],
   "themes": [
     "Vulnerability as the foundation of genuine attraction",
     "The difference between honest and dishonest game",
@@ -18,9 +30,17 @@
     "Sexual communication and expressing desire honestly"
   ],
   "tags": [
-    "mark-manson", "dating", "attraction", "vulnerability",
-    "honesty", "masculinity", "confidence", "self-development",
-    "relationships", "social-dynamics", "game"
+    "mark-manson",
+    "dating",
+    "attraction",
+    "vulnerability",
+    "honesty",
+    "masculinity",
+    "confidence",
+    "self-development",
+    "relationships",
+    "social-dynamics",
+    "game"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 6,
@@ -29,5 +49,8 @@
     "Over 1 million copies sold",
     "Seminal text in the 'new masculine' dating space"
   ],
-  "excerpt": "Most dating advice is manipulation packaged as strategy. Mark Manson offers a radically different approach: attract women through honesty. The key to genuine attraction is vulnerability — the willingness to express your true feelings, desires, and intentions without shame or apology. Combined with developing a genuinely interesting life and true confidence (built through action, not affirmation), this approach produces authentic connections rather than manipulative outcomes."
+  "excerpt": "Most dating advice is manipulation packaged as strategy. Mark Manson offers a radically different approach: attract women through honesty. The key to genuine attraction is vulnerability — the willingness to express your true feelings, desires, and intentions without shame or apology. Combined with developing a genuinely interesting life and true confidence (built through action, not affirmation), this approach produces authentic connections rather than manipulative outcomes.",
+  "authors": [
+    "Mark Manson"
+  ]
 }

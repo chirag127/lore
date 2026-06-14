@@ -73,5 +73,11 @@
     "the-selfish-gene-richard-dawkins"
   ],
   "readingTimeMinutes": 600,
-  "listeningTimeMinutes": 840
+  "listeningTimeMinutes": 840,
+  "year": 1992,
+  "excerpt": "The definitive narrative history of the Santa Fe Institute and the birth of complexity science, telling the story of the renegade scientists who created a new way of thinking about life, evolution, economics, and the nature of order itself.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780671767891-L.jpg",
+    "color": "#4a148c"
+  }
 }

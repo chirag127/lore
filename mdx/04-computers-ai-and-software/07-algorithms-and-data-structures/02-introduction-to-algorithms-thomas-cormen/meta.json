@@ -171,5 +171,11 @@
       "title": "Structure and Interpretation of Computer Programs",
       "slug": "structure-and-interpretation-of-computer-programs-harold-abelson"
     }
+  ],
+  "authors": [
+    "Thomas H. Cormen",
+    "Charles E. Leiserson",
+    "Ronald L. Rivest",
+    "Clifford Stein"
   ]
 }

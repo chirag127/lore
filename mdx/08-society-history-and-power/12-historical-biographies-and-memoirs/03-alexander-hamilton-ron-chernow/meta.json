@@ -3,20 +3,81 @@
   "slug": "alexander-hamilton-ron-chernow",
   "title": "Alexander Hamilton",
   "subtitle": null,
-  "authors": ["Ron Chernow"],
+  "authors": [
+    "Ron Chernow"
+  ],
   "year": 2004,
   "category": "Society, History & Power",
   "subcategory": "Historical Biographies and Memoirs",
   "pages": 832,
   "isbn": "9780143034759",
   "language": "en",
-  "genres": ["Biography", "American History", "History", "Nonfiction"],
-  "subjects": ["Alexander Hamilton", "American Revolution", "Founding Fathers", "American History", "Treasury"],
-  "themes": ["Immigrant Achievement", "Political Ambition", "Financial Innovation", "Constitutional Interpretation"],
-  "tags": ["alexander-hamilton", "american-history", "founding-fathers", "biography", "ron-chernow", "federalist-papers", "american-revolution", "treasury", "hamilton-musical"],
+  "genres": [
+    "Biography",
+    "American History",
+    "History",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "Alexander Hamilton",
+    "American Revolution",
+    "Founding Fathers",
+    "American History",
+    "Treasury"
+  ],
+  "themes": [
+    "Immigrant Achievement",
+    "Political Ambition",
+    "Financial Innovation",
+    "Constitutional Interpretation"
+  ],
+  "tags": [
+    "alexander-hamilton",
+    "american-history",
+    "founding-fathers",
+    "biography",
+    "ron-chernow",
+    "federalist-papers",
+    "american-revolution",
+    "treasury",
+    "hamilton-musical"
+  ],
   "difficulty": "medium",
   "estimatedReadingHours": 17,
   "estimatedListeningMinutes": 1020,
   "source": "generated",
-  "generatedAt": "2026-06-14"
+  "generatedAt": "2026-06-14",
+  "excerpt": "Ron Chernow's monumental biography of Alexander Hamilton, the orphan immigrant who became America's first Treasury Secretary and whose vision shaped American capitalism, finance, and government.",
+  "addedAt": "2026-06-14",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780143034759-L.jpg",
+    "color": "#1C1C1C"
+  },
+  "keyIdeas": [
+    "Hamilton's vision of a strong central government, national bank, and industrial economy shaped the American republic",
+    "His immigrant background and illegitimate birth drove his relentless ambition and need for validation",
+    "The Hamilton-Jefferson rivalry defined the fundamental tension in American politics between federal power and states' rights"
+  ],
+  "keyTakeaways": [
+    "Hamilton established the financial systems that powered American economic growth",
+    "His interpretation of the Constitution established the doctrine of implied powers",
+    "The duel with Burr was the culmination of a career marked by personal and political feuds",
+    "Hamilton's financial plan solved the Revolutionary War debt crisis and established American credit",
+    "His influence extends to the present through the Federalist Papers and his constitutional legacy"
+  ],
+  "whoShouldRead": [
+    "American history enthusiasts wanting the definitive Hamilton biography",
+    "Fans of the Hamilton musical seeking the full story",
+    "Anyone interested in the founding of American financial institutions",
+    "Readers who enjoy deep, comprehensive political biographies"
+  ],
+  "whoShouldSkip": [
+    "Those wanting a quick overview — this is 800+ pages of detailed history",
+    "Readers who prefer Jefferson's vision of America to Hamilton's",
+    "People looking for modern relevance or policy analysis rather than historical biography"
+  ],
+  "relatedBooks": [
+    "with-skin-in-the-game-michael-lewis",
+    "treasure-and-power-book"
+  ]
 }

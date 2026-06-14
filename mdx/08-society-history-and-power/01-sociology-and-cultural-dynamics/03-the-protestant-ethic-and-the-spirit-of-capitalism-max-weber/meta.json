@@ -106,5 +106,10 @@
   "estimatedReadingHours": 6,
   "estimatedListeningMinutes": 360,
   "rationale": "Selected as Book #2 for sociology because it is one of the four or five most important sociological texts ever written—a founding document of economic sociology whose argument about the cultural origins of capitalismentereds standard debates in social theory, economic history, political theory, and comparative religion. Its thesis about an elective affinity between ascetic Protestantism and modern capitalism is both historically specific (Northern Europe, 16th–19th centuries) and theoretically generative across all discussions of culture-economy relationships.",
-  "excerpt": "Max Weber's foundational 1905 essay investigating how the religious values of ascetic Protestantism—above all Calvinist predestination and the concept of a worldly calling—helped create the cultural conditions for the emergence of modern rational capitalism. Weber's thesis of an 'elective affinity' between Protestant ethic and capitalist spirit remains one of the most debated arguments in the history of social thought, spawning over a century of scholarship across sociology, economic history, political theory, and the comparative study of religion."
+  "excerpt": "Max Weber's foundational 1905 essay investigating how the religious values of ascetic Protestantism—above all Calvinist predestination and the concept of a worldly calling—helped create the cultural conditions for the emergence of modern rational capitalism. Weber's thesis of an 'elective affinity' between Protestant ethic and capitalist spirit remains one of the most debated arguments in the history of social thought, spawning over a century of scholarship across sociology, economic history, political theory, and the comparative study of religion.",
+  "year": 1905,
+  "authors": [
+    "Max Weber"
+  ],
+  "cover": "#006064"
 }

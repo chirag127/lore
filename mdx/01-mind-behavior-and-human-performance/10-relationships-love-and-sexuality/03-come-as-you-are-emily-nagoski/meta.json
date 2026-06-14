@@ -8,8 +8,19 @@
   "publisher": "Simon & Schuster",
   "language": "en",
   "pageCount": 416,
-  "genres": ["Psychology", "Science", "Self-Help", "Sexuality"],
-  "subjects": ["Female Sexuality", "Sexual Response", "Desire", "Intimacy", "Sex Education"],
+  "genres": [
+    "Psychology",
+    "Science",
+    "Self-Help",
+    "Sexuality"
+  ],
+  "subjects": [
+    "Female Sexuality",
+    "Sexual Response",
+    "Desire",
+    "Intimacy",
+    "Sex Education"
+  ],
   "themes": [
     "The dual control model — sexual excitation and sexual inhibition systems",
     "Responsive desire — desire often follows arousal, not the other way around",
@@ -18,9 +29,16 @@
     "The stress-emotion-sex connection — stress is the biggest turn-off"
   ],
   "tags": [
-    "sexuality", "emily-nagoski", "female-sexual-response", "desire",
-    "orgasm", "dual-control-model", "responsive-desire",
-    "sex-education", "psychology", "relationships"
+    "sexuality",
+    "emily-nagoski",
+    "female-sexual-response",
+    "desire",
+    "orgasm",
+    "dual-control-model",
+    "responsive-desire",
+    "sex-education",
+    "psychology",
+    "relationships"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 10,
@@ -29,5 +47,8 @@
     "New York Times Bestseller",
     "Goodreads Choice Award for Science & Technology (nominee)"
   ],
-  "excerpt": "Emily Nagoski, a sex educator with a PhD in health behavior, offers a paradigm-shifting understanding of female sexuality. Drawing on the dual control model of sexual response, she shows that women's sexuality is not broken — it is contextual. Stress, mood, body image, and relationship satisfaction matter more for sexual well-being than any biological measure. The book's message: your sexuality is normal exactly as it is."
+  "excerpt": "Emily Nagoski, a sex educator with a PhD in health behavior, offers a paradigm-shifting understanding of female sexuality. Drawing on the dual control model of sexual response, she shows that women's sexuality is not broken — it is contextual. Stress, mood, body image, and relationship satisfaction matter more for sexual well-being than any biological measure. The book's message: your sexuality is normal exactly as it is.",
+  "authors": [
+    "Emily Nagoski"
+  ]
 }

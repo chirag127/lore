@@ -17,5 +17,47 @@
     "Cultural Studies"
   ],
   "source": "generated",
-  "generatedAt": "2026-06-09"
+  "generatedAt": "2026-06-09",
+  "excerpt": "The most widely read introduction to literary theory ever written, Eagleton's book traces the rise of modern literary theory from the Romantic period through structuralism, post-structuralism, and psychoanalysis, arguing that all literary theory is inherently political.",
+  "tags": [
+    "literary-theory",
+    "marxist-criticism",
+    "structuralism",
+    "post-structuralism",
+    "psychoanalysis",
+    "cultural-studies",
+    "terry-eagleton",
+    "modern-literary-theory"
+  ],
+  "addedAt": "2026-06-09",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780816640230-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Literature is not a stable category but whatever a society chooses to treat as literature",
+    "All literary theory is political, whether it admits it or not",
+    "Structuralism reveals that meaning is produced by relational systems, not individual authorship",
+    "Post-structuralism deconstructs the binary oppositions that structure Western thought",
+    "Political criticism must reconnect literary analysis to material historical conditions"
+  ],
+  "keyTakeaways": [
+    "There is no such thing as a purely 'literary' reading — all interpretation is shaped by ideological assumptions",
+    "The rise of English as an academic discipline was historically tied to class politics and imperial ideology",
+    "Reader-response theory, structuralism, and psychoanalysis each offer distinct but partial accounts of how meaning is produced",
+    "Marxist criticism provides the most comprehensive framework for understanding literature's social function"
+  ],
+  "whoShouldRead": [
+    "Students of literature and literary theory at any level",
+    "Anyone curious about why literature departments teach theory",
+    "Cultural critics and scholars in the humanities"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a neutral, apolitical survey of literary theory",
+    "Those who believe literary value is natural rather than socially constructed"
+  ],
+  "relatedBooks": [
+    "beginning-theory-peter-barry",
+    "after-theory-terry-eagleton"
+  ]
 }

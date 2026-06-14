@@ -70,5 +70,47 @@
   "difficulty": "moderate",
   "estimatedReadingHours": 12,
   "estimatedListeningMinutes": 720,
-  "excerpt": "Building on his landmark The Tao of Physics, Fritjof Capra synthesizes the revolutionary developments in systems thinking, complexity theory, and ecology into a coherent new scientific understanding of life. The Web of Life argues that the mechanistic worldview inherited from Descartes and Newton must give way to a systemic, ecological paradigm rooted in the recognition that all living systems — cells, organisms, ecosystems, societies — are integrated, self-organizing networks. Drawing on the work of Ilya Prigogine, Humberto Maturana, Francisco Varela, and Gregory Bateson, Capra presents a framework that unifies the biological, cognitive, social, and ecological dimensions of life under a single conceptual language: the web of life."
+  "excerpt": "Building on his landmark The Tao of Physics, Fritjof Capra synthesizes the revolutionary developments in systems thinking, complexity theory, and ecology into a coherent new scientific understanding of life. The Web of Life argues that the mechanistic worldview inherited from Descartes and Newton must give way to a systemic, ecological paradigm rooted in the recognition that all living systems — cells, organisms, ecosystems, societies — are integrated, self-organizing networks. Drawing on the work of Ilya Prigogine, Humberto Maturana, Francisco Varela, and Gregory Bateson, Capra presents a framework that unifies the biological, cognitive, social, and ecological dimensions of life under a single conceptual language: the web of life.",
+  "year": 1996,
+  "addedAt": "2026-06-11",
+  "authors": [
+    "Fritjof Capra"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780385476768-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Living systems are self-organizing networks whose patterns of organization define their identity",
+    "Cognition is not an exclusively human attribute — it is a fundamental property of all life",
+    "Autopoiesis (self-making) is the defining characteristic of living organisms",
+    "Order emerges spontaneously in open systems far from equilibrium through dissipative structures",
+    "The mechanistic worldview that fragments science from ethics must be replaced by ecological thinking"
+  ],
+  "keyTakeaways": [
+    "Systems thinking shifts the focus from substances to relationships, from quantities to patterns",
+    "Mind and matter are not separate — mind is immanent in the living network at all levels",
+    "Understanding life requires integrating the biological, cognitive, social, and ecological dimensions",
+    "The Gaia hypothesis shows that the planet itself functions as a living, self-regulating system",
+    "Ecological literacy — understanding the principles of ecosystems — is essential for human survival"
+  ],
+  "whoShouldRead": [
+    "Readers of The Tao of Physics seeking Capra's mature synthesis of systems science",
+    "Scientists and students interested in the philosophical implications of complexity theory",
+    "Environmentalists and ecologists looking for a rigorous theoretical framework for deep ecology",
+    "Anyone questioning whether reductionist science can address the ecological crises of our time"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a purely empirical textbook on biology or ecology",
+    "Those who reject any integration of science with philosophical or spiritual perspectives",
+    "Skeptics who find holistic frameworks insufficiently rigorous or mathematically precise",
+    "Anyone expecting a sequel to The Tao of Physics focused on Eastern mysticism"
+  ],
+  "relatedBooks": [
+    "the-tao-of-physics-fritjof-capra",
+    "the-hidden-connections-fritjof-capra",
+    "the-systems-view-of-life-fritjof-capra",
+    "gaia-james-lovelock",
+    "steps-to-an-ecology-of-mind-gregory-bateson"
+  ]
 }

@@ -8,8 +8,19 @@
   "publisher": "Penguin",
   "language": "en",
   "pageCount": 320,
-  "genres": ["Business", "Negotiation", "Self-Help", "Psychology"],
-  "subjects": ["Negotiation", "Bargaining", "Conflict Resolution", "Communication", "Ethics"],
+  "genres": [
+    "Business",
+    "Negotiation",
+    "Self-Help",
+    "Psychology"
+  ],
+  "subjects": [
+    "Negotiation",
+    "Bargaining",
+    "Conflict Resolution",
+    "Communication",
+    "Ethics"
+  ],
   "themes": [
     "Personal negotiation style assessment",
     "The bargaining range and ZOPA",
@@ -18,11 +29,58 @@
     "Influence psychology in bargaining contexts"
   ],
   "tags": [
-    "negotiation", "bargaining-strategy", "negotiation-styles", "ethics",
-    "G-Richard-Shell", "ZOPA", "negotiation-skills", "business-negotiation",
-    "wharton", "bargaining-range", "reservation-price", "aspiration-point"
+    "negotiation",
+    "bargaining-strategy",
+    "negotiation-styles",
+    "ethics",
+    "G-Richard-Shell",
+    "ZOPA",
+    "negotiation-skills",
+    "business-negotiation",
+    "wharton",
+    "bargaining-range",
+    "reservation-price",
+    "aspiration-point"
   ],
   "difficulty": "medium",
   "estimatedReadingHours": 6,
-  "estimatedListeningMinutes": 360
+  "estimatedListeningMinutes": 360,
+  "year": 2006,
+  "excerpt": "A comprehensive framework for understanding your personal negotiation style, reading the other side, and developing a complete bargaining strategy grounded in ethics, psychology, and real-world practice.",
+  "addedAt": "2026-06-14",
+  "authors": [
+    "G. Richard Shell"
+  ],
+  "cover": {
+    "url": "/books/bargaining-for-advantage-richard-shell/cover.webp",
+    "color": "#2c3e50"
+  },
+  "keyIdeas": [
+    "Your personal negotiation style is your starting point",
+    "The bargaining range and the Zone of Possible Agreement (ZOPA)",
+    "Reciprocity, consistency, and social proof as influence levers",
+    "Ethics shape reputation and long-term effectiveness",
+    "Strategic question sequences reveal the other side"
+  ],
+  "keyTakeaways": [
+    "Know yourself before you negotiate — your style determines your tendencies",
+    "Information is power: the side with better information negotiates better outcomes",
+    "Ethical limits are not constraints — they are strategic assets",
+    "Negotiation is a skillset you can systematically improve"
+  ],
+  "whoShouldRead": [
+    "Aspiring and experienced negotiators seeking a systematic framework",
+    "Business students and MBA candidates",
+    "Sales professionals and procurement specialists",
+    "Anyone wanting to understand negotiation styles and ethics"
+  ],
+  "whoShouldSkip": [
+    "Readers wanting quick tactical tricks (read Voss instead)",
+    "Those who dislike structured, academic frameworks",
+    "Pure practitioners who find theory impractical"
+  ],
+  "relatedBooks": [
+    "01-getting-to-yes-roger-fisher",
+    "02-never-split-the-difference-chris-voss"
+  ]
 }

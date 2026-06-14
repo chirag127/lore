@@ -30,5 +30,47 @@
   "source": "generated",
   "generatedAt": "2026-01-15",
   "slug": "01-medical-apartheid-harriet-washington",
-  "rationale": "Selected as Book #2 for medical-history-and-bioethics to provide direct contrast with Mukherjee's The Emperor of All Maladies. While Mukherjee documents cancer medicine's progress through heroic individual breakthroughs, Medical Apartheid documents the structural system that made those breakthroughs possible at the cost of Black bodies — an essential counterpart to any complete understanding of how American medicine achieved its advances."
+  "rationale": "Selected as Book #2 for medical-history-and-bioethics to provide direct contrast with Mukherjee's The Emperor of All Maladies. While Mukherjee documents cancer medicine's progress through heroic individual breakthroughs, Medical Apartheid documents the structural system that made those breakthroughs possible at the cost of Black bodies — an essential counterpart to any complete understanding of how American medicine achieved its advances.",
+  "excerpt": "The first comprehensive history of medical experimentation on African Americans — from colonial-era surgical slavery through the Tuskegee syphilis study and modern bioethics — and the chilling structural racism embedded in American medicine.",
+  "tags": [
+    "medical-ethics",
+    "medical-history",
+    "african-american",
+    "bioethics",
+    "racial-justice",
+    "unethical-experimentation",
+    "tuskegee"
+  ],
+  "addedAt": "2026-01-15",
+  "cover": "#b71c1c",
+  "keyIdeas": [
+    "African Americans have been subjected to medical experimentation from slavery through the present day",
+    "Racial pseudoscience was institutionalized in American medicine for centuries, shaping research and treatment",
+    "The Tuskegee syphilis study was not an aberration but part of a centuries-long pattern of abuse",
+    "Informed consent was routinely denied to Black patients, and racial disparities in health care persist today",
+    "Medical abuse of African Americans has created lasting distrust of the medical establishment"
+  ],
+  "keyTakeaways": [
+    "Scientific racism provided the intellectual justification for experimenting on Black bodies",
+    "James Marion Sims built modern gynecology on the unanesthetized surgeries of enslaved women",
+    "Sickle cell disease was racially framed as a \"Black disease,\" leading to employment discrimination",
+    "MKNAOMI: the U.S. government released malaria-infected mosquitoes into predominantly Black neighborhoods",
+    "Washington argues that addressing medical apartheid requires institutional reform and genuine community partnership"
+  ],
+  "whoShouldRead": [
+    "Medical students and healthcare professionals",
+    "Bioethicists and public health practitioners",
+    "Anyone interested in African American history and racial justice",
+    "Researchers conducting human subjects studies"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a broader history of medicine without the focus on racial injustice",
+    "Those who prefer purely clinical or technical accounts of medical history"
+  ],
+  "relatedBooks": [
+    "the-immortal-life-of-henrietta-lacks-rebecca-skloot",
+    "killing-the-black-body-dorothy-roberts",
+    "the-ghost-map-steven-johnson",
+    "bad-blood-jones-tuskegee"
+  ]
 }

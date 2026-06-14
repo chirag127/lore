@@ -8,8 +8,19 @@
   "publisher": "Trumpeter Books",
   "language": "en",
   "pageCount": 288,
-  "genres": ["Psychology", "Self-Help", "Personal Development", "Therapy"],
-  "subjects": ["ACT", "Acceptance and Commitment Therapy", "Mindfulness", "Well-being", "Emotion Regulation"],
+  "genres": [
+    "Psychology",
+    "Self-Help",
+    "Personal Development",
+    "Therapy"
+  ],
+  "subjects": [
+    "ACT",
+    "Acceptance and Commitment Therapy",
+    "Mindfulness",
+    "Well-being",
+    "Emotion Regulation"
+  ],
   "themes": [
     "The happiness myth — chasing happiness makes you unhappy",
     "The control agenda — trying to control emotions backfires",
@@ -18,9 +29,16 @@
     "Values-based action as the path to meaning and fulfillment"
   ],
   "tags": [
-    "act", "acceptance-commitment-therapy", "russ-harris", "happiness",
-    "mindfulness", "well-being", "emotions", "psychological-flexibility",
-    "mental-health", "self-help"
+    "act",
+    "acceptance-commitment-therapy",
+    "russ-harris",
+    "happiness",
+    "mindfulness",
+    "well-being",
+    "emotions",
+    "psychological-flexibility",
+    "mental-health",
+    "self-help"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 7,
@@ -29,5 +47,8 @@
     "Over 1 million copies sold worldwide",
     "Translated into 30+ languages"
   ],
-  "excerpt": "The Happiness Trap challenges the fundamental assumption of modern culture: that happiness is the natural state of being. Russ Harris, a medical doctor turned ACT therapist, argues that the relentless pursuit of happiness actually makes us unhappy. Instead, ACT (Acceptance and Commitment Therapy) offers a counterintuitive path: accept difficult emotions, let go of the struggle, and take action aligned with your values. The result is not constant happiness, but a rich, full, and meaningful life."
+  "excerpt": "The Happiness Trap challenges the fundamental assumption of modern culture: that happiness is the natural state of being. Russ Harris, a medical doctor turned ACT therapist, argues that the relentless pursuit of happiness actually makes us unhappy. Instead, ACT (Acceptance and Commitment Therapy) offers a counterintuitive path: accept difficult emotions, let go of the struggle, and take action aligned with your values. The result is not constant happiness, but a rich, full, and meaningful life.",
+  "authors": [
+    "Russ Harris"
+  ]
 }

@@ -1,17 +1,50 @@
 {
   "slug": "atomic-habits-james-clear",
-  "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-  "author": "James Clear",
-  "publicationYear": 2018,
-  "isbn": "9780735211292",
-  "publisher": "Avery",
-  "language": "en",
-  "genres": ["Self-Help", "Productivity", "Psychology", "Personal Development"],
-  "subjects": ["Habit Formation", "Behavior Change", "Productivity", "Goal Setting", "Self-Improvement"],
-  "themes": ["The Four Laws of Behavior Change", "Identity-Based Habits", "The Habit Loop", "Environment Design", "The 1% Rule"],
-  "tags": ["habits", "atomic-habits", "james-clear", "behavior-change", "productivity", "self-improvement", "four-laws", "habit-stacking", "identity-change"],
-  "difficulty": "easy",
-  "estimatedReadingHours": 6,
-  "estimatedListeningMinutes": 360,
-  "excerpt": "The definitive modern guide to habit formation. James Clear's four laws of behavior change—make it obvious, attractive, easy, and satisfying—provide a comprehensive framework for building good habits and breaking bad ones."
+  "title": "Atomic Habits",
+  "year": 2018,
+  "excerpt": "A practical framework for building good habits and breaking bad ones through the power of small, incremental changes that compound into remarkable results.",
+  "tags": [
+    "habits",
+    "self-improvement",
+    "productivity",
+    "behavior-change",
+    "goals",
+    "systems"
+  ],
+  "addedAt": "2026-01-15",
+  "authors": [
+    "James Clear"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/id/12648604-L.jpg",
+    "color": "#c0392b"
+  },
+  "keyIdeas": [
+    "The four laws of behavior change: make it obvious, attractive, easy, satisfying",
+    "Habits are the compound interest of self-improvement",
+    "Focus on systems, not goals",
+    "Identity-based habits vs. outcome-based habits"
+  ],
+  "keyTakeaways": [
+    "Small changes (1% improvements) compound into remarkable results over time",
+    "The most effective way to change habits is to focus on who you wish to become, not what you wish to achieve",
+    "Habit stacking: use an existing habit as a trigger for a new one",
+    "The environment is more important than motivation — design your environment for success"
+  ],
+  "whoShouldRead": [
+    "Anyone wanting to build lasting habits",
+    "People who struggle with consistency and follow-through",
+    "Coaches, managers, and self-improvement enthusiasts",
+    "Readers of The Power of Habit who want a practical how-to guide"
+  ],
+  "whoShouldSkip": [
+    "Those looking for quick fixes or 30-day challenges",
+    "Academic researchers seeking peer-reviewed evidence",
+    "People who prefer theoretical depth over practical frameworks"
+  ],
+  "relatedBooks": [
+    "the-power-of-habit-charles-duhigg",
+    "mini-habits-stephen-guis",
+    "the-7-habits-of-highly-effective-people-stephen-covey"
+  ]
 }

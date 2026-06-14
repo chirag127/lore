@@ -48,5 +48,42 @@
   "difficulty": "easy-medium",
   "estimatedReadingHours": 10,
   "excerpt": "A brilliant tour of the human genome, told through one gene on each of the 23 chromosomes, revealing how our DNA shapes everything from our physiology to our personality to our destiny. Shortlisted for the Samuel Johnson Prize.",
-  "rationale": "Root book #2 for genetics-and-molecular-biology. Genome is the classic popular introduction to genetics, providing the accessible conceptual foundation for the subcategory. It complements the molecular textbook (Molecular Biology of the Cell) with narrative and historical context."
+  "rationale": "Root book #2 for genetics-and-molecular-biology. Genome is the classic popular introduction to genetics, providing the accessible conceptual foundation for the subcategory. It complements the molecular textbook (Molecular Biology of the Cell) with narrative and historical context.",
+  "addedAt": "2026-06-14",
+  "cover": {
+    "url": "https://m.media-amazon.com/images/I/71h2fY-XYZL.jpg",
+    "color": "#1b5e20"
+  },
+  "keyIdeas": [
+    "Each chromosome tells a story about human evolution, disease, behavior, and identity",
+    "Genes are not destiny but probability—they create predispositions, not certainties",
+    "The Human Genome Project revealed that humans have far fewer genes than expected (about 25,000), challenging assumptions about genetic complexity",
+    "Many genetic diseases persist because the same genes that cause disease in some circumstances provided survival advantages in others",
+    "The genome is not a static blueprint but an active, regulated, and interactive system"
+  ],
+  "keyTakeaways": [
+    "Most human genetic variation is within populations, not between them—race has little biological meaning",
+    "Genes for disease resistance and intelligence are highly polygenic, involving hundreds of genes working together",
+    "Genetic determinism is a fallacy: identical twins with the same genome develop different personalities and disease patterns",
+    "The genome contains evidence of our evolutionary history, including viral DNA from ancient infections (endogenous retroviruses)",
+    "Free will and genetics are not in conflict—genes create the brain that makes choices"
+  ],
+  "whoShouldRead": [
+    "Anyone seeking an accessible, engaging introduction to genetics and genomics",
+    "Biology students who want to understand the big picture before diving into molecular details",
+    "Readers interested in the philosophical implications of genetic science",
+    "Science enthusiasts who enjoy narrative-driven popular science writing"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a practical genetics textbook with detailed molecular mechanisms",
+    "Those who prefer strictly factual presentation over narrative and historical context",
+    "People looking for the latest genetic research (the book was published in 1999)"
+  ],
+  "relatedBooks": [
+    "molecular-biology-of-the-cell-alberts",
+    "the-selfish-gene-richard-dawkins",
+    "the-red-queen-matt-ridley",
+    "the-voyage-of-the-beagle-charles-darwin",
+    "the-epigenetics-revolution-nessa-carey"
+  ]
 }

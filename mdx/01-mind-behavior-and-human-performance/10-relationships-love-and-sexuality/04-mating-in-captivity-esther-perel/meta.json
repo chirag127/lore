@@ -8,8 +8,19 @@
   "publisher": "Harper",
   "language": "en",
   "pageCount": 272,
-  "genres": ["Psychology", "Relationships", "Sexuality", "Self-Help"],
-  "subjects": ["Erotic Desire", "Long-term Relationships", "Intimacy", "Sexuality", "Couples Therapy"],
+  "genres": [
+    "Psychology",
+    "Relationships",
+    "Sexuality",
+    "Self-Help"
+  ],
+  "subjects": [
+    "Erotic Desire",
+    "Long-term Relationships",
+    "Intimacy",
+    "Sexuality",
+    "Couples Therapy"
+  ],
   "themes": [
     "The paradox of domesticity and desire — security kills excitement",
     "Erotic intelligence as a learnable skill, not a biological given",
@@ -18,9 +29,16 @@
     "Reclaiming eroticism within committed relationships"
   ],
   "tags": [
-    "esther-perel", "desire", "eroticism", "relationships",
-    "intimacy", "marriage", "sexuality", "affairs",
-    "couples-therapy", "psychology"
+    "esther-perel",
+    "desire",
+    "eroticism",
+    "relationships",
+    "intimacy",
+    "marriage",
+    "sexuality",
+    "affairs",
+    "couples-therapy",
+    "psychology"
   ],
   "difficulty": "medium",
   "estimatedReadingHours": 7,
@@ -29,5 +47,8 @@
     "New York Times Bestseller",
     "Translated into 25+ languages"
   ],
-  "excerpt": "Why does desire fade in long-term relationships? Esther Perel, a couples therapist with a provocative perspective, argues that the very qualities we cultivate in committed relationships — security, predictability, mutual care — can suffocate erotic desire. The solution is not to abandon commitment but to cultivate 'erotic intelligence': the ability to hold the tension between love and desire, intimacy and otherness, domesticity and adventure."
+  "excerpt": "Why does desire fade in long-term relationships? Esther Perel, a couples therapist with a provocative perspective, argues that the very qualities we cultivate in committed relationships — security, predictability, mutual care — can suffocate erotic desire. The solution is not to abandon commitment but to cultivate 'erotic intelligence': the ability to hold the tension between love and desire, intimacy and otherness, domesticity and adventure.",
+  "authors": [
+    "Esther Perel"
+  ]
 }

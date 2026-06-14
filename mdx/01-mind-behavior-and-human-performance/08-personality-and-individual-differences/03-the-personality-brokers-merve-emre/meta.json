@@ -8,8 +8,19 @@
   "publisher": "Doubleday",
   "language": "en",
   "pageCount": 368,
-  "genres": ["Psychology", "History", "Science", "Biography"],
-  "subjects": ["Myers-Briggs", "Personality Testing", "History of Psychology", "Psychometrics", "Carl Jung"],
+  "genres": [
+    "Psychology",
+    "History",
+    "Science",
+    "Biography"
+  ],
+  "subjects": [
+    "Myers-Briggs",
+    "Personality Testing",
+    "History of Psychology",
+    "Psychometrics",
+    "Carl Jung"
+  ],
   "themes": [
     "The unlikely story of the mother-daughter team who created the MBTI",
     "The pseudoscientific foundations of personality typing",
@@ -18,9 +29,16 @@
     "The ethics of personality testing in hiring and education"
   ],
   "tags": [
-    "myers-briggs", "personality-testing", "merve-emre",
-    "MBTI", "jungs-types", "psychometrics", "personality",
-    "history-of-psychology", "katharine-briggs", "isabel-myers"
+    "myers-briggs",
+    "personality-testing",
+    "merve-emre",
+    "MBTI",
+    "jungs-types",
+    "psychometrics",
+    "personality",
+    "history-of-psychology",
+    "katharine-briggs",
+    "isabel-myers"
   ],
   "difficulty": "medium",
   "estimatedReadingHours": 10,
@@ -30,5 +48,8 @@
     "The New Yorker Best Books of the Year",
     "NPR Best Books of 2018"
   ],
-  "excerpt": "The Myers-Briggs Type Indicator is the most widely used personality test in the world — taken by 2 million people annually. But its origins are stranger than fiction. Merve Emre tells the story of Katharine Briggs and her daughter Isabel Myers, two amateur psychologists with no formal training who believed they had found the key to human understanding in Carl Jung's obscure theory of psychological types. The result is a compelling history of how a scientifically dubious instrument became a cultural phenomenon."
+  "excerpt": "The Myers-Briggs Type Indicator is the most widely used personality test in the world — taken by 2 million people annually. But its origins are stranger than fiction. Merve Emre tells the story of Katharine Briggs and her daughter Isabel Myers, two amateur psychologists with no formal training who believed they had found the key to human understanding in Carl Jung's obscure theory of psychological types. The result is a compelling history of how a scientifically dubious instrument became a cultural phenomenon.",
+  "authors": [
+    "Merve Emre"
+  ]
 }

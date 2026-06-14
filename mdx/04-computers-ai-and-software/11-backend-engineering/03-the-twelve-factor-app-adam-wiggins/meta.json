@@ -8,8 +8,18 @@
   "publisher": "Self-Published",
   "language": "en",
   "pageCount": 150,
-  "genres": ["Technology", "Software Engineering", "DevOps"],
-  "subjects": ["Cloud-Native", "SaaS", "Application Design", "Deployment", "Best Practices"],
+  "genres": [
+    "Technology",
+    "Software Engineering",
+    "DevOps"
+  ],
+  "subjects": [
+    "Cloud-Native",
+    "SaaS",
+    "Application Design",
+    "Deployment",
+    "Best Practices"
+  ],
   "themes": [
     "Codebase and dependency management",
     "Configuration separation from code",
@@ -18,10 +28,54 @@
     "Logs as event streams"
   ],
   "tags": [
-    "twelve-factor", "cloud-native", "saas", "devops", "application-design",
-    "deployment", "best-practices", "backend-engineering", "adam-wiggins"
+    "twelve-factor",
+    "cloud-native",
+    "saas",
+    "devops",
+    "application-design",
+    "deployment",
+    "best-practices",
+    "backend-engineering",
+    "adam-wiggins"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 3,
-  "estimatedListeningMinutes": 180
+  "estimatedListeningMinutes": 180,
+  "year": 2021,
+  "excerpt": "A concise methodology for building software-as-a-service applications that are portable, resilient, and cloud-native — covering twelve principles from codebase management to admin processes.",
+  "addedAt": "2026-01-15",
+  "authors": [
+    "Adam Wiggins"
+  ],
+  "cover": {
+    "url": "/books/the-twelve-factor-app-adam-wiggins/cover.webp",
+    "color": "#1b5e20"
+  },
+  "keyIdeas": [
+    "Strict separation of config from code",
+    "Stateless processes with shared-nothing architecture",
+    "Dev/prod parity and continuous deployment",
+    "Disposability — fast startup and graceful shutdown",
+    "Backing services as attached resources"
+  ],
+  "keyTakeaways": [
+    "A twelve-factor app is a methodology, not a framework — applicable to any language or stack",
+    "Each factor addresses a specific weakness in traditional application deployment",
+    "The principles enable maximum portability across cloud providers and environments"
+  ],
+  "whoShouldRead": [
+    "Application developers deploying to cloud platforms",
+    "DevOps engineers designing deployment pipelines",
+    "Technical leaders establishing engineering standards",
+    "Anyone new to cloud-native application development"
+  ],
+  "whoShouldSkip": [
+    "Developers working on embedded or desktop-only applications",
+    "Those seeking language-specific tutorials rather than principles",
+    "Readers already deeply familiar with cloud-native patterns"
+  ],
+  "relatedBooks": [
+    "01-designing-data-intensive-applications-martin-kleppmann",
+    "02-building-microservices-sam-newman"
+  ]
 }

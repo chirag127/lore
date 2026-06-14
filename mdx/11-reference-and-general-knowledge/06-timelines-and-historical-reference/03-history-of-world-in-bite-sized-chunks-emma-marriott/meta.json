@@ -3,20 +3,77 @@
   "slug": "history-of-world-in-bite-sized-chunks-emma-marriott",
   "title": "The History of the World in Bite-Sized Chunks",
   "subtitle": null,
-  "authors": ["Emma Marriott"],
+  "authors": [
+    "Emma Marriott"
+  ],
   "year": 2015,
   "category": "Reference & General Knowledge",
   "subcategory": "Timelines and Historical Reference",
   "pages": 256,
   "isbn": "9781782433949",
   "language": "en",
-  "genres": ["History", "Reference", "Popular Nonfiction"],
-  "subjects": ["World History", "General Knowledge", "Reference"],
-  "themes": ["Historical Overview", "Chronological Thinking", "Accessible Education"],
-  "tags": ["history", "reference", "facts", "world-history", "concise", "overview", "chronology", "accessible", "general-knowledge"],
+  "genres": [
+    "History",
+    "Reference",
+    "Popular Nonfiction"
+  ],
+  "subjects": [
+    "World History",
+    "General Knowledge",
+    "Reference"
+  ],
+  "themes": [
+    "Historical Overview",
+    "Chronological Thinking",
+    "Accessible Education"
+  ],
+  "tags": [
+    "history",
+    "reference",
+    "facts",
+    "world-history",
+    "concise",
+    "overview",
+    "chronology",
+    "accessible",
+    "general-knowledge"
+  ],
   "difficulty": "easy",
   "estimatedReadingHours": 4,
   "estimatedListeningMinutes": 240,
   "source": "generated",
-  "generatedAt": "2026-06-14"
+  "generatedAt": "2026-06-14",
+  "excerpt": "A concise, accessible overview of world history presented in digestible sections, covering major events, figures, and developments from the Big Bang to the 21st century.",
+  "addedAt": "2026-06-14",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781782433949-L.jpg",
+    "color": "#2C3E50"
+  },
+  "keyIdeas": [
+    "History can be made accessible and memorable through concise, well-organized presentation",
+    "Understanding the broad sweep of history provides essential context for specialized knowledge",
+    "Clear chronological frameworks help readers build a mental map of the past"
+  ],
+  "keyTakeaways": [
+    "Covers from the Big Bang to contemporary events in 256 pages",
+    "Organized chronologically into major historical periods",
+    "Each section covers key events, figures, and developments",
+    "Designed for readers who want an accessible overview without overwhelming detail",
+    "Includes timelines, fact boxes, and key concept explanations"
+  ],
+  "whoShouldRead": [
+    "Readers who missed formal history education and want an accessible overview",
+    "Students needing a quick chronological framework",
+    "Anyone who wants to refresh their knowledge of world history",
+    "Non-native English speakers seeking clear, simple historical exposition"
+  ],
+  "whoShouldSkip": [
+    "Readers with strong history backgrounds seeking new insights",
+    "Those who prefer deep analysis of specific periods",
+    "Academic historians or specialists"
+  ],
+  "relatedBooks": [
+    "the-timetables-of-history-bernard-grun",
+    "history-of-world-in-100-objects-neil-macgregor"
+  ]
 }

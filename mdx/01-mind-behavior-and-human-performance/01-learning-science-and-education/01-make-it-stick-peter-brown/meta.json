@@ -6,12 +6,78 @@
   "isbn": "9780674729018",
   "publisher": "Belknap Press",
   "language": "en",
-  "genres": ["Education", "Psychology", "Science", "Self-Help"],
-  "subjects": ["Learning", "Memory", "Cognitive Psychology", "Study Skills", "Metacognition"],
-  "themes": ["Retrieval Practice", "Spaced Repetition", "Interleaving", "Desirable Difficulties", "Metacognition"],
-  "tags": ["learning", "memory", "cognitive science", "retrieval practice", "spaced repetition", "interleaving", "study skills", "education", "metacognition", "deliberate practice"],
+  "genres": [
+    "Education",
+    "Psychology",
+    "Science",
+    "Self-Help"
+  ],
+  "subjects": [
+    "Learning",
+    "Memory",
+    "Cognitive Psychology",
+    "Study Skills",
+    "Metacognition"
+  ],
+  "themes": [
+    "Retrieval Practice",
+    "Spaced Repetition",
+    "Interleaving",
+    "Desirable Difficulties",
+    "Metacognition"
+  ],
+  "tags": [
+    "learning",
+    "memory",
+    "cognitive science",
+    "retrieval practice",
+    "spaced repetition",
+    "interleaving",
+    "study skills",
+    "education",
+    "metacognition",
+    "deliberate practice"
+  ],
   "difficulty": "medium",
   "estimatedReadingHours": 8,
   "estimatedListeningMinutes": 480,
-  "excerpt": "A sweeping reassessment of how learning actually works, grounded in cognitive science and debunking popular myths—showing that the most effective learning strategies are often counterintuitive, requiring effort, struggle, and the willingness to forget."
+  "excerpt": "A sweeping reassessment of how learning actually works, grounded in cognitive science and debunking popular myths—showing that the most effective learning strategies are often counterintuitive, requiring effort, struggle, and the willingness to forget.",
+  "year": 2014,
+  "addedAt": "2026-06-14",
+  "authors": [
+    "Peter C. Brown",
+    "Henry L. Roediger III",
+    "Mark A. McDaniel"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780674729018-L.jpg",
+    "color": "#1b3a5c"
+  },
+  "keyIdeas": [
+    "Retrieval practice is far more effective than re-reading or review",
+    "Spacing out learning sessions produces stronger long-term retention",
+    "Interleaving different topics strengthens the ability to discriminate between concepts",
+    "Desirable difficulties make learning harder in the short term but stronger in the long term"
+  ],
+  "keyTakeaways": [
+    "Replace re-reading and highlighting with active recall and self-testing",
+    "Space your study sessions over time rather than cramming",
+    "Mix up different topics and problem types rather than blocking them",
+    "Embrace struggle—if learning feels easy, you're probably not learning much"
+  ],
+  "whoShouldRead": [
+    "Students and lifelong learners who want to learn more effectively",
+    "Educators and instructional designers seeking evidence-based teaching methods",
+    "Professionals who need to retain and apply complex information",
+    "Anyone who has ever felt they studied hard but didn't retain what they learned"
+  ],
+  "whoShouldSkip": [
+    "Readers looking for quick, effortless learning hacks",
+    "Those unwilling to challenge their existing study habits"
+  ],
+  "relatedBooks": [
+    "a-mind-for-numbers-barbara-oakley",
+    "how-we-learn-benedict-carey",
+    "peak-anders-ericsson"
+  ]
 }

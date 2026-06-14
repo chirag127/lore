@@ -22,5 +22,46 @@
   "color": "#3e2723",
   "rationale": "The definitive single-volume popular history of the digital revolution written by one of America's leading biographers. Chosen as Book #1 for the history-of-technology leaf because it establishes the subcategory's defining thesis — that collaboration, not solitary genius, drives technological progress — while tracing computing from Ada Lovelace (1843) to Google and Wikipedia. Unconventional for the genre in its deliberate recovery of erased women contributors and its measured celebration of government-funded research alongside private enterprise.",
   "source": "generated",
-  "generatedAt": "2026-06-11"
+  "generatedAt": "2026-06-11",
+  "excerpt": "Walter Isaacson's sweeping narrative tracing the digital revolution from Ada Lovelace in the 1840s to the modern internet, arguing that collaboration — not solitary genius — is the true engine of technological progress.",
+  "tags": [
+    "digital-revolution",
+    "computing-history",
+    "innovation",
+    "collaboration",
+    "ada-lovelace",
+    "internet-history",
+    "silicon-valley",
+    "technology-history",
+    "walter-isaacson"
+  ],
+  "addedAt": "2026-06-11",
+  "keyIdeas": [
+    "Technological innovation is fundamentally collaborative — the lone genius is largely a myth",
+    "The digital revolution extends from Ada Lovelace's 1843 computer program to the early internet era",
+    "Creativity flourishes at the intersection of the arts and the sciences",
+    "Open, distributed systems tend to outcompete closed, hierarchical ones over time"
+  ],
+  "keyTakeaways": [
+    "Innovation is a team sport — the most significant advances come from networks, not individuals",
+    "The best innovators combine technical brilliance with artistic sensibility",
+    "Government funding (DARPA/ARPA) and academic research labs were indispensable to the digital revolution",
+    "Women like Ada Lovelace and Grace Hopper were foundational yet chronically under-recognized"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in how the modern computing and internet era came to be",
+    "Entrepreneurs, engineers, and product designers seeking lessons on fostering innovation",
+    "Educators and policymakers thinking about how to seed creative ecosystems",
+    "General readers who enjoy deeply researched narrative history about technology"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a rigorous technical analysis of computer architecture or software engineering",
+    "Specialist historians looking for primary-source excavation and archival depth",
+    "Those who prefer tightly argued academic monographs over journalistic narrative histories"
+  ],
+  "relatedBooks": [
+    "sapiens-yuval-noah-harari",
+    "the-weirdest-people-in-the-world-joseph-henrich",
+    "steve-jobs-walter-isaacson"
+  ]
 }

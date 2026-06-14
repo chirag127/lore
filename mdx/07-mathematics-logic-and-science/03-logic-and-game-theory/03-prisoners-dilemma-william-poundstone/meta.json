@@ -68,5 +68,11 @@
     "sync-steven-strogatz"
   ],
   "readingTimeMinutes": 480,
-  "listeningTimeMinutes": 660
+  "listeningTimeMinutes": 660,
+  "year": 1992,
+  "excerpt": "The gripping story of how John von Neumann invented game theory, the Cold War adopted it as nuclear strategy, and the prisoner's dilemma paradox came to define the most dangerous game humanity has ever played.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780385415804-L.jpg",
+    "color": "#3e2723"
+  }
 }

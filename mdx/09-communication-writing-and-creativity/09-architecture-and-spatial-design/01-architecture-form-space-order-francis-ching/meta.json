@@ -19,5 +19,57 @@
     "Nonfiction"
   ],
   "source": "generated",
-  "generatedAt": "2026-06-14"
+  "generatedAt": "2026-06-14",
+  "excerpt": "The classic visual reference for architectural design, using Ching's signature hand-drawn illustrations to explain the fundamental elements of built form.",
+  "tags": [
+    "architecture",
+    "design",
+    "form",
+    "space",
+    "order",
+    "architectural theory",
+    "drafting",
+    "Francis Ching"
+  ],
+  "addedAt": "2026-06-14",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781118745083-L.jpg",
+    "color": "#37474f"
+  },
+  "keyIdeas": [
+    "Architecture is the art of articulating space — form and space are inseparable",
+    "Primary elements (point, line, plane, volume) are the vocabulary of architectural form",
+    "Proportion and scale govern the relationship between building parts and the human body",
+    "Ordering principles (axis, symmetry, hierarchy, rhythm, datum, transformation) create coherence",
+    "Circulation is the connective tissue that makes a building experienceable",
+    "Light, texture, and material give form its sensory qualities"
+  ],
+  "keyTakeaways": [
+    "Every architectural design begins with the manipulation of primary elements",
+    "Space is defined by the elements that contain it, not by what fills it",
+    "Proportion systems like the golden ratio and modular scales create visual harmony",
+    "The ordering principles can be combined and transformed for expressive effect",
+    "Circulation paths shape how users understand and experience a building",
+    "Drawing by hand remains essential for understanding spatial relationships"
+  ],
+  "whoShouldRead": [
+    "Architecture students learning the fundamentals of design",
+    "Designers who want to understand spatial composition",
+    "Anyone interested in how buildings are conceived and structured",
+    "Drafters and CAD technicians wanting deeper design knowledge",
+    "Homeowners planning renovations who want to think like an architect"
+  ],
+  "whoShouldSkip": [
+    "Experienced architects already familiar with the vocabulary",
+    "Readers seeking construction details or building technology",
+    "Those looking for architectural history or theory",
+    "People who prefer photographs over hand-drawn illustrations"
+  ],
+  "relatedBooks": [
+    "the-architecture-of-happiness-alain-de-botton",
+    "complexity-and-contradiction-in-architecture-robert-venturi",
+    "a-visual-dictionary-of-architecture-francis-ching",
+    "building-construction-illustrated-francis-ching",
+    "the-cities-architecture-and-society-jane-jacobs"
+  ]
 }

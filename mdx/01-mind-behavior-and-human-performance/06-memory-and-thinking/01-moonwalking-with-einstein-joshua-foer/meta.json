@@ -8,8 +8,20 @@
   "publisher": "Penguin Books",
   "language": "en",
   "format": "Paperback",
-  "genres": ["Psychology", "Science", "Memory", "Cognitive Science", "Self-Help"],
-  "subjects": ["Memory", "Mnemonics", "Cognitive Enhancement", "Learning", "Memory Techniques"],
+  "genres": [
+    "Psychology",
+    "Science",
+    "Memory",
+    "Cognitive Science",
+    "Self-Help"
+  ],
+  "subjects": [
+    "Memory",
+    "Mnemonics",
+    "Cognitive Enhancement",
+    "Learning",
+    "Memory Techniques"
+  ],
   "authors": [
     {
       "name": "Joshua Foer",
@@ -19,5 +31,45 @@
   "openlibrary": "OL24915377M",
   "goodreads": 6346975,
   "rating": 4.0,
-  "ratingsCount": 250000
+  "ratingsCount": 250000,
+  "excerpt": "A journalist's yearlong journey from average memory to winning the US Memory Championship, revealing ancient techniques and cutting-edge science of remembering.",
+  "tags": [
+    "memory",
+    "mnemonics",
+    "memory palace",
+    "cognitive enhancement",
+    "learning"
+  ],
+  "addedAt": "2026-06-10",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780143120537-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Extraordinary memory is a skill that can be learned, not a genetic gift",
+    "Ancient memory techniques like the method of loci (memory palace) are still the most effective",
+    "Memory is deeply tied to visualization, spatial navigation, and creative association",
+    "What we remember is what we pay attention to—memory is a byproduct of engagement"
+  ],
+  "keyTakeaways": [
+    "Build memory palaces to remember lists, speeches, and complex information",
+    "Transform abstract information into vivid, memorable images",
+    "Practice memory techniques consistently to see dramatic improvement",
+    "Understand that a better memory leads to deeper learning and understanding"
+  ],
+  "whoShouldRead": [
+    "Anyone who wants to improve their memory for practical daily use",
+    "Students looking for better study and recall techniques",
+    "Professionals who need to remember large amounts of information",
+    "Fans of narrative nonfiction and immersive journalism"
+  ],
+  "whoShouldSkip": [
+    "Those seeking purely scientific analysis without personal narrative",
+    "Readers who find memory competitions uninteresting or gimmicky"
+  ],
+  "relatedBooks": [
+    "the-art-of-learning-josh-waitzkin",
+    "peak-anders-ericsson",
+    "ultralearning-scott-young"
+  ]
 }

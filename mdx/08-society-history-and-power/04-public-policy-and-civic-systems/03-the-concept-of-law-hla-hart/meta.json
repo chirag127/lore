@@ -19,5 +19,47 @@
   ],
   "source": "generated",
   "generatedAt": "2026-06-11",
-  "rationale": "The foundational text of modern legal positivism. Hart's union of primary and secondary rules, the rule of recognition, and the internal point of view redefined analytical jurisprudence in the 20th century. The 2012 OUP 3rd edition ISBN 9780199644704 covers xxx + 318pp."
+  "rationale": "The foundational text of modern legal positivism. Hart's union of primary and secondary rules, the rule of recognition, and the internal point of view redefined analytical jurisprudence in the 20th century. The 2012 OUP 3rd edition ISBN 9780199644704 covers xxx + 318pp.",
+  "excerpt": "The most influential work of legal philosophy in the 20th century, redefining law as a system of primary and secondary rules and reshaping how we understand legal obligation.",
+  "tags": [
+    "legal-philosophy",
+    "jurisprudence",
+    "legal-theory",
+    "rule-of-law",
+    "hart",
+    "positivism"
+  ],
+  "addedAt": "2026-06-11",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/id/12648600-L.jpg",
+    "color": "#3e2723"
+  },
+  "keyIdeas": [
+    "Law as a union of primary and secondary rules",
+    "The rule of recognition as the foundation of legal validity",
+    "The internal and external aspects of legal rules",
+    "The separation of law and morality"
+  ],
+  "keyTakeaways": [
+    "Law is best understood as a system of primary rules (duties) and secondary rules (power-conferring)",
+    "The rule of recognition is the ultimate criterion of legal validity in any legal system",
+    "Legal obligation involves the internal point of view — accepting rules as guiding behavior",
+    "Law and morality are conceptually distinct, though they may overlap in content"
+  ],
+  "whoShouldRead": [
+    "Law students and legal scholars",
+    "Philosophers of law and political theorists",
+    "Anyone interested in what law is and how it functions",
+    "Judges and legal practitioners seeking theoretical foundations"
+  ],
+  "whoShouldSkip": [
+    "Those seeking practical legal advice or case law",
+    "Readers without interest in abstract legal theory",
+    "People looking for a critique of specific legal systems"
+  ],
+  "relatedBooks": [
+    "the-path-of-law-oliver-wendell-holmes",
+    "law-legislation-and-liberty-friedrich-hayek",
+    "the-idea-of-justice-amartya-sen"
+  ]
 }

@@ -87,5 +87,11 @@
     "the-selfish-gene-richard-dawkins"
   ],
   "readingTimeMinutes": 780,
-  "listeningTimeMinutes": 1080
+  "listeningTimeMinutes": 1080,
+  "year": 2008,
+  "excerpt": "A masterful guide to game theory and strategic thinking that reveals how to recognize and navigate interactive decision-making situations, from business negotiations to everyday life.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780393062434-L.jpg",
+    "color": "#1a1a2e"
+  }
 }

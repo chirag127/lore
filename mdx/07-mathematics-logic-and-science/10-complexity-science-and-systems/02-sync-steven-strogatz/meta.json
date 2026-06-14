@@ -74,5 +74,11 @@
     "mathematical-models-in-biology-leah-edelstein-keshet"
   ],
   "readingTimeMinutes": 540,
-  "listeningTimeMinutes": 720
+  "listeningTimeMinutes": 720,
+  "year": 2003,
+  "excerpt": "A fascinating exploration of the science of synchronization — why fireflies flash together, clocks synchronize, audiences clap in rhythm, and how the universal tendency toward order emerges from the mathematics of coupled oscillators.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780786887217-L.jpg",
+    "color": "#ff6f00"
+  }
 }

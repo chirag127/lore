@@ -8,8 +8,19 @@
   "publisher": "St. Martin's Essentials",
   "language": "en",
   "pageCount": 320,
-  "genres": ["Psychology", "Self-Help", "Business", "Communication"],
-  "subjects": ["DISC Assessment", "Communication Styles", "Personality Types", "Behavioral Psychology", "Interpersonal Communication"],
+  "genres": [
+    "Psychology",
+    "Self-Help",
+    "Business",
+    "Communication"
+  ],
+  "subjects": [
+    "DISC Assessment",
+    "Communication Styles",
+    "Personality Types",
+    "Behavioral Psychology",
+    "Interpersonal Communication"
+  ],
   "themes": [
     "The four color-coded behavioral styles: Red (Dominant), Yellow (Influential), Green (Stable), Blue (Analytical)",
     "Why people communicate differently — and how to adapt your style",
@@ -18,9 +29,16 @@
     "Building teams with diverse behavioral styles"
   ],
   "tags": [
-    "disc", "communication", "behavioral-styles", "thomas-erikson",
-    "personality-types", "red-yellow-green-blue", "team-dynamics",
-    "interpersonal-skills", "leadership", "conflict-resolution"
+    "disc",
+    "communication",
+    "behavioral-styles",
+    "thomas-erikson",
+    "personality-types",
+    "red-yellow-green-blue",
+    "team-dynamics",
+    "interpersonal-skills",
+    "leadership",
+    "conflict-resolution"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 7,
@@ -29,5 +47,8 @@
     "International bestseller (over 3 million copies sold)",
     "Translated into 50+ languages"
   ],
-  "excerpt": "Have you ever wondered why some people are impossible to work with, while others seem to understand you immediately? Thomas Erikson, a Swedish behavioral expert, introduces the DISC system with a simple color-coded framework: Reds are dominant and decisive, Yellows are social and enthusiastic, Greens are calm and patient, Blues are analytical and precise. By understanding these four types, you can decode anyone's behavior and communicate with them effectively."
+  "excerpt": "Have you ever wondered why some people are impossible to work with, while others seem to understand you immediately? Thomas Erikson, a Swedish behavioral expert, introduces the DISC system with a simple color-coded framework: Reds are dominant and decisive, Yellows are social and enthusiastic, Greens are calm and patient, Blues are analytical and precise. By understanding these four types, you can decode anyone's behavior and communicate with them effectively.",
+  "authors": [
+    "Thomas Erikson"
+  ]
 }

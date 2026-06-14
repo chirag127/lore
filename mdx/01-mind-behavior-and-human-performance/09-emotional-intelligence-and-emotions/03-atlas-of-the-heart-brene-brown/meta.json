@@ -8,8 +8,19 @@
   "publisher": "Random House",
   "language": "en",
   "pageCount": 336,
-  "genres": ["Psychology", "Self-Help", "Sociology", "Personal Development"],
-  "subjects": ["Emotions", "Connection", "Vulnerability", "Communication", "Empathy"],
+  "genres": [
+    "Psychology",
+    "Self-Help",
+    "Sociology",
+    "Personal Development"
+  ],
+  "subjects": [
+    "Emotions",
+    "Connection",
+    "Vulnerability",
+    "Communication",
+    "Empathy"
+  ],
   "themes": [
     "Language shapes emotional experience — naming emotions gives us power over them",
     "The 87 emotions and experiences that define human connection",
@@ -18,9 +29,16 @@
     "The courage to tell the story of who you are with your whole heart"
   ],
   "tags": [
-    "brene-brown", "emotions", "vulnerability", "connection",
-    "empathy", "shame", "courage", "emotional-vocabulary",
-    "atlas-of-the-heart", "human-experience"
+    "brene-brown",
+    "emotions",
+    "vulnerability",
+    "connection",
+    "empathy",
+    "shame",
+    "courage",
+    "emotional-vocabulary",
+    "atlas-of-the-heart",
+    "human-experience"
   ],
   "difficulty": "easy",
   "estimatedReadingHours": 8,
@@ -29,5 +47,8 @@
     "New York Times Bestseller",
     "Over 5 million copies sold"
   ],
-  "excerpt": "Brené Brown spent two decades researching the emotions and experiences that define what it means to be human. In Atlas of the Heart, she maps 87 distinct emotions, organizing them into categories that reveal how they connect and differ. The result is an atlas of human experience — a vocabulary for understanding ourselves and a compass for navigating connection with others."
+  "excerpt": "Brené Brown spent two decades researching the emotions and experiences that define what it means to be human. In Atlas of the Heart, she maps 87 distinct emotions, organizing them into categories that reveal how they connect and differ. The result is an atlas of human experience — a vocabulary for understanding ourselves and a compass for navigating connection with others.",
+  "authors": [
+    "Brené Brown"
+  ]
 }
