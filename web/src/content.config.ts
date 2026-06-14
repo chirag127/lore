@@ -67,31 +67,34 @@ const relatedBookSchema = z
   .transform((b) => (typeof b === 'string' ? b : b.title));
 
 const overview = defineCollection({
-  loader: glob({ pattern: '**/index.mdx', base: '../knowledge' }),
+  loader: glob({ pattern: '**/00-index.mdx', base: '../knowledge' }),
   schema: z
     .object({
       title: z.string().default(''),
       excerpt: z.string().optional(),
+      order: z.number().optional(),
+      description: z.string().optional(),
     })
+    .passthrough()
     .transform((d) => ({ title: d.title, excerpt: d.excerpt })),
 });
 
 const content = defineCollection({
-  loader: glob({ pattern: '**/01-content.mdx', base: '../knowledge' }),
+  loader: glob({ pattern: '**/02-content.mdx', base: '../knowledge' }),
   schema: z
     .object({ title: z.string().default('') })
     .transform((d) => ({ title: d.title })),
 });
 
 const analysis = defineCollection({
-  loader: glob({ pattern: '**/02-analysis.mdx', base: '../knowledge' }),
+  loader: glob({ pattern: '**/03-analysis.mdx', base: '../knowledge' }),
   schema: z
     .object({ title: z.string().default('') })
     .transform((d) => ({ title: d.title })),
 });
 
 const narration = defineCollection({
-  loader: glob({ pattern: '**/03-narration.mdx', base: '../knowledge' }),
+  loader: glob({ pattern: '**/04-narration.mdx', base: '../knowledge' }),
   schema: z
     .object({ title: z.string().default('') })
     .transform((d) => ({ title: d.title })),
