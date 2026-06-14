@@ -2,60 +2,43 @@
 
 A research-grade personal knowledge library built around books.
 
-## Project Structure
+## Structure
 
 ```
-BookAtlas/
-├── knowledge/                    # Main knowledge base
-│   ├── 01-mind-behavior-and-human-performance/
-│   ├── 02-body-health-and-life-sciences/
-│   ├── 03-money-markets-and-wealth/
-│   ├── 04-computers-ai-and-software/
-│   ├── 05-business-strategy-and-organizations/
-│   ├── 06-philosophy-religion-and-indian-thought/
-│   ├── 07-math-logic-and-science/
-│   ├── 08-society-history-and-power/
-│   ├── 09-communication-writing-and-creativity/
-│   └── 10-fiction-and-literature/
-├── templates/                    # Book and category templates
-├── scripts/                      # Migration and validation scripts
-├── web/                          # Astro + React frontend
-└── 02-AGENTS.md                  # Agent definitions
+knowledge/
+  NN-Topic-Category/
+    NN-Subcategory/
+      NNN-book-slug-Book/
+        01-index.mdx
+        02-content.mdx
+        03-analysis.mdx
+        04-narration.mdx
+        meta.json
 ```
 
-## Categories
+## Categories (reading order)
 
-| # | Category | Focus |
-|---|----------|-------|
-| 01 | Mind, Behavior & Human Performance | Learning, psychology, decision-making |
-| 02 | Body, Health & Life Sciences | Medicine, nutrition, neuroscience |
-| 03 | Money, Markets & Wealth | Investing, economics, personal finance |
-| 04 | Computers, AI & Software | Programming, AI, system design |
-| 05 | Business, Strategy & Organizations | Leadership, entrepreneurship, strategy |
-| 06 | Philosophy, Religion & Indian Thought | Ethics, philosophy, wisdom traditions |
-| 07 | Math, Logic & Science | Mathematics, scientific method |
-| 08 | Society, History & Power | Social science, history, politics |
-| 09 | Communication, Writing & Creativity | Rhetoric, writing, storytelling |
-| 10 | Fiction & Literature | Literary fiction, poetry, drama |
+1. **Mind & Human Performance** — Learn how to learn first, then build habits, understand psychology, make decisions
+2. **Body & Health** — Sleep, nutrition, exercise, medicine
+3. **Money & Wealth** — Personal finance → behavioral finance → investing
+4. **Computers & Software** — Algorithms → CS theory → AI → engineering
+5. **Business & Strategy** — Leadership → strategy → entrepreneurship → marketing
+6. **Philosophy & Thought** — Ethics → Eastern → Western → comparative
+7. **Math & Science** — Popular science → math → stats → biology
+8. **Society & Power** — World history → social science → law → geopolitics
+9. **Communication** — Writing → language → rhetoric → public speaking
+10. **Fiction & Literature** — Sci-fi → art → biography → criticism → music
 
-## Book Structure
+## Naming Convention
 
-Each book contains exactly 5 files:
+| Level | Format | Example |
+|-------|--------|---------|
+| Category | `NN-Name-Category` | `01-mind-behavior-and-human-performance-Category` |
+| Subcategory | `NN-Name-Subcategory` | `01-learning-and-skill-acquisition-Subcategory` |
+| Book | `NNN-slug-Book` | `001-mastery-robert-greene-Book` |
 
-- `01-index.mdx` - Book overview and metadata
-- `02-content.mdx` - Comprehensive summary
-- `03-analysis.mdx` - Critical analysis
-- `04-narration.mdx` - Audio-friendly version
-- `meta.json` - Structured metadata
+## Stats
 
-## Category Structure
-
-Each leaf category contains:
-- `00-index.mdx` - Category overview and scope
-
-## Getting Started
-
-1. Browse categories in `knowledge/`
-2. Each leaf category has an `00-index.mdx` explaining the focus
-3. Books live directly inside leaf categories (knowledge/top-cat/leaf-cat/book/)
-4. Use the templates in `templates/` for new books
+- 785 books across 101 subcategories in 10 categories
+- Books numbered in reading order within each subcategory
+- Categories and subcategories ordered by learning dependency
