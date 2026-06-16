@@ -1,0 +1,65 @@
+{
+  "slug": "an-essay-concerning-human-understanding-john-locke",
+  "title": "An Essay Concerning Human Understanding",
+  "author": "John Locke",
+  "authors": [
+    "John Locke"
+  ],
+  "publicationYear": 1690,
+  "year": 1690,
+  "isbn": "9780140434828",
+  "pages": 816,
+  "publisher": "Penguin Classics",
+  "language": "en",
+  "genres": [
+    "Philosophy",
+    "Epistemology"
+  ],
+  "subjects": [
+    "Empiricism",
+    "Knowledge",
+    "Ideas",
+    "Language"
+  ],
+  "themes": [
+    "Experience vs Innate Ideas",
+    "Human Understanding",
+    "Empiricism"
+  ],
+  "tags": [
+    "philosophy",
+    "epistemology",
+    "john locke",
+    "empiricism",
+    "knowledge",
+    "human understanding"
+  ],
+  "difficulty": "hard",
+  "estimatedReadingHours": 18,
+  "estimatedListeningMinutes": 1080,
+  "excerpt": "John Locke's monumental work provides a complete account of how we acquire everyday, mathematical, scientific, religious, and ethical knowledge.",
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "05-epistemology-and-truth",
+  "addedAt": 1781448986233,
+  "whoShouldRead": [
+    "Readers interested in Philosophy and Epistemology"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of An Essay Concerning Human Understanding"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780140434828-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "02-empiricism",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "05-epistemology-and-truth",
+    "02-empiricism"
+  ]
+}

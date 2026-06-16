@@ -1,0 +1,87 @@
+{
+  "id": "the-elements-of-style-strunk-white",
+  "slug": "the-elements-of-style-strunk-white",
+  "title": "The Elements of Style",
+  "subtitle": null,
+  "authors": [
+    "William Strunk Jr.",
+    "E.B. White"
+  ],
+  "year": 1999,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "02-dictionaries-and-language-reference",
+  "pages": 105,
+  "isbn": "9780205309023",
+  "language": "en",
+  "genres": [
+    "Language",
+    "Style Guide",
+    "Reference",
+    "Writing"
+  ],
+  "subjects": [
+    "English Language",
+    "Writing Style",
+    "Grammar",
+    "Rhetoric"
+  ],
+  "themes": [
+    "Clarity in Writing",
+    "Linguistic Authority",
+    "Composition"
+  ],
+  "tags": [
+    "writing",
+    "grammar",
+    "style",
+    "English",
+    "usage",
+    "composition",
+    "reference",
+    "editing"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 2,
+  "estimatedListeningMinutes": 120,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "The classic guide to English writing style, covering elementary rules of usage, principles of composition, and matters of form with Strunk's famous emphasis on omitting needless words.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780205309023-L.jpg",
+    "color": "#2C3E50"
+  },
+  "keyIdeas": [
+    "Omit needless words — brevity and clarity are the highest virtues in writing",
+    "Rules of grammar and usage exist to serve communication, not to constrain it",
+    "Good writing requires attention to both rules and style"
+  ],
+  "keyTakeaways": [
+    "Every word must earn its place in the sentence",
+    "Active voice is generally stronger than passive voice",
+    "Put statements in positive form",
+    "Use definite, specific, concrete language",
+    "Revise and rewrite relentlessly"
+  ],
+  "whoShouldRead": [
+    "Anyone who writes in English professionally or academically",
+    "Students learning to write clear, effective prose",
+    "Non-native speakers seeking a concise usage reference",
+    "Editors and copywriters who need a quick style reference"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking descriptive linguistics rather than prescriptive guidance",
+    "Those who find traditional grammar rules limiting or outdated",
+    "Writers who prefer creative writing guides to style manuals"
+  ],
+  "relatedBooks": [
+    "garners-modern-english-usage-bryan-garner",
+    "oxford-english-dictionary-compact-edition"
+  ],
+  "subtopic": "01-english-language",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "02-dictionaries-and-language-reference",
+    "01-english-language"
+  ]
+}

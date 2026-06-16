@@ -1,0 +1,92 @@
+{
+  "slug": "rationality-steven-pinker",
+  "title": "Rationality: What It Is, Why It Seems Scarce, Why It Matters",
+  "author": "Steven Pinker",
+  "publicationYear": 2021,
+  "isbn": "9780525561996",
+  "publisher": "Viking",
+  "language": "en",
+  "genres": [
+    "Psychology",
+    "Philosophy",
+    "Cognitive Science",
+    "Science"
+  ],
+  "subjects": [
+    "Rationality",
+    "Reason",
+    "Cognitive Science",
+    "Logic",
+    "Critical Thinking",
+    "Probability"
+  ],
+  "themes": [
+    "The Nature of Rationality",
+    "Logic and Critical Thinking",
+    "Probability and Bayes' Rule",
+    "Rationality in Groups",
+    "Why Rationality Matters for Civilization"
+  ],
+  "tags": [
+    "rationality",
+    "reason",
+    "logic",
+    "critical-thinking",
+    "decision-making",
+    "cognitive-science",
+    "pinker",
+    "bayes",
+    "probability",
+    "heuristics",
+    "psychology",
+    "philosophy"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 11,
+  "estimatedListeningMinutes": 660,
+  "excerpt": "Steven Pinker makes the case that rationality is not a innate human birthright but a set of cognitive tools that must be learned—and that mastering them is essential not just for individual flourishing but for the survival of civilization itself.",
+  "year": 2021,
+  "addedAt": 1781395200000,
+  "authors": [
+    "Steven Pinker"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780525561996-L.jpg",
+    "color": "#2c3e50"
+  },
+  "keyIdeas": [
+    "Rationality is a toolkit of reasoning strategies, not a single ability",
+    "Logic, probability, and critical thinking are learnable skills",
+    "People are not irrational—they are rational in different contexts",
+    "Rationality matters because irrationality has real-world consequences"
+  ],
+  "keyTakeaways": [
+    "Understand the tools of logic and avoid common fallacies",
+    "Think probabilistically using Bayes' rule",
+    "Seek out disconfirming evidence rather than confirmation",
+    "Recognize that rationality is a collective achievement, not an individual one"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in improving their reasoning abilities",
+    "Students of psychology, philosophy, and cognitive science",
+    "Fans of Kahneman and Tetlock who want the philosophical foundations",
+    "People concerned about the state of public discourse and misinformation"
+  ],
+  "whoShouldSkip": [
+    "Readers looking for quick practical tips (this is more conceptual)",
+    "Those who find Pinker's style overly combative or dismissive"
+  ],
+  "relatedBooks": [
+    "thinking-fast-and-slow-daniel-kahneman",
+    "superforecasting-philip-tetlock",
+    "seeking-wisdom-peter-bevelin"
+  ],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "03-decision-making-and-judgment",
+  "subtopic": "06-rationality",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "03-decision-making-and-judgment",
+    "06-rationality"
+  ]
+}

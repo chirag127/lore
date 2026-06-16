@@ -1,0 +1,78 @@
+{
+  "id": "dont-make-me-think-steve-krug",
+  "title": "Don't Make Me Think",
+  "slug": "02-dont-make-me-think-steve-krug",
+  "authors": [
+    "Steve Krug"
+  ],
+  "year": 2013,
+  "category": "11-arts-design-and-culture",
+  "subcategory": "02-design-theory-and-ergonomics",
+  "pages": 216,
+  "isbn": "9780321965516",
+  "publisher": "New Riders",
+  "language": "en",
+  "genres": [
+    "UX",
+    "Web Design",
+    "Usability",
+    "Nonfiction"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "A brilliantly concise guide to web usability built on the core principle that good websites let users accomplish their goals without conscious effort.",
+  "tags": [
+    "UX",
+    "usability",
+    "web design",
+    "interaction design",
+    "user testing",
+    "intuitive design",
+    "Steve Krug"
+  ],
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780321965516-L.jpg",
+    "color": "#e65100"
+  },
+  "keyIdeas": [
+    "The first law of usability: don't make me think â€” the page should be self-evident",
+    "Users don't read pages â€” they scan them, looking for what they need",
+    "Web designers waste time arguing over things that don't matter to users",
+    "Kill the welcome mat â€” remove introductory content that gets in the way",
+    "Usability testing with three users is better than testing with none",
+    "The user's tolerance for unusable sites is remarkably low"
+  ],
+  "keyTakeaways": [
+    "Design for scanning, not reading â€” use clear headings, short paragraphs, and visual hierarchy",
+    "Eliminate unnecessary words and choices to reduce cognitive load",
+    "Conventions are your friend â€” don't reinvent the wheel",
+    "Test early and often â€” one user test is worth a dozen expert opinions",
+    "Make every page self-explanatory so users don't have to think"
+  ],
+  "whoShouldRead": [
+    "Web designers and developers building websites or apps",
+    "Product managers who want to understand usability basics",
+    "Content creators writing for the web",
+    "Anyone who has ever watched a user struggle with a website",
+    "Startup founders building their first product"
+  ],
+  "whoShouldSkip": [
+    "Experienced UX professionals (the concepts are foundational)",
+    "Designers looking for advanced interaction design patterns",
+    "Those seeking visual design guidance or aesthetic principles",
+    "Hardware or physical product designers"
+  ],
+  "relatedBooks": [
+    "the-design-of-everyday-things-don-norman",
+    "universal-principles-of-design-william-lidwell",
+    "about-face-alan-cooper",
+    "rocket-surgery-made-easy-steve-krug"
+  ],
+  "subtopic": "02-ux",
+  "categoryPath": [
+    "11-arts-design-and-culture",
+    "02-design-theory-and-ergonomics",
+    "02-ux"
+  ]
+}

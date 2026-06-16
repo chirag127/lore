@@ -1,0 +1,68 @@
+{
+  "id": "a-sand-county-almanac-aldo-leopold",
+  "title": "A Sand County Almanac",
+  "slug": "01-a-sand-county-almanac-aldo-leopold",
+  "authors": [
+    "Aldo Leopold"
+  ],
+  "year": 1949,
+  "category": "08-mathematics-science-and-technology",
+  "subcategory": "09-ecology-and-environmental-science",
+  "pages": 226,
+  "isbn": "9780195007770",
+  "language": "en",
+  "genres": [
+    "Nature Writing",
+    "Ecology",
+    "Philosophy",
+    "Conservation"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "The founding text of modern conservation ethics - a lyrical month-by-month account of life on a Wisconsin farm that builds to a revolutionary philosophy of land stewardship.",
+  "tags": [
+    "land-ethic",
+    "conservation",
+    "ecology",
+    "wilderness",
+    "aldo-leopold"
+  ],
+  "addedAt": 1780963200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780195007770-L.jpg",
+    "color": "#3a4a2e"
+  },
+  "keyIdeas": [
+    "A land ethic enlarges the boundaries of community to include soils, waters, plants, and animals",
+    "Conservation is a state of harmony between men and land",
+    "Thinking like a mountain means understanding the ecological role of predators",
+    "The value of wilderness cannot be reduced to economic terms"
+  ],
+  "keyTakeaways": [
+    "A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community",
+    "The land is not a commodity to be owned but a community to which we belong",
+    "Ecological education must engage the heart as well as the mind",
+    "Wilderness is not a luxury but a necessity for human flourishing"
+  ],
+  "whoShouldRead": [
+    "Environmentalists, conservationists, and land managers",
+    "Hunters, farmers, and anyone who works the land",
+    "Students of environmental ethics and philosophy",
+    "Readers of Thoreau, Muir, and Carson"
+  ],
+  "whoShouldSkip": [
+    "Those seeking a scientific ecology textbook",
+    "Readers uncomfortable with hunting as a conservation practice"
+  ],
+  "relatedBooks": [
+    "silent-spring-rachel-carson",
+    "braiding-sweetgrass-robin-kimmerer",
+    "pilgrim-at-tinker-creek-annie-dillard"
+  ],
+  "subtopic": "04-nature-writing",
+  "categoryPath": [
+    "08-mathematics-science-and-technology",
+    "09-ecology-and-environmental-science",
+    "04-nature-writing"
+  ]
+}

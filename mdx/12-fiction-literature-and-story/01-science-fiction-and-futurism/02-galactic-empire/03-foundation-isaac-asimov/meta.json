@@ -1,0 +1,63 @@
+{
+  "slug": "foundation-isaac-asimov",
+  "title": "Foundation",
+  "author": "Isaac Asimov",
+  "authors": [
+    "Isaac Asimov"
+  ],
+  "publicationYear": 1951,
+  "year": 1951,
+  "isbn": "9780553293357",
+  "pages": 296,
+  "publisher": "Bantam Spectra",
+  "language": "en",
+  "genres": [
+    "Science Fiction",
+    "Fiction"
+  ],
+  "subjects": [
+    "Galactic Empire",
+    "Psychohistory",
+    "Future History"
+  ],
+  "themes": [
+    "Civilization",
+    "Prediction",
+    "Decline and Fall"
+  ],
+  "tags": [
+    "sci-fi",
+    "asimov",
+    "foundation",
+    "psychohistory",
+    "galactic empire"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 8,
+  "estimatedListeningMinutes": 480,
+  "excerpt": "A cycle of short stories about the Foundation preserving civilization after the collapse of the Galactic Empire, based on the science of psychohistory.",
+  "category": "12-fiction-literature-and-story",
+  "subcategory": "01-science-fiction-and-futurism",
+  "addedAt": 1781448986274,
+  "whoShouldRead": [
+    "Readers interested in Science Fiction and Fiction"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of Foundation"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780553293357-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "02-galactic-empire",
+  "categoryPath": [
+    "12-fiction-literature-and-story",
+    "01-science-fiction-and-futurism",
+    "02-galactic-empire"
+  ]
+}

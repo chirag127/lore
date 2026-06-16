@@ -1,0 +1,88 @@
+{
+  "id": "history-of-world-in-100-objects-neil-macgregor",
+  "slug": "history-of-world-in-100-objects-neil-macgregor",
+  "title": "A History of the World in 100 Objects",
+  "subtitle": null,
+  "authors": [
+    "Neil MacGregor"
+  ],
+  "year": 2011,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "06-timelines-and-historical-reference",
+  "pages": 736,
+  "isbn": "9780143124153",
+  "language": "en",
+  "genres": [
+    "History",
+    "Art",
+    "Archaeology",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "World History",
+    "Museums",
+    "Material Culture",
+    "Archaeology"
+  ],
+  "themes": [
+    "Human Achievement",
+    "Cultural Exchange",
+    "Material Evidence of History"
+  ],
+  "tags": [
+    "history",
+    "artifacts",
+    "museums",
+    "british-museum",
+    "cultural-history",
+    "archaeology",
+    "world-history",
+    "material-culture",
+    "BBC",
+    "MacGregor"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 11,
+  "estimatedListeningMinutes": 660,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "A groundbreaking history of humanity told through 100 selected objects from the British Museum, spanning two million years from Stone Age tools to modern credit cards.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780143124153-L.jpg",
+    "color": "#5D4E37"
+  },
+  "keyIdeas": [
+    "Objects offer a unique perspective on history that texts alone cannot provide",
+    "Physical artifacts connect us directly to the people who made and used them",
+    "A global history can be told through objects that transcend cultural and temporal boundaries"
+  ],
+  "keyTakeaways": [
+    "Objects reveal aspects of past lives that written records omit",
+    "Every object carries multiple stories — of its creation, use, and discovery",
+    "The selection spans 2 million years and all inhabited continents",
+    "The book originated as a BBC Radio 4 series, later adapted for print",
+    "Objects range from humble everyday items to great works of art"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in world history told through a fresh lens",
+    "Museum lovers and archaeology enthusiasts",
+    "Readers who enjoy narrative nonfiction with strong visual elements",
+    "Teachers looking for engaging ways to present history to students"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking traditional political or military history",
+    "Those who prefer deep coverage of specific periods to broad overview",
+    "People who want text-only history without visual illustration"
+  ],
+  "relatedBooks": [
+    "the-timetables-of-history-bernard-grun",
+    "history-of-world-in-bite-sized-chunks-emma-marriott"
+  ],
+  "subtopic": "01-world-history",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "06-timelines-and-historical-reference",
+    "01-world-history"
+  ]
+}

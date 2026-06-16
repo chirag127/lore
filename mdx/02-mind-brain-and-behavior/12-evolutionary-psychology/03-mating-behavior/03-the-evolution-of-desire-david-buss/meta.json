@@ -1,0 +1,87 @@
+{
+  "slug": "the-evolution-of-desire-david-buss",
+  "title": "The Evolution of Desire",
+  "subtitle": "Strategies of Human Mating",
+  "author": "David M. Buss",
+  "publicationYear": 1994,
+  "editions": [
+    {
+      "year": 1994,
+      "label": "1st edition",
+      "pages": 272,
+      "isbn": "9780465078026"
+    },
+    {
+      "year": 2003,
+      "label": "Revised edition",
+      "pages": 368,
+      "isbn": "9780465078095"
+    },
+    {
+      "year": 2016,
+      "label": "2nd edition",
+      "pages": 384,
+      "isbn": "9780465097768"
+    }
+  ],
+  "publisher": "Basic Books",
+  "language": "en",
+  "pageCount": 384,
+  "isbn": "9780465097768",
+  "genres": [
+    "Psychology",
+    "Evolutionary Psychology",
+    "Science",
+    "Relationships"
+  ],
+  "subjects": [
+    "Mating behavior",
+    "Evolutionary psychology",
+    "Human sexuality",
+    "Mate selection",
+    "Sexual strategies",
+    "Relationships"
+  ],
+  "themes": [
+    "Human mating follows evolved strategies shaped by natural and sexual selection",
+    "Men and women face different adaptive problems in mating, leading to different evolved strategies",
+    "Mate preferences are not arbitrary — they reflect cues to reproductive value and investment potential",
+    "Jealousy, love, commitment, and conflict all have evolutionary logic",
+    "Mating strategies are context-dependent — short-term and long-term strategies differ",
+    "Understanding evolved mating psychology illuminates modern relationship dynamics"
+  ],
+  "tags": [
+    "evolutionary-psychology",
+    "mating",
+    "david-buss",
+    "human-sexuality",
+    "mate-selection",
+    "sexual-strategies",
+    "relationships",
+    "jealousy",
+    "attraction",
+    "evolution",
+    "science",
+    "psychology"
+  ],
+  "difficulty": "intermediate",
+  "estimatedReadingHours": 10,
+  "estimatedListeningMinutes": 600,
+  "excerpt": "Human mating is a rich and complex phenomenon — a source of our deepest joys and our most profound sorrows. But beneath the cultural diversity and individual variation, there are universal patterns of desire. These patterns are not arbitrary. They are the product of millions of years of evolution, shaped by the adaptive problems our ancestors faced in the quest to reproduce.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780465097768-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "12-evolutionary-psychology",
+  "subtopic": "03-mating-behavior",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "12-evolutionary-psychology",
+    "03-mating-behavior"
+  ]
+}

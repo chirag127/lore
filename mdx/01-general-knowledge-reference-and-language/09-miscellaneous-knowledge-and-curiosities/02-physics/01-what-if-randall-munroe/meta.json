@@ -1,0 +1,87 @@
+{
+  "id": "what-if-randall-munroe",
+  "slug": "what-if-randall-munroe",
+  "title": "What If? Serious Scientific Answers to Absurd Hypothetical Questions",
+  "subtitle": null,
+  "authors": [
+    "Randall Munroe"
+  ],
+  "year": 2014,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "09-miscellaneous-knowledge-and-curiosities",
+  "pages": 320,
+  "isbn": "9780544272996",
+  "language": "en",
+  "genres": [
+    "Popular Science",
+    "Humor",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "Science",
+    "Physics",
+    "Humor",
+    "Hypothetical Questions"
+  ],
+  "themes": [
+    "Scientific Thinking",
+    "Curiosity",
+    "Creative Problem-Solving"
+  ],
+  "tags": [
+    "science",
+    "humor",
+    "what-if",
+    "physics",
+    "xkcd",
+    "hypothetical-questions",
+    "popular-science",
+    "comics",
+    "Munroe",
+    "STEM"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 5,
+  "estimatedListeningMinutes": 300,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "A brilliant and hilarious exploration of absurd hypothetical questions answered with real physics and rigorous scientific thinking, from the creator of xkcd.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780544272996-L.jpg",
+    "color": "#E67E22"
+  },
+  "keyIdeas": [
+    "Scientific thinking can be applied to any question, no matter how absurd",
+    "Understanding the world through extreme hypotheticals reveals how science actually works",
+    "Humor and rigorous science are not mutually exclusive"
+  ],
+  "keyTakeaways": [
+    "Absurd questions often lead to profound scientific insights",
+    "Applying physics to extreme scenarios reveals the limits and capabilities of our world",
+    "Scientific literacy means knowing how to reason, not just what facts to memorize",
+    "The process of finding the answer is often more valuable than the answer itself",
+    "Humor makes science more accessible and memorable"
+  ],
+  "whoShouldRead": [
+    "Fans of xkcd and Randall Munroe's unique brand of humor-science",
+    "Anyone who has ever wondered about absurd hypothetical questions",
+    "Science enthusiasts who enjoy rigorous thinking applied to creative problems",
+    "Young readers who need convincing that science is fun"
+  ],
+  "whoShouldSkip": [
+    "Readers who prefer strictly serious science without humor",
+    "Those who find hypothetical thought experiments pointless",
+    "People who want systematic science education rather than entertainment"
+  ],
+  "relatedBooks": [
+    "the-disappearing-spoon-sam-kean",
+    "lost-in-math-sabine-hossenfelder"
+  ],
+  "subtopic": "02-physics",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "09-miscellaneous-knowledge-and-curiosities",
+    "02-physics"
+  ]
+}

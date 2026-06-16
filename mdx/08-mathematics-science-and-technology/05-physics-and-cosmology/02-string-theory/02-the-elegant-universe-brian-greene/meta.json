@@ -1,0 +1,66 @@
+{
+  "slug": "the-elegant-universe-brian-greene",
+  "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+  "author": "Brian Greene",
+  "authors": [
+    "Brian Greene"
+  ],
+  "publicationYear": 1999,
+  "year": 1999,
+  "isbn": "9780393046885",
+  "pages": 448,
+  "publisher": "W. W. Norton & Company",
+  "language": "en",
+  "genres": [
+    "Physics",
+    "Cosmology",
+    "Science"
+  ],
+  "subjects": [
+    "String Theory",
+    "Superstrings",
+    "Quantum Mechanics",
+    "Relativity"
+  ],
+  "themes": [
+    "Unified Theory",
+    "Hidden Dimensions",
+    "Reality"
+  ],
+  "tags": [
+    "physics",
+    "string theory",
+    "superstrings",
+    "quantum mechanics",
+    "relativity",
+    "unified theory"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 12,
+  "estimatedListeningMinutes": 720,
+  "excerpt": "Greene introduces string theory and superstring theory to a general audience, presenting the revolutionary idea that the fundamental constituents of reality are not point-like particles but tiny, vibrating strings.",
+  "category": "08-mathematics-science-and-technology",
+  "subcategory": "05-physics-and-cosmology",
+  "addedAt": 1781448632723,
+  "whoShouldRead": [
+    "Readers interested in Physics and Cosmology and Science"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780393046885-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "02-string-theory",
+  "categoryPath": [
+    "08-mathematics-science-and-technology",
+    "05-physics-and-cosmology",
+    "02-string-theory"
+  ]
+}

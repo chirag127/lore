@@ -1,0 +1,80 @@
+{
+  "id": "salt-sugar-fat-michael-moss",
+  "title": "Salt Sugar Fat: How the Food Giants Hooked Us",
+  "slug": "01-salt-sugar-fat-michael-moss",
+  "authors": [
+    "Michael Moss"
+  ],
+  "year": 2013,
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "04-nutrition-and-metabolic-health",
+  "pages": 446,
+  "isbn": "9781400069804",
+  "language": "en",
+  "genres": [
+    "Nutrition",
+    "Investigative Journalism",
+    "Food Science",
+    "Public Health"
+  ],
+  "publisher": "Random House",
+  "originalYear": 2013,
+  "rationale": "Salt Sugar Fat is the defining investigative exposé of the processed food industry's deliberate manipulation of three core ingredients to engineer addictive products. Michael Moss, a Pulitzer Prize-winning New York Times investigative reporter, secured unprecedented access to industry insiders, internal documents, and food science laboratories to build a damning case that the obesity epidemic was not an accident of consumer choice but a calculated outcome of corporate strategy. The book spent over six months on the New York Times bestseller list, won the James Beard Foundation Book Award for Writing and Literature, and has been translated into 22 languages. Published February 26, 2013 by Random House (hardcover, 446 pages, ISBN 9781400069804). The paperback edition (2014, Random House Trade Paperbacks, ISBN 9780812982190, 480 pages) includes an updated afterword. The book is structured in three parts covering sugar (chapters 1-4), fat (chapters 5-8), and salt (chapters 9-11), with an epilogue on consumer action. Moss's reporting built on his Pulitzer Prize-winning 2009 New York Times series on food safety that popularized the term 'pink slime.'",
+  "source": "generated",
+  "verifiedVia": "Open Library (OL26261797M), WorldCat, Penguin Random House publisher site, Goodreads (15797397), New York Times Book Review",
+  "generatedAt": "2026-06-12",
+  "excerpt": "A Pulitzer Prize-winning investigative journalist's exposé of how the processed food industry engineered products with precise levels of salt, sugar, and fat to hijack human biology, create addiction, and fuel the global obesity epidemic.",
+  "tags": [
+    "nutrition",
+    "food-industry",
+    "obesity",
+    "processed-food",
+    "investigative-journalism",
+    "sugar",
+    "public-health",
+    "addiction"
+  ],
+  "addedAt": 1781222400000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780812982190-L.jpg",
+    "color": "#c62828"
+  },
+  "keyIdeas": [
+    "Food companies engineer products to hit the 'bliss point' — the precise sugar concentration that maximizes consumer craving",
+    "Salt functions not just as flavor but as a mask for the metallic and stale tastes of processed ingredients",
+    "Fat has no built-in satiety limit in humans; more fat is always perceived as better",
+    "The combination of sugar and fat overrides the body's natural stop-signal for sweetness",
+    "Philip Morris and other tobacco conglomerates owned major food companies and transferred addiction-marketing strategies"
+  ],
+  "keyTakeaways": [
+    "Processed foods are chemically designed, not accidentally addictive — the science is deliberate and precise",
+    "Industry insiders from Kraft, Nestlé, Coca-Cola, and General Mills admitted prioritizing profit over health",
+    "Regulatory failures allowed the food industry to self-regulate, producing decades of inaction on obesity",
+    "Consumers can reclaim agency by understanding the manipulation and cooking from scratch",
+    "Government subsidies for corn, soy, and wheat indirectly made cheap processed ingredients ubiquitous"
+  ],
+  "whoShouldRead": [
+    "Anyone concerned about nutrition, public health, and the American diet",
+    "Policy makers, regulators, and public health advocates",
+    "Consumers confused by conflicting dietary advice and marketing claims",
+    "Students of journalism, investigative reporting, and food systems"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a prescriptive diet plan or meal-by-meal nutritional guidance",
+    "Those uncomfortable with detailed reporting on corporate malfeasance",
+    "Anyone looking for a quick, lightweight read — this is a dense 446-page investigation"
+  ],
+  "relatedBooks": [
+    "the-end-of-overeating-david-kessler",
+    "food-politics-marion-nestle",
+    "the-dorito-effect-mark-schatzker",
+    "in-defense-of-food-michael-pollan",
+    "hooked-michael-moss"
+  ],
+  "subtopic": "01-nutrition",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "04-nutrition-and-metabolic-health",
+    "01-nutrition"
+  ]
+}

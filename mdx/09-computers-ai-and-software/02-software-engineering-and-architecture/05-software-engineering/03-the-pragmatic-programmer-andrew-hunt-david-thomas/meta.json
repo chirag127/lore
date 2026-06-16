@@ -1,0 +1,70 @@
+{
+  "id": "the-pragmatic-programmer-andrew-hunt-david-thomas",
+  "title": "The Pragmatic Programmer: From Journeyman to Master",
+  "slug": "03-the-pragmatic-programmer-andrew-hunt-david-thomas",
+  "authors": [
+    "Andrew Hunt",
+    "David Thomas"
+  ],
+  "year": 1999,
+  "category": "09-computers-ai-and-software",
+  "subcategory": "02-software-engineering-and-architecture",
+  "pages": 320,
+  "isbn": "9780135957059",
+  "language": "en",
+  "genres": [
+    "Software Engineering",
+    "Programming Craft"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-11",
+  "excerpt": "A landmark collection of software engineering wisdom that introduced DRY, rubber duck debugging, and the pragmatic philosophy of craftsmanship — teaching programmers how to think, not just what to code.",
+  "tags": [
+    "software craftsmanship",
+    "DRY",
+    "debugging",
+    "agile",
+    "engineering philosophy",
+    "code quality",
+    "personal development"
+  ],
+  "addedAt": 1781136000000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg",
+    "color": "#0d47a1"
+  },
+  "keyIdeas": [
+    "DRY (Don't Repeat Yourself) — every piece of knowledge must have a single, unambiguous, authoritative representation",
+    "Software entropy and broken windows — disorder accelerates when small problems go unfixed",
+    "Tracer bullets vs. prototypes — build thin end-to-end slices instead of throwaway experiments",
+    "Orthogonality — design components that are independent and composable"
+  ],
+  "keyTakeaways": [
+    "Invest regularly in your knowledge portfolio through deliberate learning habits",
+    "Take personal responsibility for your code; provide solutions, not excuses",
+    "Design for change by keeping options open and decoupling decisions",
+    "Test ruthlessly — make testing an integral part of coding, not a separate phase"
+  ],
+  "whoShouldRead": [
+    "Junior and mid-level programmers seeking a principled foundation",
+    "Experienced engineers wanting to codify intuitions into disciplined practice",
+    "Technical leads responsible for team culture and code quality",
+    "Computer science students who want the 'real world' supplement to theory"
+  ],
+  "whoShouldSkip": [
+    "Non-technical managers looking for process frameworks",
+    "Developers who want language- or framework-specific tutorials",
+    "Readers seeking a systematic theory of software engineering"
+  ],
+  "relatedBooks": [
+    "code-complete-steve-mcconnell",
+    "mythical-man-month-fred-brooks",
+    "clean-code-robert-martin"
+  ],
+  "subtopic": "05-software-engineering",
+  "categoryPath": [
+    "09-computers-ai-and-software",
+    "02-software-engineering-and-architecture",
+    "05-software-engineering"
+  ]
+}

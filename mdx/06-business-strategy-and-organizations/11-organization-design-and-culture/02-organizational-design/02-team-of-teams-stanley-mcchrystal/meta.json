@@ -1,0 +1,97 @@
+{
+  "slug": "02-team-of-teams-stanley-mcchrystal",
+  "title": "Team of Teams",
+  "subtitle": "New Rules of Engagement for a Complex World",
+  "author": "Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell",
+  "publicationYear": 2015,
+  "isbn": "9781591847489",
+  "publisher": "Portfolio",
+  "language": "en",
+  "pageCount": 304,
+  "genres": [
+    "Business",
+    "Leadership",
+    "Organizational Theory",
+    "Military"
+  ],
+  "subjects": [
+    "Organizational Design",
+    "Leadership",
+    "Team Management",
+    "Complexity Theory",
+    "Military Strategy"
+  ],
+  "themes": [
+    "Transforming hierarchies into networks",
+    "Shared consciousness through radical transparency",
+    "Empowered execution through decentralized authority",
+    "Leaders as ecosystem gardeners",
+    "Balancing efficiency and adaptability"
+  ],
+  "tags": [
+    "organizational-design",
+    "leadership",
+    "military",
+    "agile",
+    "teams",
+    "stanley-mcchrystal",
+    "complexity",
+    "decentralization",
+    "JSOC",
+    "shared-consciousness",
+    "empowered-execution",
+    "network-organization"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 6,
+  "estimatedListeningMinutes": 360,
+  "year": 2015,
+  "excerpt": "A battlefield-tested blueprint for transforming rigid, hierarchical organizations into adaptable networks capable of operating at the speed of complexity.",
+  "addedAt": 1781395200000,
+  "authors": [
+    "General Stanley McChrystal",
+    "Tantum Collins",
+    "David Silverman",
+    "Chris Fussell"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781591847489-L.jpg",
+    "color": "#34495e"
+  },
+  "keyIdeas": [
+    "Traditional command-and-control breaks down under complexity",
+    "The shift from \"command\" to \"enable\" leadership",
+    "Shared consciousness through radical transparency",
+    "Empowered execution with decentralized decision-making",
+    "The liaison role as organizational connective tissue"
+  ],
+  "keyTakeaways": [
+    "Complex problems require networked, not hierarchical, organizational structures",
+    "Speed of information flow determines organizational effectiveness",
+    "Trust must replace control in empowered teams",
+    "Leaders become gardeners of the ecosystem, not chess masters"
+  ],
+  "whoShouldRead": [
+    "CEOs, executives, and organizational leaders",
+    "Managers in fast-changing, complex environments",
+    "Military and government leaders",
+    "Anyone frustrated with bureaucratic decision-making"
+  ],
+  "whoShouldSkip": [
+    "Those in stable, predictable industries",
+    "Readers wanting tactical leadership advice",
+    "Small teams with simple coordination needs"
+  ],
+  "relatedBooks": [
+    "03-the-culture-map-erin-meyer",
+    "01-the-managers-path-camille-fournier"
+  ],
+  "category": "06-business-strategy-and-organizations",
+  "subcategory": "11-organization-design-and-culture",
+  "subtopic": "02-organizational-design",
+  "categoryPath": [
+    "06-business-strategy-and-organizations",
+    "11-organization-design-and-culture",
+    "02-organizational-design"
+  ]
+}

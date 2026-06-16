@@ -1,0 +1,89 @@
+{
+  "id": "garners-modern-english-usage-bryan-garner",
+  "slug": "garners-modern-english-usage-bryan-garner",
+  "title": "Garner's Modern English Usage",
+  "subtitle": null,
+  "authors": [
+    "Bryan A. Garner"
+  ],
+  "year": 2016,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "02-dictionaries-and-language-reference",
+  "pages": 1120,
+  "isbn": "9780190491482",
+  "language": "en",
+  "genres": [
+    "Language",
+    "Usage Guide",
+    "Reference",
+    "Linguistics"
+  ],
+  "subjects": [
+    "English Language",
+    "Usage",
+    "Grammar",
+    "Lexicography",
+    "Style Guide"
+  ],
+  "themes": [
+    "Language Change",
+    "Linguistic Standards",
+    "Usage Controversies"
+  ],
+  "tags": [
+    "english-usage",
+    "grammar",
+    "style-guide",
+    "language-reference",
+    "lexicography",
+    "linguistics",
+    "writing",
+    "editing",
+    "Garner",
+    "Oxford"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 30,
+  "estimatedListeningMinutes": 1800,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "The most authoritative and comprehensive guide to modern English usage, combining descriptive accuracy with prescriptive guidance, featuring Garner's trademark Language-Change Index.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780190491482-L.jpg",
+    "color": "#1B4F72"
+  },
+  "keyIdeas": [
+    "Usage is not static — language evolves, and good guidance must recognize this",
+    "The Language-Change Index provides a rational framework for evaluating disputed usage",
+    "Prescriptive and descriptive approaches can be reconciled through evidence-based judgment"
+  ],
+  "keyTakeaways": [
+    "Language change is inevitable but not all changes are equally acceptable",
+    "The Language-Change Index rates disputed usages from Stage 1 (rejected) to Stage 5 (universally accepted)",
+    "Good usage balances logic, historical precedent, and current practice",
+    "Context determines what is appropriate — formal and informal usage differ legitimately",
+    "Writers should master the standard before choosing to depart from it"
+  ],
+  "whoShouldRead": [
+    "Professional writers, editors, and proofreaders",
+    "Students of English language and linguistics",
+    "Non-native speakers seeking authoritative usage guidance",
+    "Anyone who cares about precise, effective English usage"
+  ],
+  "whoShouldSkip": [
+    "Casual readers looking for a quick style guide",
+    "Those who find 1000+ page reference books intimidating",
+    "Readers who want only prescriptive rules without nuance"
+  ],
+  "relatedBooks": [
+    "the-elements-of-style-strunk-white",
+    "oxford-english-dictionary-compact-edition"
+  ],
+  "subtopic": "01-english-language",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "02-dictionaries-and-language-reference",
+    "01-english-language"
+  ]
+}

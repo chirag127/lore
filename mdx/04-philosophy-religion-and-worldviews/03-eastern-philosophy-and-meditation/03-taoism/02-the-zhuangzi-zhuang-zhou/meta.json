@@ -1,0 +1,75 @@
+{
+  "id": "the-zhuangzi-zhuang-zhou",
+  "title": "The Zhuangzi",
+  "slug": "02-the-zhuangzi-zhuang-zhou",
+  "authors": [
+    "Zhuang Zhou"
+  ],
+  "year": -300,
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "03-eastern-philosophy-and-meditation",
+  "pages": 368,
+  "isbn": "9781624668555",
+  "language": "en",
+  "genres": [
+    "Philosophy",
+    "Taoism",
+    "Classical Chinese Literature"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-10",
+  "rationale": "The Zhuangzi is the second foundational text of Taoism and the natural companion to the Tao Te Ching in this leaf directory. It represents the playful, narrative, and skeptical counterpoint to Laozi's aphoristic wisdom, making it an essential inclusion for any collection on classical Chinese philosophy.",
+  "excerpt": "A foundational Taoist text of parables, anecdotes, and philosophical dialogues that champions spontaneity, relativism, and freedom from convention as paths to harmony with the Way.",
+  "tags": [
+    "taoism",
+    "daoism",
+    "chinese-philosophy",
+    "zhuangzi",
+    "wuwei",
+    "relativism",
+    "spontaneity",
+    "classical-chinese",
+    "warring-states",
+    "eastern-philosophy"
+  ],
+  "addedAt": 1781049600000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781624668555-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "The relativity of all distinctions — life/death, self/other, dream/waking are false dichotomies",
+    "Wuwei (non-action/effortless action) as the ideal mode of engaging with the world",
+    "Ziran (spontaneity/naturalness) as the expression of one's innate nature",
+    "The transformation of things (wuhua) — all reality is in constant flux",
+    "Carefree wandering (xiaoyao you) as the highest form of spiritual freedom"
+  ],
+  "keyTakeaways": [
+    "Conventional distinctions between good and bad, right and wrong, useful and useless are relative, not absolute",
+    "True happiness comes from aligning with the natural Way rather than imposing human schemes",
+    "Death is not to be feared — it is a natural transformation like the changing seasons",
+    "Skillful action arises spontaneously when one ceases to overthink and instead responds fluidly to circumstances",
+    "Language and concepts are limited tools that cannot capture the fullness of reality"
+  ],
+  "whoShouldRead": [
+    "Students of Chinese philosophy seeking the second foundational text of Taoism after the Tao Te Ching",
+    "Anyone feeling trapped by social conventions, expectations, or rigid thinking patterns",
+    "Writers and artists interested in a masterwork of wit, paradox, and imaginative storytelling",
+    "Spiritual seekers drawn to non-dual thinking and contemplative traditions"
+  ],
+  "whoShouldSkip": [
+    "Readers who prefer systematic philosophical arguments over playful anecdotes and parables",
+    "Those seeking a prescriptive moral code or clear rules for living"
+  ],
+  "relatedBooks": [
+    "tao-te-ching-lao-tzu",
+    "the-analects-confucius",
+    "zen-in-the-art-of-archery-eugen-herrigel"
+  ],
+  "subtopic": "03-taoism",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "03-eastern-philosophy-and-meditation",
+    "03-taoism"
+  ]
+}

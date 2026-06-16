@@ -1,0 +1,87 @@
+{
+  "slug": "immune-philipp-dettmer",
+  "title": "Immune: A Journey into the Mysterious System That Keeps You Alive",
+  "authors": [
+    "Philipp Dettmer"
+  ],
+  "publicationYear": 2021,
+  "publisher": "Random House",
+  "isbn13": "9780593241318",
+  "pages": 368,
+  "language": "en",
+  "genres": [
+    "Popular Science",
+    "Biology",
+    "Health",
+    "Immunology"
+  ],
+  "subjects": [
+    "Immune System",
+    "Immunology",
+    "Human Biology"
+  ],
+  "themes": [
+    "Body as Fortress",
+    "Health Literacy",
+    "Visual Storytelling",
+    "Scientific Curiosity"
+  ],
+  "tags": [
+    "immune system",
+    "immunology",
+    "antibodies",
+    "inflammation",
+    "vaccines",
+    "allergies",
+    "viruses",
+    "Kurzgesagt",
+    "T-cells"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 12,
+  "estimatedListeningMinutes": 480,
+  "excerpt": "A gorgeously illustrated deep dive into the immune system from the creator of the popular science YouTube channel Kurzgesagt, making complex immunology accessible and entertaining.",
+  "year": 2021,
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780593241318-L.jpg",
+    "color": "#c62828"
+  },
+  "keyIdeas": [
+    "The immune system is not a single organ but a decentralized network of specialized cells, tissues, and organs working in coordinated layers",
+    "Your body's defenses operate on a spectrum from blunt physical barriers to exquisitely precise molecular recognition systems",
+    "Inflammation is not the enemy — it is a vital signaling and recruitment mechanism that only becomes harmful when dysregulated",
+    "The immune system's complexity is best understood through analogy: a castle with moats, walls, guards, special forces, and intelligence networks"
+  ],
+  "keyTakeaways": [
+    "Most immune activity happens without your awareness — feeling sick is often a sign the system is working, not failing",
+    "Vaccines work by giving your adaptive immune system a safe rehearsal so it recognizes real threats faster",
+    "Autoimmune diseases and allergies are cases of mistaken identity, not system failures in the traditional sense",
+    "Stress, sleep, and nutrition directly modulate immune function through hormonal and metabolic pathways",
+    "The immune system evolved over hundreds of millions of years; every living animal has some version of it"
+  ],
+  "whoShouldRead": [
+    "Anyone curious about how their body fights illness on a daily basis",
+    "Kurzgesagt fans who want a deeper, book-length version of the channel's visual explanations",
+    "Students and professionals in healthcare looking for an accessible refresher on immunology",
+    "Readers intimidated by dense medical textbooks who still want genuine scientific understanding"
+  ],
+  "whoShouldSkip": [
+    "Advanced immunology researchers seeking cutting-edge or specialized knowledge",
+    "Readers who prefer dense, citation-heavy academic writing over conversational explanations",
+    "Those looking for a practical health guide or treatment manual rather than a科普 overview"
+  ],
+  "relatedBooks": [
+    "an-elegant-defense-matt-richtel",
+    "the-beautiful-cure-daniel-davis",
+    "the-vaccine-race-erica-barnes"
+  ],
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "09-immunity-and-disease",
+  "subtopic": "01-immune-system",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "09-immunity-and-disease",
+    "01-immune-system"
+  ]
+}

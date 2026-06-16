@@ -1,0 +1,66 @@
+{
+  "slug": "01-the-swift-programming-language-apple",
+  "title": "The Swift Programming Language",
+  "subtitle": "The Definitive Guide to Swift",
+  "author": "Apple Inc.",
+  "publicationYear": 2020,
+  "isbn": "9781492059318",
+  "publisher": "Addison-Wesley",
+  "language": "en",
+  "pageCount": 500,
+  "genres": [
+    "Technology",
+    "Programming Languages",
+    "Mobile Development",
+    "Apple"
+  ],
+  "subjects": [
+    "Swift",
+    "iOS",
+    "macOS",
+    "Programming Language",
+    "App Development",
+    "Concurrency"
+  ],
+  "themes": [
+    "Safety and expressiveness in language design",
+    "Value types and protocol-oriented programming",
+    "Automatic memory management with ARC",
+    "Structured concurrency with async/await",
+    "Type safety and compile-time error prevention"
+  ],
+  "tags": [
+    "swift",
+    "ios",
+    "macos",
+    "apple",
+    "programming-language",
+    "app-development",
+    "mobile",
+    "protocol-oriented-programming",
+    "concurrency",
+    "addison-wesley",
+    "arc",
+    "optionals",
+    "generics"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 12,
+  "estimatedListeningMinutes": 720,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781492059318-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "09-computers-ai-and-software",
+  "subcategory": "13-mobile-engineering",
+  "subtopic": "03-swift",
+  "categoryPath": [
+    "09-computers-ai-and-software",
+    "13-mobile-engineering",
+    "03-swift"
+  ]
+}

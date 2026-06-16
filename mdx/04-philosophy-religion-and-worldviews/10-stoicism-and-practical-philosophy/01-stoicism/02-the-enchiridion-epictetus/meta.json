@@ -1,0 +1,155 @@
+{
+  "slug": "02-the-enchiridion-epictetus",
+  "title": "The Enchiridion (Handbook)",
+  "subtitle": "Ἐγχειρίδιον Ἐπικτήτου — Manual of Stoic Ethics",
+  "author": "Epictetus (recorded by Arrian)",
+  "authorBorn": 50,
+  "authorDied": 135,
+  "originalLanguage": "Koine Greek",
+  "writtenPeriod": "c. 125 CE",
+  "isbn": "9780486433592",
+  "recommendedTranslation": {
+    "translator": "George Long",
+    "title": "Enchiridion",
+    "publisher": "Dover Publications (Dover Thrift Editions)",
+    "year": 2004,
+    "isbn": "9780486433592",
+    "pages": 64,
+    "note": "Most affordable standalone edition of the Enchiridion itself, with Long's clear Victorian-era translation."
+  },
+  "alternativeTranslations": [
+    {
+      "translator": "Nicholas P. White",
+      "title": "The Handbook (The Encheiridion)",
+      "publisher": "Hackett Publishing",
+      "year": 1983,
+      "isbn": "9780915145690",
+      "pages": 35,
+      "note": "Concise, accurate modern translation widely used in university courses."
+    },
+    {
+      "translator": "Robin Hard",
+      "title": "Discourses, Fragments, Handbook",
+      "publisher": "Oxford University Press (Oxford World's Classics)",
+      "year": 2014,
+      "isbn": "9780199595181",
+      "pages": 400,
+      "note": "Complete modern translation with the Discourses and fragments, scholarly introduction by Christopher Gill."
+    },
+    {
+      "translator": "Robert Dobbin",
+      "title": "Discourses and Selected Writings",
+      "publisher": "Penguin Classics",
+      "year": 2008,
+      "isbn": "9780140449464",
+      "pages": 304,
+      "note": "Lively modern translation with helpful introduction and notes."
+    },
+    {
+      "translator": "Elizabeth Carter",
+      "title": "All the Works of Epictetus",
+      "publisher": "1758 (public domain)",
+      "year": 1758,
+      "note": "Historic eighteenth-century translation that popularized Epictetus in English."
+    }
+  ],
+  "genres": [
+    "Philosophy",
+    "Classics",
+    "Ethics",
+    "Self-Help"
+  ],
+  "subjects": [
+    "Stoicism",
+    "Ancient Philosophy",
+    "Ethics",
+    "Practical Wisdom",
+    "Resilience",
+    "Self-Discipline"
+  ],
+  "themes": [
+    "Dichotomy of Control",
+    "Prohairesis (Moral Choice)",
+    "Impressions and Assent",
+    "Appropriate Actions (Kathēkonta)",
+    "Role Ethics",
+    "Living According to Nature",
+    "The Inner Citadel",
+    "Freedom Through Self-Mastery",
+    "Indifferents",
+    "Death and Tranquillity"
+  ],
+  "tags": [
+    "epictetus",
+    "stoicism",
+    "stoic",
+    "ancient philosophy",
+    "enchiridion",
+    "handbook",
+    "ethics",
+    "practical philosophy",
+    "virtue",
+    "wisdom",
+    "self-discipline",
+    "resilience",
+    "inner peace",
+    "dichotomy of control",
+    "prohairesis",
+    "arrian",
+    "greek philosophy",
+    "classics",
+    "self-improvement",
+    "musonius rufus"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 1,
+  "estimatedListeningMinutes": 45,
+  "excerpt": "A compact manual of Stoic ethical advice compiled by Arrian from the lectures of Epictetus, a former slave turned philosopher. In 53 short chapters, the Enchiridion distills Stoicism to its practical essence: focus only on what is within your control, accept what is not, and align your will with nature. The most accessible entry point into ancient Stoic philosophy — a field manual for mental freedom that has shaped thinkers from Marcus Aurelius to modern cognitive therapists.",
+  "year": 125,
+  "addedAt": 1781049600000,
+  "authors": [
+    "Epictetus (recorded by Arrian)"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780486433592-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Some things are up to us, others are not — the dichotomy of control is the master key to tranquillity",
+    "Events are neutral; our judgments about them cause suffering, not the events themselves",
+    "Freedom is not the absence of external constraint but mastery of one's own desires and aversions",
+    "We play roles on a stage — the wise person performs each role virtuously without attachment to outcomes"
+  ],
+  "keyTakeaways": [
+    "Distinguish sharply between what is within your control (judgments, choices, will) and what is not (body, reputation, wealth, other people's actions)",
+    "When frustrated or disturbed, examine your own judgment rather than blaming external events or other people",
+    "Practice negative visualization: before you embrace anything, consider its impermanence",
+    "Live your roles — as parent, child, citizen — with full commitment but without attachment to results"
+  ],
+  "whoShouldRead": [
+    "Anyone seeking a practical, no-nonsense introduction to Stoic philosophy",
+    "People struggling with anxiety, anger, or a sense of powerlessness over their circumstances",
+    "Readers who found Marcus Aurelius's Meditations inspiring but want the theoretical framework behind it",
+    "Students of philosophy looking for the most concise ancient statement of Stoic ethics"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking systematic metaphysics or epistemology — Epictetus eschews theory for practice",
+    "Those uncomfortable with theistic framing (the Enchiridion assumes a providential universe governed by Zeus)",
+    "Anyone looking for modern psychological nuance on trauma or systemic injustice — the advice assumes radical individual responsibility"
+  ],
+  "relatedBooks": [
+    "discourses-epictetus",
+    "meditations-marcus-aurelius",
+    "letters-from-a-stoic-seneca",
+    "how-to-be-free-epictetus",
+    "the-inner-citadel-pierre-hadot"
+  ],
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "10-stoicism-and-practical-philosophy",
+  "subtopic": "01-stoicism",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "10-stoicism-and-practical-philosophy",
+    "01-stoicism"
+  ]
+}

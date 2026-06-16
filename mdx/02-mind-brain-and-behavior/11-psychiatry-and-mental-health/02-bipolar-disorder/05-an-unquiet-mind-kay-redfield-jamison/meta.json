@@ -1,0 +1,66 @@
+{
+  "slug": "an-unquiet-mind-kay-redfield-jamison",
+  "title": "An Unquiet Mind",
+  "subtitle": "A Memoir of Moods and Madness",
+  "author": "Kay Redfield Jamison",
+  "publicationYear": 1995,
+  "publisher": "Alfred A. Knopf",
+  "language": "en",
+  "pageCount": 240,
+  "isbn": "9780679763307",
+  "genres": [
+    "Memoir",
+    "Psychology",
+    "Mental Health",
+    "Autobiography"
+  ],
+  "subjects": [
+    "Bipolar disorder",
+    "Manic depression",
+    "Psychiatry",
+    "Mood disorders",
+    "Personal narrative",
+    "Lithium"
+  ],
+  "themes": [
+    "The terrifying beauty of mania — creativity, euphoria, and destruction intertwined",
+    "The devastating depths of depression — the price of the manic high",
+    "The struggle to accept a lifelong diagnosis and treatment",
+    "The role of lithium in stabilizing a life that would otherwise be consumed by mood swings",
+    "The gift of mania — energy, charisma, ideas — lost when the medication works",
+    "Love and partnership as anchors in the storm of mental illness"
+  ],
+  "tags": [
+    "bipolar-disorder",
+    "manic-depression",
+    "memoir",
+    "mental-health",
+    "psychiatry",
+    "lithium",
+    "mood-disorders",
+    "kay-redfield-jamison",
+    "personal-narrative",
+    "clinical-psychology",
+    "creativity-and-mental-illness"
+  ],
+  "difficulty": "beginner",
+  "estimatedReadingHours": 6,
+  "estimatedListeningMinutes": 360,
+  "excerpt": "It was a long time before I realized that the price of my manic energy would be devastating depressions that would leave me unable to work or even to get out of bed. Mania is intoxicating, seductive, and — if you are like me — far more interesting than a placid existence. But mania has a dark side. The moods soar, and then they crash. And the crash is not just a 'down' — it is a black, suicidal despair that makes the highs seem like a cruel joke.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780679763307-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "11-psychiatry-and-mental-health",
+  "subtopic": "02-bipolar-disorder",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "11-psychiatry-and-mental-health",
+    "02-bipolar-disorder"
+  ]
+}

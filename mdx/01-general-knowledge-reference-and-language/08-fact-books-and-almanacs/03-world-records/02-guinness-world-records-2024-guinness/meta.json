@@ -1,0 +1,87 @@
+{
+  "id": "guinness-world-records-2024-guinness",
+  "slug": "guinness-world-records-2024-guinness",
+  "title": "Guinness World Records 2024",
+  "subtitle": null,
+  "authors": [
+    "Guinness World Records"
+  ],
+  "year": 2023,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "08-fact-books-and-almanacs",
+  "pages": 256,
+  "isbn": "9781913484202",
+  "language": "en",
+  "genres": [
+    "Reference",
+    "Trivia",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "World Records",
+    "Achievements",
+    "Reference",
+    "Sports"
+  ],
+  "themes": [
+    "Human Achievement",
+    "Extreme Performance",
+    "Superlatives"
+  ],
+  "tags": [
+    "records",
+    "facts",
+    "achievements",
+    "trivia",
+    "world-records",
+    "reference",
+    "superlatives",
+    "human-achievement",
+    "sports",
+    "natural-world"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 4,
+  "estimatedListeningMinutes": 240,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "The annual best-selling collection of the world's most extraordinary achievements, records, and superlatives, featuring new and updated records across every category of human and natural achievement.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781913484202-L.jpg",
+    "color": "#E74C3C"
+  },
+  "keyIdeas": [
+    "Human achievement is bounded only by imagination and determination",
+    "Records document the outer limits of what is possible",
+    "The world is full of extraordinary people, places, and phenomena"
+  ],
+  "keyTakeaways": [
+    "The book documents thousands of records across all categories",
+    "Records require official verification and evidence",
+    "Many records are broken each year, requiring annual updates",
+    "Records cover human achievement, natural world, technology, and more",
+    "The book inspires readers to push beyond perceived limits"
+  ],
+  "whoShouldRead": [
+    "Young readers interested in extraordinary achievements",
+    "Trivia enthusiasts who enjoy superlatives",
+    "Anyone who finds inspiration in human accomplishment",
+    "Family reference for browsing and conversation starters"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking serious academic reference works",
+    "Those who find competitive achievement records trivial",
+    "People looking for in-depth analysis rather than curated facts"
+  ],
+  "relatedBooks": [
+    "world-almanac-2025-world-almanac",
+    "remarkable-facts-bob-morse"
+  ],
+  "subtopic": "03-world-records",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "08-fact-books-and-almanacs",
+    "03-world-records"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "the-prince-niccolo-machiavelli",
+  "title": "The Prince",
+  "author": "Niccolò Machiavelli",
+  "authors": [
+    "Niccolò Machiavelli"
+  ],
+  "publicationYear": 1532,
+  "year": 1532,
+  "isbn": "9780141395876",
+  "pages": 240,
+  "publisher": "Penguin Classics",
+  "language": "en",
+  "genres": [
+    "Philosophy",
+    "Political Science",
+    "History",
+    "Classics"
+  ],
+  "subjects": [
+    "Political Power",
+    "Leadership",
+    "Statecraft",
+    "Military Strategy"
+  ],
+  "themes": [
+    "Power",
+    "Leadership",
+    "Politics",
+    "Strategy"
+  ],
+  "tags": [
+    "political science",
+    "machiavelli",
+    "prince",
+    "power",
+    "leadership",
+    "statecraft"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 6,
+  "estimatedListeningMinutes": 360,
+  "excerpt": "A pragmatic handbook on acquiring, maintaining, and wielding political power. Drawing on historical examples and Machiavelli's own diplomatic experience, it examines principalities, military strategy, and leadership.",
+  "category": "05-society-history-and-power",
+  "subcategory": "02-political-science-and-theory",
+  "addedAt": 1781448632770,
+  "whoShouldRead": [
+    "Readers interested in Philosophy and Political Science and History and Classics"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of The Prince"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780141395876-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "02-political-power",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "02-political-science-and-theory",
+    "02-political-power"
+  ]
+}

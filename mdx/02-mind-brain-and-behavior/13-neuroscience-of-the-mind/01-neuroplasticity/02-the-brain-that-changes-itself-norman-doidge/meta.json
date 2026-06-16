@@ -1,0 +1,68 @@
+{
+  "slug": "the-brain-that-changes-itself-norman-doidge",
+  "title": "The Brain That Changes Itself",
+  "subtitle": "Stories of Personal Triumph from the Frontiers of Brain Science",
+  "author": "Norman Doidge",
+  "publicationYear": 2007,
+  "publisher": "Viking",
+  "language": "en",
+  "pageCount": 448,
+  "isbn": "9780670038305",
+  "genres": [
+    "Neuroscience",
+    "Psychology",
+    "Science",
+    "Popular Science"
+  ],
+  "subjects": [
+    "Neuroplasticity",
+    "Brain science",
+    "Neural regeneration",
+    "Rehabilitation",
+    "Brain injury",
+    "Cognitive enhancement"
+  ],
+  "themes": [
+    "The brain is not fixed after childhood — it can change throughout life (neuroplasticity)",
+    "Neurons that fire together wire together — and neurons that fire apart wire apart",
+    "Brain areas can be remapped — functions can shift to undamaged regions",
+    "Mental activity changes brain structure — thinking physically reshapes the brain",
+    "Neuroplasticity offers hope for conditions previously considered untreatable: stroke, brain injury, learning disabilities, chronic pain",
+    "The discovery of neuroplasticity is one of the most important scientific revolutions of the modern era"
+  ],
+  "tags": [
+    "neuroplasticity",
+    "brain",
+    "neuroscience",
+    "norman-doidge",
+    "rehabilitation",
+    "stroke",
+    "brain-injury",
+    "learning",
+    "plasticity",
+    "popular-science",
+    "cognitive-science",
+    "healing",
+    "neurorehabilitation"
+  ],
+  "difficulty": "intermediate",
+  "estimatedReadingHours": 12,
+  "estimatedListeningMinutes": 720,
+  "excerpt": "The idea that the brain is like a machine with specialized parts that cannot change was once the dominant view in neuroscience. But the discovery of neuroplasticity — the brain's ability to change its own structure and function in response to mental experience — has overturned this view. The brain is not a machine. It is a living, growing organ that can rewire itself throughout life.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780670038305-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "13-neuroscience-of-the-mind",
+  "subtopic": "01-neuroplasticity",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "13-neuroscience-of-the-mind",
+    "01-neuroplasticity"
+  ]
+}

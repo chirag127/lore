@@ -1,0 +1,89 @@
+{
+  "id": "spillover-david-quammen",
+  "slug": "spillover-david-quammen",
+  "title": "Spillover: Animal Infections and the Next Human Pandemic",
+  "subtitle": null,
+  "authors": [
+    "David Quammen"
+  ],
+  "year": 2012,
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "10-public-health-and-prevention",
+  "pages": 592,
+  "isbn": "9780393066807",
+  "language": "en",
+  "genres": [
+    "Popular Science",
+    "Epidemiology",
+    "Medicine"
+  ],
+  "subjects": [
+    "Zoonotic Diseases",
+    "Epidemiology",
+    "Virology",
+    "Public Health"
+  ],
+  "themes": [
+    "Disease Emergence",
+    "One Health",
+    "Pandemic Prevention",
+    "Human-Animal Interface"
+  ],
+  "tags": [
+    "zoonotic-diseases",
+    "epidemiology",
+    "virology",
+    "pandemics",
+    "ebola",
+    "SARS",
+    "COVID",
+    "bat-viruses",
+    "disease-ecology"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 18,
+  "estimatedListeningMinutes": 1080,
+  "source": "generated",
+  "generatedAt": "2026-06-13",
+  "excerpt": "A gripping investigation into zoonotic diseases—infections that jump from animals to humans—and why they pose the single greatest pandemic threat to humanity.",
+  "addedAt": 1781308800000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780393066807-L.jpg",
+    "color": "#8B0000"
+  },
+  "keyIdeas": [
+    "Most emerging infectious diseases originate in wildlife and 'spill over' into human populations through complex ecological pathways",
+    "The convergence of habitat destruction, wildlife trade, agricultural intensification, and global travel creates unprecedented opportunities for pathogen emergence",
+    "Understanding disease ecology requires a One Health approach that connects human, animal, and environmental health",
+    "Pandemic preparedness is not just about vaccines and drugs but about surveillance at the human-animal interface"
+  ],
+  "keyTakeaways": [
+    "Zoonotic spillover is a predictable consequence of ecological disruption, not random bad luck",
+    "Bats are extraordinary viral reservoirs because their immune systems tolerate viruses without becoming sick",
+    "Early detection at spillover sites offers the best chance of containing emerging outbreaks before they globalize",
+    "The distinction between emerging and re-emerging diseases matters for surveillance strategy",
+    "Disease emergence is a numbers game: more human-animal contact means more opportunities for spillover"
+  ],
+  "whoShouldRead": [
+    "Public health professionals and epidemiologists seeking deeper understanding of disease emergence",
+    "Science journalists and communicators covering infectious disease outbreaks",
+    "Policy makers and global health leaders interested in pandemic prevention strategy",
+    "General readers who want to understand the origins of COVID-19 and what comes next"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking graphic details about symptoms (Quammen is vivid but not gratuitous)",
+    "Those who prefer prescriptive policy solutions over narrative science journalism",
+    "Readers uncomfortable with the implication that pandemics are inevitable features of our ecological era"
+  ],
+  "relatedBooks": [
+    "immune-philipp-dettmer",
+    "the-beautiful-cure-daniel-davis",
+    "an-elegant-defense-matt-richtel"
+  ],
+  "subtopic": "03-zoonotic-diseases",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "10-public-health-and-prevention",
+    "03-zoonotic-diseases"
+  ]
+}

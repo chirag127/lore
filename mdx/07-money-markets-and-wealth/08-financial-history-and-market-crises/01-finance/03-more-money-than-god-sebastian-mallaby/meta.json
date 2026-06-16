@@ -1,0 +1,70 @@
+{
+  "id": "more-money-than-god-sebastian-mallaby",
+  "title": "More Money Than God: Hedge Funds and the Making of a New Elite",
+  "slug": "03-more-money-than-god-sebastian-mallaby",
+  "authors": [
+    "Sebastian Mallaby"
+  ],
+  "year": 2010,
+  "category": "07-money-markets-and-wealth",
+  "subcategory": "08-financial-history-and-market-crises",
+  "pages": 512,
+  "isbn": "9781594202551",
+  "publisher": "Penguin Press",
+  "language": "en",
+  "genres": [
+    "Finance",
+    "Business History",
+    "Non-fiction"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "A definitive history of hedge funds from their origins in 1949 through the 2008 financial crisis, arguing that these lightly regulated vehicles are more stable than banks and have transformed modern finance.",
+  "tags": [
+    "hedge-funds",
+    "alternative-investments",
+    "financial-history",
+    "wall-street",
+    "sebastian-mallaby"
+  ],
+  "addedAt": 1780963200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781594202551-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Hedge funds emerged from Alfred Winslow Jones's 1949 innovation of pairing long positions with short sales to hedge market risk",
+    "The industry evolved through distinct eras: the pioneers (Jones, Steinhardt), the macro traders (Soros, Robertson), and the quants (Simons, Griffin)",
+    "Despite periodic blow-ups like LTCM, no hedge fund failure has ever required a taxpayer bailout",
+    "Hedge fund growth was driven by regulatory arbitrage and the migration of talent from banks to independent partnerships"
+  ],
+  "keyTakeaways": [
+    "Hedge funds are smaller, more accountable, and less systemically dangerous than too-big-to-fail banks",
+    "The industry's best performers generate genuine alpha through skill, not just leverage or luck",
+    "Financial innovation by hedge funds ultimately benefits markets by improving liquidity and price discovery",
+    "The 2008 crisis was caused by banks, not hedge funds — a distinction regulators often miss"
+  ],
+  "whoShouldRead": [
+    "Investors and allocators seeking a historical perspective on hedge fund evolution",
+    "Finance professionals wanting to understand the industry's structural advantages over banks",
+    "Policy makers and regulators designing post-crisis financial rules",
+    "General readers interested in a well-told business history of Wall Street's most secretive players"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking specific hedge fund trading strategies or how-to-playbook",
+    "Those wanting a critical, anti-finance polemic — Mallaby is largely sympathetic to his subjects"
+  ],
+  "relatedBooks": [
+    "when-genius-failed-roger-lowenstein",
+    "hedge-fund-market-wizards-jack-schwager",
+    "the-quants-scott-patterson",
+    "a-demon-of-our-own-design-richard-bookstaber",
+    "the-man-who-solved-the-market-gregory-zuckerman"
+  ],
+  "subtopic": "01-finance",
+  "categoryPath": [
+    "07-money-markets-and-wealth",
+    "08-financial-history-and-market-crises",
+    "01-finance"
+  ]
+}

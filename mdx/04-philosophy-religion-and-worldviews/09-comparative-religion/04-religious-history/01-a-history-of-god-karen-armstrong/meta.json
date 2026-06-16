@@ -1,0 +1,74 @@
+{
+  "id": "a-history-of-god-karen-armstrong",
+  "title": "A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam",
+  "slug": "01-a-history-of-god-karen-armstrong",
+  "authors": [
+    "Karen Armstrong"
+  ],
+  "year": 1993,
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "09-comparative-religion",
+  "pages": 460,
+  "isbn": "9780345384560",
+  "language": "en",
+  "genres": [
+    "Religious History",
+    "Comparative Religion",
+    "Theology",
+    "Intellectual History"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "A sweeping intellectual history tracing how the concept of God evolved across Judaism, Christianity, and Islam from Abraham to the modern age, arguing that ideas of the divine are pragmatic creations that change when they cease to work.",
+  "tags": [
+    "monotheism",
+    "religious history",
+    "Judaism",
+    "Christianity",
+    "Islam",
+    "theology",
+    "philosophy of religion",
+    "mysticism",
+    "comparative religion",
+    "intellectual history"
+  ],
+  "addedAt": 1780963200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780345384560-L.jpg",
+    "color": "#3d2b1f"
+  },
+  "keyIdeas": [
+    "Ideas of God are not static revelations but evolving human constructs shaped by historical circumstances",
+    "The three monotheistic faiths share a common root yet diverged dramatically in their conceptions of the divine",
+    "Mystical traditions across all three religions converge on an apophatic God beyond human Categories",
+    "The modern 'death of God' reflects the failure of a particular Western conception, not the end of religious yearning"
+  ],
+  "keyTakeaways": [
+    "God has been conceived as warrior, king, father, philosopher's abstraction, mystical nothingness, and personal companion at different historical moments",
+    "Greek philosophy fundamentally reshaped Jewish, Christian, and Islamic theology in parallel ways",
+    "Fundamentalism is a modern reaction, not a throwback to premodern religion",
+    "The most durable conceptions of God are those that address the existential needs of their time"
+  ],
+  "whoShouldRead": [
+    "Religious readers seeking historical perspective on their own tradition",
+    "Atheists and agnostics curious about how God-concepts developed",
+    "Students of comparative religion and intellectual history",
+    "Anyone puzzled by the persistence of religion in a secular age"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a theological defense of a particular doctrine",
+    "Those who prefer a narrow focus on a single tradition",
+    "Anyone expecting a proof for or against God's existence"
+  ],
+  "relatedBooks": [
+    "the-great-transformation-karen-armstrong",
+    "the-battle-for-god-karen-armstrong",
+    "a-history-of-world-religions"
+  ],
+  "subtopic": "04-religious-history",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "09-comparative-religion",
+    "04-religious-history"
+  ]
+}

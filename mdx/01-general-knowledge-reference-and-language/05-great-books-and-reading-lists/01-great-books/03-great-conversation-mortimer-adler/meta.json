@@ -1,0 +1,88 @@
+{
+  "id": "great-conversation-mortimer-adler",
+  "slug": "great-conversation-mortimer-adler",
+  "title": "The Great Conversation: A Reader's Guide to the Great Books of the Western World",
+  "subtitle": null,
+  "authors": [
+    "Mortimer J. Adler"
+  ],
+  "year": 1952,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "05-great-books-and-reading-lists",
+  "pages": 166,
+  "isbn": "9780226474687",
+  "language": "en",
+  "genres": [
+    "Education",
+    "Philosophy",
+    "Reference",
+    "Literary Criticism"
+  ],
+  "subjects": [
+    "Great Books",
+    "Education",
+    "Western Civilization",
+    "Reading"
+  ],
+  "themes": [
+    "Liberal Education",
+    "Intellectual Tradition",
+    "Canon Formation"
+  ],
+  "tags": [
+    "great-books",
+    "education",
+    "liberal-arts",
+    "western-thought",
+    "classics",
+    "reading-list",
+    "philosophy",
+    "Adler",
+    "humanities",
+    "western-canon"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 5,
+  "estimatedListeningMinutes": 300,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "Mortimer Adler's introduction to the Great Books of the Western World series, explaining the concept of the Great Conversation — the ongoing dialogue across centuries about the fundamental questions of human existence.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780226474687-L.jpg",
+    "color": "#1A1A2E"
+  },
+  "keyIdeas": [
+    "The Great Books constitute an ongoing conversation across centuries about enduring human questions",
+    "Western civilization is unified by a tradition of thought that transcends historical periods",
+    "Reading the Great Books is essential to becoming an educated person in the Western tradition"
+  ],
+  "keyTakeaways": [
+    "The Great Conversation is the dialogue among authors across centuries about fundamental ideas",
+    "The Great Books are those that have the most to contribute to this conversation",
+    "Reading the Great Books in conversation with each other deepens understanding of each",
+    "The Syntopicon indexes ideas across all the Great Books, revealing patterns of thought",
+    "Liberal education is incomplete without direct engagement with the Great Books"
+  ],
+  "whoShouldRead": [
+    "Anyone embarking on a Great Books reading program",
+    "Students of liberal education and the humanities",
+    "Readers of How to Read a Book seeking the next step",
+    "Those interested in the philosophy of education"
+  ],
+  "whoShouldSkip": [
+    "Readers who reject the Western canon as a framework",
+    "Those looking for diverse or non-Western intellectual traditions",
+    "People who prefer specialized study to broad reading programs"
+  ],
+  "relatedBooks": [
+    "how-to-read-a-book-mortimer-adler",
+    "the-western-canon-harold-bloom"
+  ],
+  "subtopic": "01-great-books",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "05-great-books-and-reading-lists",
+    "01-great-books"
+  ]
+}

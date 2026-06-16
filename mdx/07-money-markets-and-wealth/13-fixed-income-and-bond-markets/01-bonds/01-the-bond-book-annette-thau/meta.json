@@ -1,0 +1,64 @@
+{
+  "slug": "the-bond-book-annette-thau",
+  "title": "The Bond Book",
+  "author": "Annette Thau",
+  "authors": [
+    "Annette Thau"
+  ],
+  "publicationYear": 2010,
+  "year": 2010,
+  "isbn": "9780071664707",
+  "pages": 400,
+  "publisher": "McGraw Hill",
+  "language": "en",
+  "genres": [
+    "Finance",
+    "Investing"
+  ],
+  "subjects": [
+    "Bonds",
+    "Fixed Income",
+    "Treasuries",
+    "Municipals"
+  ],
+  "themes": [
+    "Investing",
+    "Risk Management",
+    "Income Strategies"
+  ],
+  "tags": [
+    "finance",
+    "bonds",
+    "fixed income",
+    "investing",
+    "bond market"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 12,
+  "estimatedListeningMinutes": 720,
+  "excerpt": "A comprehensive accessible guide to fixed-income investing covering Treasuries, municipals, corporates, and bond portfolio management.",
+  "category": "07-money-markets-and-wealth",
+  "subcategory": "13-fixed-income-and-bond-markets",
+  "addedAt": 1781448986278,
+  "whoShouldRead": [
+    "Readers interested in Finance and Investing"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of The Bond Book"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780071664707-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "01-bonds",
+  "categoryPath": [
+    "07-money-markets-and-wealth",
+    "13-fixed-income-and-bond-markets",
+    "01-bonds"
+  ]
+}

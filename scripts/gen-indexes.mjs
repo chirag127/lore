@@ -1,7 +1,8 @@
-import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
-import { join } from 'path';
+import { existsSync, readdirSync, readFileSync, writeFileSync } from 'fs';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
 
-const MDX = 'C:\\AM\\GitHub\\BookAtlas\\mdx';
+const MDX = join(dirname(fileURLToPath(import.meta.url)), '..', 'mdx');
 
 function getBooks(subPath) {
   const books = [];
@@ -12,7 +13,9 @@ function getBooks(subPath) {
         try {
           const meta = JSON.parse(readFileSync(mp, 'utf-8'));
           books.push({ dir: d.name, title: meta.title || d.name, slug: meta.slug || d.name });
-        } catch { books.push({ dir: d.name, title: d.name, slug: d.name }); }
+        } catch {
+          books.push({ dir: d.name, title: d.name, slug: d.name });
+        }
       }
     }
   } catch {}
@@ -20,151 +23,149 @@ function getBooks(subPath) {
 }
 
 function toTitle(s) {
-  const t = s.replace(/^\d+-/, '').replace(/[-_]/g, ' ');
-  return t.replace(/\b\w/g, c => c.toUpperCase());
+  const cleaned = s.replace(/^\d+-/, '').replace(/[-_]/g, ' ');
+  return cleaned.replace(/\b\w/g, c => (['ai', 'eq', 'ui', 'ux', 'api', 'seo', 'devops'].includes(c.toLowerCase() + (c.match(/\w*/)?.[0] || '').slice(1).toLowerCase()) ? c.toUpperCase() : c.toUpperCase()));
 }
 
-function toSlug(s) { return s.replace(/^\d+-/, '').replace(/[^a-z0-9-]/g, ''); }
+function toSlug(s) {
+  return s.replace(/^\d+-/, '').replace(/[^a-z0-9-]/g, '');
+}
 
-function extractCatNum(name) { const m = name.match(/^(\d+)/); return m ? parseInt(m[1]) : 99; }
+function extractOrder(name) {
+  const m = name.match(/^(\d+)/);
+  return m ? parseInt(m[1], 10) : 99;
+}
 
-const catDescriptions = {
-  'body-health-and-life-sciences': 'How the human body works - from cellular mechanisms and organ systems to nutrition, fitness, sleep, medicine, and public health. This category covers the biological sciences that explain our physical existence.',
-  'money-markets-and-wealth': 'The principles of finance and investing - from personal wealth building and behavioral finance to value investing, risk management, quantitative trading, and market history.',
-  'computers-ai-and-software': 'The art and science of software engineering - from programming fundamentals and system design to artificial intelligence, machine learning, cybersecurity, and technical leadership.',
-  'business-strategy-and-organizations': 'How organizations are built, led, and grown - from entrepreneurship and corporate strategy to marketing, operations, negotiation, and organizational culture.',
-  'philosophy-religion-and-indian-thought': 'The great questions of existence - from ancient Greek philosophy and Eastern meditation to ethics, epistemology, comparative religion, and Indian philosophical traditions.',
-  'mathematics-logic-and-science': 'The foundational sciences - from pure mathematics and statistics to physics, chemistry, biology, ecology, and the scientific method itself.',
-  'society-history-and-power': 'How human civilizations are organized - from sociology and political science to geopolitics, media studies, urban planning, history, and military strategy.',
-  'communication-writing-and-creativity': 'The tools of human expression - from writing craft and storytelling to rhetoric, public speaking, design, photography, music, and visual arts.',
-  'fiction-and-literature': 'The imaginative worlds of narrative - from science fiction and fantasy to historical fiction, mystery, poetry, short stories, and literary criticism.',
-  'reference-and-general-knowledge': 'The essential reference works - from encyclopedias and dictionaries to atlases, biographical references, fact books, and general knowledge handbooks.'
-};
+function safeDescription(text) {
+  return text.replace(/"/g, "'");
+}
 
-function genCatIndex(catName, catNum) {
+function genTopIndex(catPath, catName) {
   const display = toTitle(catName);
-  const cleanName = catName.replace(/^\d+-/, '');
-  const desc = catDescriptions[cleanName] || `A comprehensive collection of books about ${display.toLowerCase()}.`;
-  const subs = readdirSync(join(MDX, catName), { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name);
+  const subs = readdirSync(catPath, { withFileTypes: true })
+    .filter(d => d.isDirectory())
+    .sort((a, b) => extractOrder(a.name) - extractOrder(b.name))
+    .map(d => d.name);
+  const rows = subs.map((sub, i) => {
+    const subPath = join(catPath, sub);
+    const leaves = readdirSync(subPath, { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name);
+    const books = leaves.flatMap(leaf => getBooks(join(subPath, leaf)));
+    return `| ${String(i + 1).padStart(2, '0')} | [${toTitle(sub)}](/categories/${toSlug(catName)}/${toSlug(sub)}) | ${leaves.length} | ${books.length} |`;
+  }).join('\n');
+  const totalBooks = subs.flatMap(sub => readdirSync(join(catPath, sub), { withFileTypes: true }).filter(d => d.isDirectory()).flatMap(leaf => getBooks(join(catPath, sub, leaf.name)))).length;
+  const totalLeaves = subs.flatMap(sub => readdirSync(join(catPath, sub), { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name)).length;
 
-  let subRows = '';
-  for (const [i, sub] of subs.entries()) {
-    const bCount = getBooks(join(MDX, catName, sub)).length;
-    subRows += `| ${i+1} | ${toTitle(sub)} | ${bCount} | See subcategory |\n`;
-  }
+  return `---
+title: "${display}"
+slug: "${toSlug(catName)}"
+position: ${extractOrder(catName)}
+description: "A three-level BookAtlas category for ${display.toLowerCase()}."
+---
 
-  const frontmatter = `---
-title: "${String(catNum).padStart(2, '0')} - ${display}"
-slug: "${catName}"
-position: ${catNum}
-description: "${desc}"
----`;
+# ${display}
 
-  const body = `# ${String(catNum).padStart(2, '0')} - ${display}
+This category uses the BookAtlas three-level structure: category, subcategory, and topic leaf.
 
-${desc}
+## Shelf Map
 
-## Scope
+| # | Subcategory | Leaf categories | Books |
+|---|-------------|-----------------|-------|
+${rows}
 
-This category covers books on the fundamental principles and practices of ${display.toLowerCase()}, including its subdisciplines, history, and modern applications.
-
-## What Belongs Here
-
-Books that provide foundational knowledge, practical skills, and deep understanding of ${display.toLowerCase()} - from introductory overviews to advanced specialized works.
-
-## What Does NOT Belong Here
-
-Books that primarily belong in other categories are not included here, even if they touch on related topics. Each book is placed in the category that best represents its core subject matter.
-
-## Reading Path
-
-| Phase | Subcategories | Purpose |
-|-------|--------------|---------|
-${subs.slice(0, Math.min(3, Math.ceil(subs.length/3))).map((s, i) => `| **${['Foundation','Application','Mastery'][i] || 'Further Reading'}** | ${subs.slice(i*Math.ceil(subs.length/3), (i+1)*Math.ceil(subs.length/3)).map(toTitle).join(', ')} | Progressive learning path |`).join('\n')}
-
-## Subcategories
-
-| # | Subcategory | Books | Focus |
-|---|-------------|-------|-------|
-${subRows}`;
-
-  return `${frontmatter}\n\n${body}\n`;
+**Total: ${totalBooks} books across ${subs.length} subcategories and ${totalLeaves} leaf categories.**
+`;
 }
 
-function genSubIndex(catName, subName, books) {
+function genSubIndex(catPath, catName, subName) {
   const display = toTitle(subName);
-  const cleanSub = subName.replace(/^\d+-/, '');
-  const catDisplay = toTitle(catName);
-  
-  const desc = `A curated selection of books on ${display.toLowerCase()}, covering essential concepts, practical applications, and advanced topics within ${catDisplay.toLowerCase()}.`;
+  const subPath = join(catPath, subName);
+  const leaves = readdirSync(subPath, { withFileTypes: true })
+    .filter(d => d.isDirectory())
+    .sort((a, b) => extractOrder(a.name) - extractOrder(b.name))
+    .map(d => d.name);
+  const rows = leaves.map((leaf, i) => `| ${String(i + 1).padStart(2, '0')} | [${toTitle(leaf)}](/categories/${toSlug(catName)}/${toSlug(subName)}/${toSlug(leaf)}) | ${getBooks(join(subPath, leaf)).length} |`).join('\n');
+  const totalBooks = leaves.flatMap(leaf => getBooks(join(subPath, leaf))).length;
 
-  const readingOrder = books.map((b, i) => `${i + 1}. **${b.title}** - ${b.slug.replace(/-/g, ' ')}`).join('\n');
-
-  const frontmatter = `---
+  return `---
 title: "${display}"
 slug: "${toSlug(subName)}"
-order: ${extractCatNum(subName)}
-description: "${desc}"
----`;
+order: ${extractOrder(subName)}
+description: "Books on ${display.toLowerCase()}."
+---
 
-  const body = `## Overview
+# ${display}
 
-${display} is a key subcategory within ${catDisplay}. This shelf brings together the essential books that define, explain, and advance our understanding of this field.
+This subcategory is organized into focused topic leaves.
 
-## What's In This Shelf
+## Leaf Categories
 
-This shelf contains books that address:
+| # | Leaf category | Books |
+|---|---------------|-------|
+${rows}
 
-- Core concepts and foundational knowledge
-- Practical applications and methodologies
-- Advanced topics and emerging research
-- Critical analysis and historical context
-- Integration with other domains
-
-## What's Not In This Shelf
-
-Books that focus on specialized subtopics beyond the scope of this shelf are placed in their respective subcategories. The focus here is on the essential works that every student of ${display.toLowerCase()} should know.
-
-## Reading Order
-
-${readingOrder || 'No books currently assigned to this shelf.'}
-
-## Contribution to the Knowledge Tree
-
-This shelf contributes to the broader ${catDisplay.toLowerCase()} category by providing a structured path through its most important ideas. Understanding the books here builds a strong foundation for further exploration across related subcategories.`;
-
-  return `${frontmatter}\n\n${body}\n`;
+**Total: ${totalBooks} books across ${leaves.length} leaf categories.**
+`;
 }
 
-// --- Main execution ---
-const cats = readdirSync(MDX, { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name);
+function genLeafIndex(catPath, catName, subName, leafName) {
+  const display = toTitle(leafName);
+  const books = getBooks(join(catPath, subName, leafName)).sort((a, b) => a.title.localeCompare(b.title));
+  const rows = books.map((book, i) => `| ${String(i + 1).padStart(2, '0')} | [${book.title}](/books/${book.slug}) |`).join('\n');
 
-let created = { cat: 0, sub: 0 };
+  return `---
+title: "${display}"
+slug: "${toSlug(leafName)}"
+order: ${extractOrder(leafName)}
+description: "Books on ${display.toLowerCase()}."
+---
+
+# ${display}
+
+## Books
+
+| # | Book |
+|---|------|
+${rows || '| - | No books assigned yet. |'}
+
+**Total: ${books.length} books.**
+`;
+}
+
+const cats = readdirSync(MDX, { withFileTypes: true })
+  .filter(d => d.isDirectory())
+  .sort((a, b) => extractOrder(a.name) - extractOrder(b.name))
+  .map(d => d.name);
+
+let created = { top: 0, sub: 0, leaf: 0 };
 
 for (const cat of cats) {
-  const catNum = extractCatNum(cat);
   const catPath = join(MDX, cat);
-  const catIndex = join(catPath, '00-index.mdx');
+  const topIndex = join(catPath, '00-index.mdx');
+  writeFileSync(topIndex, genTopIndex(catPath, cat));
+  created.top++;
 
-  if (!existsSync(catIndex)) {
-    writeFileSync(catIndex, genCatIndex(cat, catNum));
-    created.cat++;
-    console.log(`Created: ${cat}/00-index.mdx`);
-  }
+  const subs = readdirSync(catPath, { withFileTypes: true })
+    .filter(d => d.isDirectory())
+    .sort((a, b) => extractOrder(a.name) - extractOrder(b.name))
+    .map(d => d.name);
 
-  for (const sub of readdirSync(catPath, { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name)) {
+  for (const sub of subs) {
     const subPath = join(catPath, sub);
     const subIndex = join(subPath, '00-index.mdx');
-
-    // Check for existing index (custom named or standard)
-    const hasStandard = existsSync(subIndex);
-    if (hasStandard) continue;
-
-    const books = getBooks(subPath);
-    writeFileSync(subIndex, genSubIndex(cat, sub, books));
+    writeFileSync(subIndex, genSubIndex(catPath, cat, sub));
     created.sub++;
-    console.log(`  Created: ${sub}/00-index.mdx (${books.length} books)`);
+
+    const leaves = readdirSync(subPath, { withFileTypes: true })
+      .filter(d => d.isDirectory())
+      .sort((a, b) => extractOrder(a.name) - extractOrder(b.name))
+      .map(d => d.name);
+
+    for (const leaf of leaves) {
+      const leafIndex = join(subPath, leaf, '00-index.mdx');
+      writeFileSync(leafIndex, genLeafIndex(catPath, cat, sub, leaf));
+      created.leaf++;
+    }
   }
 }
 
-console.log(`\nDone! Created ${created.cat} category and ${created.sub} subcategory index files.`);
+console.log(`Done! Wrote ${created.top} category, ${created.sub} subcategory, and ${created.leaf} leaf index files.`);

@@ -1,0 +1,95 @@
+{
+  "slug": "scale-geoffrey-west",
+  "title": "Scale",
+  "subtitle": "The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies",
+  "authors": [
+    {
+      "name": "Geoffrey West",
+      "nationality": "British-American",
+      "knownFor": [
+        "Distinguished Professor at the Santa Fe Institute",
+        "Former director of SFI (2005-2009)",
+        "Pioneer in scaling theory and complex systems",
+        "Developer of the metabolic scaling theory with James Brown and Brian Enquist",
+        "Application of scaling laws to cities and companies"
+      ]
+    }
+  ],
+  "description": "Scale is a bold and ambitious book that argues for the existence of universal scaling laws governing the structure and dynamics of virtually all complex systems — from cells to cities to companies. Geoffrey West — a theoretical physicist who turned to biology and the social sciences — presents a unified theory of scaling based on the fractal geometry of the networks that sustain living systems. The book begins with biology's most famous scaling law: Kleiber's law, which states that metabolic rate scales to the 3/4 power of body mass. An elephant is 10 million times heavier than a mouse, but its metabolism is only 10,000 times greater. This quarter-power scaling is remarkably precise across 27 orders of magnitude, from mitochondria to whales. West and his colleagues showed that this scaling arises from the fractal geometry of distribution networks (blood vessels, plant vasculature) that must supply all parts of an organism efficiently. The same network principle explains why larger animals live longer, have slower heart rates, and grow more slowly. West then extends the framework to cities and companies. Cities scale superlinearly: double the population, and you get more than double the social interactions, economic output, patents, and crime — a 15% bonus per doubling. Companies scale sublinearly, like organisms: as they grow, administrative overhead grows faster than productive output, eventually leading to stagnation and death. The book weaves together physics, biology, urban studies, and economics into a provocative argument about the unity of complex systems and the mathematical laws that govern them.",
+  "coverUrl": "https://covers.openlibrary.org/b/isbn/9781594205588-L.jpg",
+  "isbn13": "9781594205588",
+  "isbn10": "1594205588",
+  "pages": 496,
+  "publishedYear": 2017,
+  "publisher": "Penguin",
+  "language": "en",
+  "difficulty": "medium",
+  "tags": [
+    "scaling",
+    "complex-systems",
+    "cities",
+    "companies",
+    "metabolism",
+    "allometric-scaling",
+    "kleibers-law",
+    "fractals",
+    "urban-growth",
+    "innovation",
+    "sustainability",
+    "networks",
+    "power-laws",
+    "santa-fe-institute",
+    "quarter-power-scaling"
+  ],
+  "keyIdeas": [
+    "Metabolic rate scales as M^(3/4) across all life — the most universal quantitative pattern in biology, spanning 27 orders of magnitude",
+    "Quarter-power scaling arises from the fractal, space-filling geometry of distribution networks (blood vessels, xylem, phloem) that optimize resource delivery",
+    "Scaling applies not just to metabolism but to essentially all biological rates and times: heart rate ∝ M^(-1/4), lifespan ∝ M^(1/4), growth rate ∝ M^(-1/4)",
+    "Cities scale superlinearly: socio-economic quantities (GDP, patents, crime) scale as N^(1.15) — a 15% bonus per doubling of population",
+    "Infrastructure in cities scales sublinearly: gasoline stations, road surface, and electrical cable length scale as N^(0.85) — economies of scale",
+    "Companies scale sublinearly like organisms: as they grow, the ratio of overhead to output increases, leading to stagnation and eventual death",
+    "The central challenge of sustainability is that growth-driven systems (economies, cities) face fundamental scaling constraints — innovation is required to escape them"
+  ],
+  "keyTakeaways": [
+    "Life is governed by universal scaling laws: a mouse and an elephant are the same system at different scales, and the mathematics connecting them is remarkably simple",
+    "The fractal nature of biological networks explains why life can span such an enormous range of sizes without fundamentally changing its design",
+    "Cities are humanity's greatest invention because they amplify social interaction — they are engines of innovation precisely because they superlinearly scale creativity",
+    "The pace of life systematically varies with size: mice live fast and die young; elephants live slow and die old — the same mathematics governs both",
+    "Companies die because they cannot escape the sublinear scaling of bureaucracy: growth inevitably increases overhead proportionally, slowing innovation",
+    "Sustainability requires decoupling growth from resource consumption — a challenge that scaling theory suggests may require fundamental innovation"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in the universal patterns that govern life, cities, and economies",
+    "Urban planners, entrepreneurs, and policymakers who want a scientific framework for understanding growth and sustainability",
+    "Readers of popular science who enjoyed Sync, Complexity, and Sapiens",
+    "Biologists and ecologists curious about the mathematical foundations of allometric scaling"
+  ],
+  "whoShouldSkip": [
+    "Those who find statistical correlations unconvincing as causal explanations — West's theory is elegant but remains controversial in parts",
+    "Readers who strongly prefer narrative or experimental science to physics-style model-building",
+    "People who are skeptical of applying mathematical models from physics to social and biological systems"
+  ],
+  "relatedBooks": [
+    "sync-steven-strogatz",
+    "complexity-mitchell-waldrop",
+    "the-art-of-strategy-avinash-dixit",
+    "mathematical-models-in-biology-leah-edelstein-keshet",
+    "modeling-the-environment-andrew-ford"
+  ],
+  "readingTimeMinutes": 720,
+  "listeningTimeMinutes": 960,
+  "year": 2017,
+  "excerpt": "A grand unified theory of scaling — why life, cities, and companies all follow universal mathematical laws that govern their growth, metabolism, and death, from the smallest cell to the largest corporation.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781594205588-L.jpg",
+    "color": "#00695c"
+  },
+  "category": "08-mathematics-science-and-technology",
+  "subcategory": "10-complexity-science-and-systems",
+  "subtopic": "02-scale",
+  "categoryPath": [
+    "08-mathematics-science-and-technology",
+    "10-complexity-science-and-systems",
+    "02-scale"
+  ]
+}

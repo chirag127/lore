@@ -1,0 +1,68 @@
+{
+  "slug": "meditations-on-first-philosophy-rene-descartes",
+  "title": "Meditations on First Philosophy",
+  "author": "René Descartes",
+  "authors": [
+    "René Descartes"
+  ],
+  "publicationYear": 1641,
+  "year": 1641,
+  "isbn": "9780872201927",
+  "pages": 72,
+  "publisher": "Hackett Publishing",
+  "language": "en",
+  "genres": [
+    "Philosophy",
+    "Epistemology",
+    "Metaphysics"
+  ],
+  "subjects": [
+    "Doubt",
+    "Cogito",
+    "Dualism",
+    "God",
+    "Knowledge"
+  ],
+  "themes": [
+    "Certainty",
+    "Mind-Body Problem",
+    "Skepticism",
+    "Rationalism"
+  ],
+  "tags": [
+    "philosophy",
+    "epistemology",
+    "descartes",
+    "cogito",
+    "dualism",
+    "meditations"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 4,
+  "estimatedListeningMinutes": 240,
+  "excerpt": "Descartes's foundational work of modern philosophy, systematically doubting all beliefs to find an indubitable foundation for knowledge.",
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "05-epistemology-and-truth",
+  "addedAt": 1781448986237,
+  "whoShouldRead": [
+    "Readers interested in Philosophy and Epistemology and Metaphysics"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of Meditations on First Philosophy"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780872201927-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "01-doubt",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "05-epistemology-and-truth",
+    "01-doubt"
+  ]
+}

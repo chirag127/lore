@@ -1,0 +1,72 @@
+{
+  "id": "when-genius-failed-roger-lowenstein",
+  "title": "When Genius Failed: The Rise and Fall of Long-Term Capital Management",
+  "slug": "04-when-genius-failed-roger-lowenstein",
+  "authors": [
+    "Roger Lowenstein"
+  ],
+  "year": 2000,
+  "category": "07-money-markets-and-wealth",
+  "subcategory": "08-financial-history-and-market-crises",
+  "pages": 288,
+  "isbn": "9780375503177",
+  "publisher": "Random House",
+  "language": "en",
+  "genres": [
+    "Finance",
+    "Business History",
+    "Non-fiction"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-10",
+  "excerpt": "The definitive account of Long-Term Capital Management's meteoric rise and catastrophic collapse — a cautionary tale of financial genius, hubris, and the dangers of leverage that nearly brought down the global financial system.",
+  "tags": [
+    "long-term-capital-management",
+    "ltcm",
+    "financial-crisis",
+    "leverage",
+    "risk-management",
+    "roger-lowenstein",
+    "hedge-funds"
+  ],
+  "addedAt": 1781049600000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780375503177-L.jpg",
+    "color": "#1a0a00"
+  },
+  "keyIdeas": [
+    "LTCM was founded by John Meriwether and staffed with Nobel laureates and the brightest minds in finance",
+    "The fund employed massive leverage — exceeding $100 billion in assets — to exploit tiny arbitrage opportunities",
+    "LTCM's models failed because they could not account for extreme market dislocations and correlated risk",
+    "The 1998 Russian default triggered a chain reaction that destroyed LTCM and threatened global markets"
+  ],
+  "keyTakeaways": [
+    "Leverage is the single greatest risk factor in financial markets",
+    "Mathematical models cannot fully capture the complexity and unpredictability of markets",
+    "Even the brightest minds can be wrong when they underestimate tail risk",
+    "The Federal Reserve's orchestrated bailout of LTCM set a dangerous precedent for too-big-to-fail"
+  ],
+  "whoShouldRead": [
+    "Finance professionals and risk managers wanting to understand leverage disasters",
+    "Students of financial history and the 1998 crisis",
+    "Investors who want to understand the dangers of overconfidence in quantitative models",
+    "General readers interested in a superb financial narrative"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking hedge fund trading strategies to copy",
+    "Those who prefer interviews over narrative history",
+    "People looking for a defense of quantitative finance"
+  ],
+  "relatedBooks": [
+    "more-money-than-god-sebastian-mallaby",
+    "a-demon-of-our-own-design-richard-bookstaber",
+    "the-quants-scott-patterson",
+    "hedge-hogs-barbara-dreyfuss"
+  ],
+  "subtopic": "01-finance",
+  "categoryPath": [
+    "07-money-markets-and-wealth",
+    "08-financial-history-and-market-crises",
+    "01-finance"
+  ]
+}

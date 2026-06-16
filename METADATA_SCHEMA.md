@@ -24,6 +24,10 @@
 | subjects | string[] | No | Subject areas |
 | themes | string[] | No | Major themes |
 | tags | string[] | No | Searchable tags |
+| category | string | Yes | Top-level category slug |
+| subcategory | string | Yes | Discipline subcategory slug |
+| subtopic | string | Yes | Leaf category/topic slug |
+| categoryPath | string[] | No | Full `[category, subcategory, subtopic]` path |
 
 ## Example
 
@@ -44,8 +48,10 @@
   "subjects": ["Behavioral Economics", "Cognitive Science"],
   "themes": ["Decision Making", "Cognitive Biases", "Heuristics"],
   "tags": ["psychology", "economics", "decision-making", "biases"],
-  "category": "Mind, Behavior & Human Performance",
-  "subcategory": "Behavioral Psychology"
+  "category": "07-money-markets-and-wealth",
+  "subcategory": "02-behavioral-finance",
+  "subtopic": "01-behavioral-economics",
+  "categoryPath": ["07-money-markets-and-wealth", "02-behavioral-finance", "01-behavioral-economics"]
 }
 ```
 

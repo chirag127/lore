@@ -1,0 +1,86 @@
+{
+  "id": "spqr-mary-beard",
+  "slug": "spqr-mary-beard",
+  "title": "SPQR: A History of Ancient Rome",
+  "subtitle": null,
+  "authors": [
+    "Mary Beard"
+  ],
+  "year": 2015,
+  "category": "05-society-history-and-power",
+  "subcategory": "08-ancient-history",
+  "pages": 608,
+  "isbn": "9781631492228",
+  "language": "en",
+  "genres": [
+    "History",
+    "Classics",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "Ancient Rome",
+    "Roman Empire",
+    "Roman Republic",
+    "Classical History"
+  ],
+  "themes": [
+    "Empire and Citizenship",
+    "Power and Institutions",
+    "Historical Methodology"
+  ],
+  "tags": [
+    "ancient-rome",
+    "roman-history",
+    "mary-beard",
+    "classical-history",
+    "roman-empire",
+    "roman-republic",
+    "classics",
+    "citizenship",
+    "popular-history"
+  ],
+  "difficulty": "easy-medium",
+  "estimatedReadingHours": 13,
+  "estimatedListeningMinutes": 780,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "Mary Beard's sweeping and revisionist history of ancient Rome, from its mythical foundation to the extension of citizenship in 212 CE, told through the lens of the people — not just the emperors and senators.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781631492228-L.jpg",
+    "color": "#8B0000"
+  },
+  "keyIdeas": [
+    "Rome was not a static empire but a constantly evolving experiment in governance, citizenship, and identity",
+    "The Roman Republic was more fragile, violent, and contested than the idealized picture suggests",
+    "Roman history is best understood through the experiences of ordinary people, not just the elite"
+  ],
+  "keyTakeaways": [
+    "Roman citizenship was gradually extended from a small elite to encompass the entire empire",
+    "The Republic fell not because of external threats but because its institutions could not contain elite competition",
+    "Rome's success owed as much to its willingness to incorporate outsiders as to military might",
+    "Many of our assumptions about Rome come from Roman propaganda that we have absorbed uncritically",
+    "The Roman Empire was far more diverse and complex than traditional narratives suggest"
+  ],
+  "whoShouldRead": [
+    "Anyone wanting a modern, accessible one-volume history of Rome",
+    "Readers who enjoyed the History of Rome podcast by Mike Duncan",
+    "People interested in how empires work and why they fall",
+    "Students looking for an introduction that engages with scholarly debates"
+  ],
+  "whoShouldSkip": [
+    "Those wanting a traditional military-political narrative of battles and emperors",
+    "Readers who prefer straightforward chronological storytelling",
+    "People looking for detailed coverage of the late empire"
+  ],
+  "relatedBooks": [
+    "the-history-of-the-ancient-world-susan-wise-bauer",
+    "rubicon-tom-holland"
+  ],
+  "subtopic": "01-ancient-rome",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "08-ancient-history",
+    "01-ancient-rome"
+  ]
+}

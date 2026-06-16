@@ -1,0 +1,63 @@
+{
+  "slug": "03-secrets-of-sand-hill-road-scott-kupor",
+  "title": "Secrets of Sand Hill Road",
+  "subtitle": "Venture Capital and How to Get It",
+  "author": "Scott Kupor",
+  "publicationYear": 2019,
+  "isbn": "9780593083726",
+  "publisher": "Portfolio",
+  "language": "en",
+  "pageCount": 304,
+  "genres": [
+    "Business",
+    "Finance",
+    "Venture Capital",
+    "Entrepreneurship"
+  ],
+  "subjects": [
+    "Venture Capital",
+    "Fund Structure",
+    "VC Economics",
+    "Startup Financing",
+    "Institutional Investing"
+  ],
+  "themes": [
+    "VC fund structure and economics",
+    "The GP-LP relationship and incentives",
+    "The power law of venture returns",
+    "Market-first investing philosophy",
+    "Building a VC firm and reputation"
+  ],
+  "tags": [
+    "venture-capital",
+    "sand-hill-road",
+    "scott-kupor",
+    "a16z",
+    "fund-structure",
+    "GP-LP",
+    "power-law",
+    "VC-economics",
+    "andreessen-horowitz",
+    "limited-partners",
+    "carried-interest"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 5,
+  "estimatedListeningMinutes": 300,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780593083726-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "07-money-markets-and-wealth",
+  "subcategory": "11-venture-capital-and-private-equity",
+  "subtopic": "01-venture-capital",
+  "categoryPath": [
+    "07-money-markets-and-wealth",
+    "11-venture-capital-and-private-equity",
+    "01-venture-capital"
+  ]
+}

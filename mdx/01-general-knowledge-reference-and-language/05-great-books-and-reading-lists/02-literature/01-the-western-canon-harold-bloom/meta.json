@@ -1,0 +1,86 @@
+{
+  "id": "the-western-canon-harold-bloom",
+  "slug": "the-western-canon-harold-bloom",
+  "title": "The Western Canon: The Books and School of the Ages",
+  "subtitle": null,
+  "authors": [
+    "Harold Bloom"
+  ],
+  "year": 1994,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "05-great-books-and-reading-lists",
+  "pages": 560,
+  "isbn": "9781573225144",
+  "language": "en",
+  "genres": [
+    "Literary Criticism",
+    "Reference",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "Literature",
+    "Canon",
+    "Western Literature",
+    "Criticism"
+  ],
+  "themes": [
+    "Literary Value",
+    "Tradition and Influence",
+    "Aesthetics vs Politics"
+  ],
+  "tags": [
+    "literary-canon",
+    "western-literature",
+    "criticism",
+    "Bloom",
+    "great-books",
+    "literary-theory",
+    "Shakespeare",
+    "aesthetics",
+    "canon"
+  ],
+  "difficulty": "hard",
+  "estimatedReadingHours": 14,
+  "estimatedListeningMinutes": 840,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "Harold Bloom's provocative and erudite defense of the Western literary canon, arguing for the enduring aesthetic value of 26 essential writers from Shakespeare to Beckett.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781573225144-L.jpg",
+    "color": "#2C1810"
+  },
+  "keyIdeas": [
+    "The Western canon is a tradition of literary works marked by their 'strangeness' and aesthetic originality",
+    "Canonical works achieve their status through 'anxiety of influence' — creative misreading of predecessors",
+    "The canon should be judged by aesthetic criteria, not political or social utility"
+  ],
+  "keyTakeaways": [
+    "Shakespeare is the center of the Western canon, the author against whom all others are measured",
+    "Canonical works are characterized by their originality, complexity, and ability to reward rereading",
+    "The canon is constantly evolving as new works enter and older works are revalued",
+    "Bloom identifies 26 'canonical' authors from Dante to Beckett as central to the Western tradition",
+    "The academic trend toward multiculturalism and historicism threatens the canon's survival"
+  ],
+  "whoShouldRead": [
+    "Serious readers of literature who care about the Western tradition",
+    "Students of literary criticism and theory",
+    "Educators thinking about what works to teach",
+    "Anyone who has ever wondered what makes a book 'great'"
+  ],
+  "whoShouldSkip": [
+    "Readers who reject the very idea of a literary canon",
+    "Those seeking diverse or multicultural literary perspectives",
+    "People who dislike Bloom's combative, opinionated style"
+  ],
+  "relatedBooks": [
+    "how-to-read-a-book-mortimer-adler",
+    "great-conversation-mortimer-adler"
+  ],
+  "subtopic": "02-literature",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "05-great-books-and-reading-lists",
+    "02-literature"
+  ]
+}

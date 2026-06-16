@@ -1,0 +1,66 @@
+{
+  "slug": "the-republic-plato",
+  "title": "The Republic",
+  "author": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "isbn": "9780140455113",
+  "pages": 480,
+  "publisher": "Penguin Classics",
+  "language": "en",
+  "genres": [
+    "Philosophy",
+    "Political Science",
+    "Classics"
+  ],
+  "subjects": [
+    "Justice",
+    "Ideal State",
+    "Philosophy",
+    "Allegory of the Cave",
+    "Forms"
+  ],
+  "themes": [
+    "Justice",
+    "Governance",
+    "Knowledge",
+    "Reality"
+  ],
+  "tags": [
+    "philosophy",
+    "political science",
+    "plato",
+    "justice",
+    "republic",
+    "allegory of the cave"
+  ],
+  "difficulty": "hard",
+  "estimatedReadingHours": 14,
+  "estimatedListeningMinutes": 840,
+  "excerpt": "A Socratic dialogue investigating justice, the ideal city-state, and the just individual. Plato addresses the nature of goodness, reality, and knowledge through the Allegory of the Cave.",
+  "category": "05-society-history-and-power",
+  "subcategory": "02-political-science-and-theory",
+  "addedAt": 1781448632743,
+  "whoShouldRead": [
+    "Readers interested in Philosophy and Political Science and Classics"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of The Republic"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780140455113-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "01-justice",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "02-political-science-and-theory",
+    "01-justice"
+  ]
+}

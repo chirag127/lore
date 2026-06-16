@@ -1,0 +1,88 @@
+{
+  "slug": "war-and-peace-leo-tolstoy",
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "publicationYear": 1869,
+  "isbn": "9780199232766",
+  "publisher": "Oxford World's Classics",
+  "language": "en",
+  "genres": [
+    "Fiction",
+    "Historical Fiction",
+    "Classic Literature"
+  ],
+  "subjects": [
+    "Russian Literature",
+    "Napoleonic Wars",
+    "Historical Fiction",
+    "Philosophy",
+    "War"
+  ],
+  "themes": [
+    "History as Collective Action",
+    "The Search for Meaning",
+    "Love and Family",
+    "Suffering and Growth",
+    "Fate vs Free Will"
+  ],
+  "tags": [
+    "historical fiction",
+    "Russian literature",
+    "Napoleon",
+    "war",
+    "peace",
+    "aristocracy",
+    "Tolstoy",
+    "classic literature",
+    "philosophical novel"
+  ],
+  "difficulty": "hard",
+  "estimatedReadingHours": 35,
+  "estimatedListeningMinutes": 2700,
+  "excerpt": "An epic panorama of Russian society during the Napoleonic Wars, weaving together the lives of five aristocratic families as they grapple with love, loss, fate, and the search for meaning amid history's most violent upheaval.",
+  "year": 1869,
+  "addedAt": 1781395200000,
+  "authors": [
+    "Leo Tolstoy"
+  ],
+  "cover": {
+    "url": "https://covers.openstreetsearch.org/b/isbn/9780199232766-L.jpg",
+    "color": "#2c1810"
+  },
+  "keyIdeas": [
+    "Historical events are shaped by countless individual actions, not by the will of great men",
+    "True understanding comes through lived experience rather than abstract theory",
+    "Love and family provide meaning amid the chaos of war and social change",
+    "The search for spiritual truth transcends rational philosophy"
+  ],
+  "keyTakeaways": [
+    "History is an organic process driven by the infinite web of human choices",
+    "Authentic happiness lies in simple domestic life, not in grand ambitions",
+    "Suffering and loss are essential to moral and spiritual growth",
+    "The greatest strength is found in acceptance of life's inherent uncertainty"
+  ],
+  "whoShouldRead": [
+    "Readers who love sweeping historical epics with philosophical depth",
+    "Students of Russian literature and 19th-century European culture",
+    "Anyone seeking a novel that examines the nature of war, power, and destiny",
+    "Those interested in character-driven fiction with dozens of unforgettable figures"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking fast-paced plots or tight, economical storytelling",
+    "Those intimidated by very long books (1392 pages)",
+    "Readers who dislike extensive philosophical digressions in fiction"
+  ],
+  "relatedBooks": [
+    "crime-and-punishment-fyodor-dostoevsky",
+    "anna-karenina-leo-tolstoy",
+    "les-miserables-victor-hugo"
+  ],
+  "category": "12-fiction-literature-and-story",
+  "subcategory": "04-historical-fiction",
+  "subtopic": "03-russian-literature",
+  "categoryPath": [
+    "12-fiction-literature-and-story",
+    "04-historical-fiction",
+    "03-russian-literature"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "livewired-david-eagleman",
+  "title": "Livewired",
+  "subtitle": "The Inside Story of the Ever-Changing Brain",
+  "author": "David Eagleman",
+  "publicationYear": 2020,
+  "publisher": "Pantheon Books",
+  "language": "en",
+  "pageCount": 320,
+  "isbn": "9780307359531",
+  "genres": [
+    "Neuroscience",
+    "Popular Science",
+    "Psychology",
+    "Science"
+  ],
+  "subjects": [
+    "Neuroplasticity",
+    "Brain plasticity",
+    "Neuroscience",
+    "Sensory substitution",
+    "Brain development",
+    "Cognitive science"
+  ],
+  "themes": [
+    "The brain is not pre-wired — it is livewired, constantly adapting to the world and its own inputs",
+    "Plasticity is the core feature of the brain, not an add-on feature",
+    "The brain dynamically allocates its resources based on input — unused territory is reassigned",
+    "Sensory substitution and augmentation show the brain's remarkable ability to adapt to new inputs",
+    "Understanding plasticity illuminates everything from development to aging to education",
+    "The brain is not a finished product — it is a work in progress"
+  ],
+  "tags": [
+    "neuroplasticity",
+    "livewired",
+    "david-eagleman",
+    "brain",
+    "neuroscience",
+    "plasticity",
+    "sensory-substitution",
+    "brain-augmentation",
+    "development",
+    "aging",
+    "popular-science",
+    "cognitive-science"
+  ],
+  "difficulty": "beginner",
+  "estimatedReadingHours": 8,
+  "estimatedListeningMinutes": 480,
+  "excerpt": "Your brain is not a preprogrammed device, not a computer with fixed architecture. It is a dynamic system, constantly rewiring itself based on what it encounters. The brain is not wired — it is livewired, always adjusting, always learning, always adapting to the world it finds itself in.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780307359531-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "13-neuroscience-of-the-mind",
+  "subtopic": "01-neuroplasticity",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "13-neuroscience-of-the-mind",
+    "01-neuroplasticity"
+  ]
+}

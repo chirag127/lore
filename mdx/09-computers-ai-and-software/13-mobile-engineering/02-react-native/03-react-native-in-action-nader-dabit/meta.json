@@ -1,0 +1,65 @@
+{
+  "slug": "03-react-native-in-action-nader-dabit",
+  "title": "React Native in Action",
+  "subtitle": "Developing iOS and Android Apps with JavaScript",
+  "author": "Nader Dabit",
+  "publicationYear": 2019,
+  "isbn": "9781617295401",
+  "publisher": "Manning Publications",
+  "language": "en",
+  "pageCount": 360,
+  "genres": [
+    "Technology",
+    "Mobile Development",
+    "Cross-Platform",
+    "JavaScript"
+  ],
+  "subjects": [
+    "React Native",
+    "Mobile Development",
+    "Cross-Platform",
+    "iOS",
+    "Android",
+    "JavaScript"
+  ],
+  "themes": [
+    "JavaScript-to-native bridge architecture",
+    "Component model for mobile development",
+    "Navigation patterns for mobile apps",
+    "Native module development",
+    "App store deployment and release management"
+  ],
+  "tags": [
+    "react-native",
+    "mobile-development",
+    "cross-platform",
+    "react",
+    "javascript",
+    "ios",
+    "android",
+    "nader-dabit",
+    "manning",
+    "navigation",
+    "native-modules",
+    "expo"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 10,
+  "estimatedListeningMinutes": 600,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781617295401-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "09-computers-ai-and-software",
+  "subcategory": "13-mobile-engineering",
+  "subtopic": "02-react-native",
+  "categoryPath": [
+    "09-computers-ai-and-software",
+    "13-mobile-engineering",
+    "02-react-native"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "the-worlds-religions-huston-smith",
+  "title": "The World's Religions: Our Great Wisdom Traditions",
+  "slug": "04-the-worlds-religions-huston-smith",
+  "authors": [
+    "Huston Smith"
+  ],
+  "year": 1991,
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "09-comparative-religion",
+  "pages": 399,
+  "isbn": "9780062508119",
+  "language": "en",
+  "genres": [
+    "Comparative Religion",
+    "Religious Studies",
+    "World Religions",
+    "Philosophy of Religion"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-12",
+  "excerpt": "A sympathetic, insider's introduction to the world's major religious traditions — Hinduism, Buddhism, Confucianism, Taoism, Islam, Judaism, Christianity, and primal religions — that has sold over three million copies and shaped how generations understand faith.",
+  "tags": [
+    "world religions",
+    "comparative religion",
+    "Hinduism",
+    "Buddhism",
+    "Confucianism",
+    "Taoism",
+    "Islam",
+    "Judaism",
+    "Christianity",
+    "perennial philosophy",
+    "primal religions",
+    "wisdom traditions"
+  ],
+  "addedAt": 1781222400000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780062508119-L.jpg",
+    "color": "#2b1a0e"
+  },
+  "keyIdeas": [
+    "Religion must be understood 'from the inside' — by its highest aspirations, not its institutional failures",
+    "The world's major religions are distinct paths up the same mountain of transcendent Reality",
+    "Each tradition emphasizes a different human faculty: love (Christianity), law (Judaism), submission (Islam), harmony (Taoism), order (Confucianism), discernment (Buddhism), and realization (Hinduism)",
+    "Primal religions preserve an immediate, symbolic orientation to the sacred that literate religions have largely lost"
+  ],
+  "keyTakeaways": [
+    "Hinduism offers four yogic paths — knowledge, love, work, and psychophysical exercises — suited to different temperaments",
+    "Buddhism diagnoses suffering as rooted in craving and prescribes the Eightfold Path as its remedy",
+    "Confucianism is primarily an ethical system focused on social harmony through right relationships",
+    "Taoism complements Confucianism by emphasizing spontaneous alignment with the natural order (wu-wei)",
+    "Islam means 'surrender'; its Five Pillars structure a life of submission to the one God (Allah)",
+    "Judaism centers on covenant, community memory, and the call to justice in history",
+    "Christianity pivots on the person of Jesus Christ — his teachings, his crucifixion, and the faith that he rose again",
+    "Primal religions embed the sacred in specific places, seasons, and oral traditions"
+  ],
+  "whoShouldRead": [
+    "College students taking their first course in world religions",
+    "General readers seeking a respectful, accessible introduction to faiths other than their own",
+    "Religious practitioners who want to understand their tradition's place in the broader human story",
+    "Anyone puzzled by why religion remains powerful in a scientific age"
+  ],
+  "whoShouldSkip": [
+    "Scholars seeking critical, deconstructive accounts of religious traditions",
+    "Readers wanting detailed historical or sociological analysis of institutional religion",
+    "Those who prefer a polemical atheist or fundamentalist apologetic approach"
+  ],
+  "relatedBooks": [
+    "a-history-of-god-karen-armstrong",
+    "the-great-transformation-karen-armstrong",
+    "god-is-not-one-stephen-prothero"
+  ],
+  "subtopic": "02-comparative-religion",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "09-comparative-religion",
+    "02-comparative-religion"
+  ]
+}

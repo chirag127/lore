@@ -1,0 +1,70 @@
+{
+  "id": "thinking-in-bets-annie-duke",
+  "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+  "slug": "thinking-in-bets-annie-duke",
+  "authors": [
+    "Annie Duke"
+  ],
+  "year": 2018,
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "06-memory-and-thinking",
+  "pages": 288,
+  "isbn": "9780735216372",
+  "language": "en",
+  "genres": [
+    "Decision Science",
+    "Cognitive Psychology",
+    "Business",
+    "Self-Help"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "Former World Series of Poker champion Annie Duke shows how treating decisions as bets — with probabilistic thinking, accountability for luck versus skill, and mental time travel — leads to dramatically better outcomes under uncertainty.",
+  "tags": [
+    "decision-making",
+    "cognitive-biases",
+    "probabilistic-thinking",
+    "poker-strategy",
+    "uncertainty"
+  ],
+  "addedAt": 1780963200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780735216372-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Resulting — judging decision quality by outcome alone — is the single biggest obstacle to learning from experience",
+    "Treating every decision as a bet forces you to calibrate your confidence and acknowledge uncertainty",
+    "A 'decision journal' and a 'truth-seeking' group (like a poker podcast) counteract cognitive biases",
+    "Mental time travel — pre-commitment, pre-mortems, and backcasting — bridges the gap between short-term emotion and long-term judgment"
+  ],
+  "keyTakeaways": [
+    "Separate the quality of a decision from the quality of its outcome: a good decision can have a bad result",
+    "Use bet-framing to overcome ego and cognitive biases — ask yourself what odds you'd give someone else",
+    "Build a decision journal to track your reasoning, then review past calls to calibrate your judgment",
+    "Surround yourself with a peer group that rewards intellectual honesty over being 'right'"
+  ],
+  "whoShouldRead": [
+    "Anyone who makes consequential decisions under uncertainty — executives, investors, entrepreneurs",
+    "Poker players and gamblers looking to translate table skills into life skills",
+    "Behavioral science enthusiasts who enjoyed Thinking, Fast and Slow and want practical applications",
+    "People prone to agonizing over past decisions or overconfident about their judgment"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a purely academic treatment of decision theory",
+    "Anyone averse to poker analogies and uncomfortable with probabilistic language"
+  ],
+  "relatedBooks": [
+    "thinking-fast-and-slow-daniel-kahneman",
+    "the-black-swan-nassim-taleb",
+    "superforecasting-philip-tetlock",
+    "misbehaving-richard-thaler",
+    "decisive-chip-dan-heath"
+  ],
+  "subtopic": "02-decision-science",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "06-memory-and-thinking",
+    "02-decision-science"
+  ]
+}

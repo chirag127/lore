@@ -1,0 +1,92 @@
+{
+  "slug": "the-organized-mind-daniel-levitin",
+  "title": "The Organized Mind: Thinking Straight in the Age of Information Overload",
+  "author": "Daniel J. Levitin",
+  "publicationYear": 2014,
+  "isbn": "9780525954187",
+  "publisher": "Dutton",
+  "language": "en",
+  "genres": [
+    "Psychology",
+    "Neuroscience",
+    "Self-Help",
+    "Science"
+  ],
+  "subjects": [
+    "Organization",
+    "Attention",
+    "Memory",
+    "Neuroscience",
+    "Information Management",
+    "Decision Making"
+  ],
+  "themes": [
+    "The Attention Filtering System",
+    "The Four-Category Sorting Method",
+    "The Central Bottleneck of Attention",
+    "How Memory Works",
+    "Organizing Information",
+    "Organizing Decision Making",
+    "Organizing Time"
+  ],
+  "tags": [
+    "psychology",
+    "neuroscience",
+    "organization",
+    "attention",
+    "memory",
+    "productivity",
+    "information-overload",
+    "decision-making",
+    "cognitive-science",
+    "brain"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 10,
+  "estimatedListeningMinutes": 600,
+  "excerpt": "Neuroscientist Daniel Levitin explains how the modern deluge of information overwhelms our brain's natural organizing systems—and provides practical strategies for taming the chaos, from inbox management to decision-making frameworks.",
+  "year": 2014,
+  "addedAt": 1781395200000,
+  "authors": [
+    "Daniel J. Levitin"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780525954187-L.jpg",
+    "color": "#34495e"
+  },
+  "keyIdeas": [
+    "The brain has limited attentional resources that must be carefully allocated",
+    "Externalizing information reduces cognitive load",
+    "The four-category sorting method simplifies decision-making",
+    "Understanding how memory works helps you work with it, not against it"
+  ],
+  "keyTakeaways": [
+    "Use external systems to offload what doesn't need to be in your head",
+    "Sort information into four categories: keep, archive, delegate, delete",
+    "Batch similar tasks to reduce attention-switching costs",
+    "Create decision-making frameworks to reduce cognitive depletion"
+  ],
+  "whoShouldRead": [
+    "Anyone feeling overwhelmed by information overload",
+    "Professionals managing complex projects and responsibilities",
+    "Students of neuroscience and cognitive psychology",
+    "People who want practical, science-based organization strategies"
+  ],
+  "whoShouldSkip": [
+    "Readers looking for a minimalist, purely philosophical approach",
+    "Those who prefer simple productivity tips over cognitive science context"
+  ],
+  "relatedBooks": [
+    "thinking-fast-and-slow-daniel-kahneman",
+    "deep-work-cal-newport",
+    "getting-things-done-david-allen"
+  ],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "02-cognitive-psychology",
+  "subtopic": "05-organization",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "02-cognitive-psychology",
+    "05-organization"
+  ]
+}

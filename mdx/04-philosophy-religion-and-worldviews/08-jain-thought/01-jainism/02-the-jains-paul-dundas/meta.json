@@ -1,0 +1,88 @@
+{
+  "id": "the-jains-paul-dundas",
+  "slug": "the-jains-paul-dundas",
+  "title": "The Jains",
+  "subtitle": null,
+  "authors": [
+    "Paul Dundas"
+  ],
+  "year": 2002,
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "08-jain-thought",
+  "pages": 368,
+  "isbn": "9780415266054",
+  "language": "en",
+  "genres": [
+    "Religion",
+    "Philosophy",
+    "Scholarly",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "Jainism",
+    "Indian Religion",
+    "Asceticism",
+    "Ahimsa",
+    "Comparative Religion"
+  ],
+  "themes": [
+    "Non-Violence",
+    "Spiritual Liberation",
+    "Ascetic Practice",
+    "Karma and Rebirth"
+  ],
+  "tags": [
+    "jainism",
+    "indian-religion",
+    "ahimsa",
+    "asceticism",
+    "paul-dundas",
+    "jain-philosophy",
+    "prakrit-literature",
+    "comparative-religion",
+    "religious-studies"
+  ],
+  "difficulty": "hard",
+  "estimatedReadingHours": 11,
+  "estimatedListeningMinutes": 660,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "Paul Dundas's authoritative introduction to the Jain religion, covering its history, doctrines, practices, literature, and contemporary significance in both India and the diaspora.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780415266054-L.jpg",
+    "color": "#2E4A2E"
+  },
+  "keyIdeas": [
+    "Jainism is one of the world's oldest living religions, with a continuous history of over 2,500 years",
+    "The central Jain doctrines of ahimsa (non-violence), anekantavada (many-sidedness), and aparigraha (non-attachment) form a coherent philosophical system",
+    "Jainism has maintained its distinct identity despite centuries of interaction with Hindu and Buddhist traditions"
+  ],
+  "keyTakeaways": [
+    "Jain cosmology describes an eternal universe with no creator god, governed by karmic law",
+    "The Jain path to liberation requires rigorous asceticism, particularly for monks and nuns",
+    "Jain literature includes an extensive canon of scriptures written in Prakrit and Sanskrit",
+    "The laity supports the monastic community through donations and observes less strict versions of the vows",
+    "Jainism has adapted to modernity through educational institutions, diaspora communities, and social reform"
+  ],
+  "whoShouldRead": [
+    "Students of Indian religions seeking authoritative coverage of Jainism",
+    "Scholars of comparative religion interested in non-theistic traditions",
+    "Anyone practicing or studying ahimsa (non-violence) as a spiritual principle",
+    "Readers interested in how ancient traditions adapt to modernity"
+  ],
+  "whoShouldSkip": [
+    "Those looking for a popular, devotional introduction to Jain practice",
+    "Readers wanting a simple overview — Dundas is scholarly and detailed",
+    "People seeking comparative analysis with other religions rather than Jainism itself"
+  ],
+  "relatedBooks": [
+    "jainism-guide-for-perplexed-sherry-fohr"
+  ],
+  "subtopic": "01-jainism",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "08-jain-thought",
+    "01-jainism"
+  ]
+}

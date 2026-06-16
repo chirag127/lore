@@ -1,0 +1,89 @@
+{
+  "slug": "limitless-jim-kwik",
+  "title": "Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life",
+  "author": "Jim Kwik",
+  "publicationYear": 2020,
+  "isbn": "9781401958237",
+  "publisher": "Hay House",
+  "language": "en",
+  "genres": [
+    "Self-Help",
+    "Productivity",
+    "Neuroscience",
+    "Education"
+  ],
+  "subjects": [
+    "Brain Optimization",
+    "Memory",
+    "Accelerated Learning",
+    "Focus",
+    "Mental Performance"
+  ],
+  "themes": [
+    "Mindset",
+    "Motivation",
+    "Methods",
+    "Speed Reading",
+    "Memory Enhancement"
+  ],
+  "tags": [
+    "brain",
+    "memory",
+    "learning",
+    "focus",
+    "productivity",
+    "neuroscience",
+    "speed-reading",
+    "mental-performance",
+    "self-improvement",
+    "jim-kwik"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 8,
+  "estimatedListeningMinutes": 480,
+  "excerpt": "A comprehensive brain-training program by one of the world's leading memory coaches, offering practical techniques to unlock mental performance, speed-read, remember names and numbers, and overcome the digital brain fog of modern life.",
+  "year": 2020,
+  "addedAt": 1781395200000,
+  "authors": [
+    "Jim Kwik"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781401958237-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Your brain is limitless by nature—limitations are learned, not innate",
+    "The three pillars of limitless performance: mindset, motivation, and methods",
+    "Digital overwhelm is the primary obstacle to cognitive performance",
+    "Speed reading and memory techniques are learnable skills"
+  ],
+  "keyTakeaways": [
+    "Adopt a growth mindset about your cognitive abilities",
+    "Combine strong motivation with effective methods for maximum results",
+    "Use active reading strategies to improve comprehension and retention",
+    "Practice memory techniques like visualization and association daily"
+  ],
+  "whoShouldRead": [
+    "Anyone feeling overwhelmed by information overload",
+    "Students and professionals wanting to read faster and remember more",
+    "Individuals interested in brain optimization and cognitive enhancement",
+    "Fans of Jim Kwik's podcast or online content"
+  ],
+  "whoShouldSkip": [
+    "Readers skeptical of self-help style presentation",
+    "Those looking for rigorous academic research rather than practical techniques"
+  ],
+  "relatedBooks": [
+    "make-it-stick-peter-brown",
+    "deep-work-cal-newport",
+    "a-mind-for-numbers-barbara-oakley"
+  ],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "01-learning-science-and-education",
+  "subtopic": "01-brain-optimization",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "01-learning-science-and-education",
+    "01-brain-optimization"
+  ]
+}

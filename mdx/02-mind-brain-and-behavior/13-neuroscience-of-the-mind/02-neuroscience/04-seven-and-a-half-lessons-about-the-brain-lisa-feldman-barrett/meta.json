@@ -1,0 +1,65 @@
+{
+  "slug": "seven-and-a-half-lessons-about-the-brain-lisa-feldman-barrett",
+  "title": "Seven and a Half Lessons About the Brain",
+  "author": "Lisa Feldman Barrett",
+  "publicationYear": 2020,
+  "publisher": "Houghton Mifflin Harcourt",
+  "language": "en",
+  "pageCount": 192,
+  "isbn": "9780358220383",
+  "genres": [
+    "Neuroscience",
+    "Popular Science",
+    "Psychology",
+    "Science"
+  ],
+  "subjects": [
+    "Neuroscience",
+    "Brain function",
+    "Cognition",
+    "Emotion",
+    "Brain evolution",
+    "Neuroplasticity"
+  ],
+  "themes": [
+    "Your brain is not for thinking — it is for allostasis, keeping your body alive and healthy",
+    "The brain is not a rational thinker with emotions as add-ons — it is a prediction engine",
+    "The brain wires itself to its physical and social environment",
+    "Brains are not the product of a single evolutionary design — they are a mosaic of ancient and new systems",
+    "Your brain is uniquely yours, shaped by your specific experiences",
+    "The brain works as a network, not a collection of independent modules"
+  ],
+  "tags": [
+    "neuroscience",
+    "brain",
+    "lisa-feldman-barrett",
+    "emotion",
+    "prediction",
+    "allostasis",
+    "popular-science",
+    "cognition",
+    "brain-evolution",
+    "neuroplasticity",
+    "networks"
+  ],
+  "difficulty": "beginner",
+  "estimatedReadingHours": 4,
+  "estimatedListeningMinutes": 240,
+  "excerpt": "Your brain is not for thinking. It is for running your body — managing your budget of water, salt, glucose, oxygen, and other resources needed to keep you alive. Thinking, feeling, perceiving, remembering — these are secondary. The brain's primary job is allostasis: predicting and preparing for your body's needs before they arise.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780358220383-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "13-neuroscience-of-the-mind",
+  "subtopic": "02-neuroscience",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "13-neuroscience-of-the-mind",
+    "02-neuroscience"
+  ]
+}

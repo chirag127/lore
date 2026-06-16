@@ -1,0 +1,95 @@
+{
+  "slug": "01-getting-to-yes-roger-fisher",
+  "title": "Getting to Yes",
+  "subtitle": "Negotiating Agreement Without Giving In",
+  "author": "Roger Fisher, William Ury, Bruce Patton",
+  "publicationYear": 2011,
+  "isbn": "9780143118756",
+  "publisher": "Penguin",
+  "language": "en",
+  "pageCount": 240,
+  "genres": [
+    "Business",
+    "Negotiation",
+    "Conflict Resolution",
+    "Self-Help"
+  ],
+  "subjects": [
+    "Negotiation",
+    "Conflict Resolution",
+    "Mediation",
+    "BATNA",
+    "Communication"
+  ],
+  "themes": [
+    "Separating people from problems in negotiation",
+    "Focusing on interests rather than positions",
+    "Inventing options for mutual gain",
+    "Using objective criteria to resolve differences",
+    "Leveraging BATNA as a source of negotiating power"
+  ],
+  "tags": [
+    "negotiation",
+    "conflict-resolution",
+    "BATNA",
+    "principled-negotiation",
+    "mediation",
+    "roger-fisher",
+    "harvard-negotiation-project",
+    "win-win",
+    "william-ury",
+    "bruce-patton",
+    "interest-based-bargaining"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 4,
+  "estimatedListeningMinutes": 240,
+  "year": 2011,
+  "excerpt": "The seminal guide to principled negotiation — separating people from problems, focusing on interests not positions, inventing options for mutual gain, and insisting on objective criteria.",
+  "addedAt": 1781395200000,
+  "authors": [
+    "Roger Fisher",
+    "William Ury",
+    "Bruce Patton"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780143118756-L.jpg",
+    "color": "#1a5276"
+  },
+  "keyIdeas": [
+    "Separate the people from the problem",
+    "Focus on interests, not positions",
+    "Invent options for mutual gain",
+    "Insist on using objective criteria",
+    "Know your BATNA — Best Alternative To a Negotiated Agreement"
+  ],
+  "keyTakeaways": [
+    "Negotiation is not about winning or losing — it is about finding a mutually acceptable solution",
+    "Attacking positions entrenches them; exploring interests opens possibilities",
+    "Your BATNA is your greatest source of negotiating power",
+    "Principled negotiation works across cultures, deal sizes, and relationship depths"
+  ],
+  "whoShouldRead": [
+    "Anyone who negotiates — which is everyone",
+    "Business professionals, lawyers, diplomats, and managers",
+    "Mediators and conflict resolution practitioners",
+    "New negotiators wanting a foundational framework"
+  ],
+  "whoShouldSkip": [
+    "Hardball negotiators who reject collaborative approaches",
+    "Readers seeking advanced tactical maneuvers",
+    "Those wanting industry-specific negotiation scripts"
+  ],
+  "relatedBooks": [
+    "02-never-split-the-difference-chris-voss",
+    "03-bargaining-for-advantage-richard-shell"
+  ],
+  "category": "06-business-strategy-and-organizations",
+  "subcategory": "08-negotiation-and-deal-making",
+  "subtopic": "01-negotiation",
+  "categoryPath": [
+    "06-business-strategy-and-organizations",
+    "08-negotiation-and-deal-making",
+    "01-negotiation"
+  ]
+}

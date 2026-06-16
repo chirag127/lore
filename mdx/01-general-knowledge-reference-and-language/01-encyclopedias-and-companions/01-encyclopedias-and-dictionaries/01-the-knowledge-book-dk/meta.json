@@ -1,0 +1,87 @@
+{
+  "id": "the-knowledge-book-dk",
+  "slug": "the-knowledge-book-dk",
+  "title": "The Knowledge Book: Everything You Need to Know to Get By in the 21st Century",
+  "subtitle": null,
+  "authors": [
+    "DK Publishing"
+  ],
+  "year": 2017,
+  "category": "01-general-knowledge-reference-and-language",
+  "subcategory": "01-encyclopedias-and-companions",
+  "pages": 512,
+  "isbn": "9781465457541",
+  "language": "en",
+  "genres": [
+    "Encyclopedia",
+    "Reference",
+    "General Knowledge"
+  ],
+  "subjects": [
+    "Encyclopedias and Dictionaries",
+    "Handbooks, Manuals",
+    "General Knowledge"
+  ],
+  "themes": [
+    "Interdisciplinary Knowledge",
+    "Visual Learning",
+    "General Education"
+  ],
+  "tags": [
+    "encyclopedia",
+    "general-knowledge",
+    "reference",
+    "facts",
+    "visual-guide",
+    "science",
+    "history",
+    "geography",
+    "culture",
+    "DK"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 14,
+  "estimatedListeningMinutes": 840,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "A comprehensive visual guide to modern knowledge covering science, nature, geography, history, and culture with DK's signature illustrated approach to making complex topics accessible.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781465457541-L.jpg",
+    "color": "#1A237E"
+  },
+  "keyIdeas": [
+    "Knowledge is interconnected across disciplines and understanding these connections is more valuable than isolated facts",
+    "Visual learning can make complex topics accessible to readers of all ages and backgrounds",
+    "A broad foundation in general knowledge enables better decision-making and cultural literacy"
+  ],
+  "keyTakeaways": [
+    "The universe, Earth, life, and human civilization are deeply interconnected systems",
+    "Science explains the natural world through testable, repeatable evidence",
+    "Human history is a story of innovation, conflict, and cultural exchange",
+    "Geography shapes the distribution of resources, populations, and power",
+    "Understanding basic concepts across disciplines builds a framework for deeper learning"
+  ],
+  "whoShouldRead": [
+    "Students and lifelong learners seeking a broad foundation in general knowledge",
+    "Parents looking for a family reference book that kids can grow with",
+    "Readers who prefer visual learning with infographics and illustrations",
+    "Anyone who wants to fill gaps in their general education"
+  ],
+  "whoShouldSkip": [
+    "Specialists seeking in-depth coverage of their field",
+    "Readers who prefer text-heavy reference works",
+    "Those already well-versed in basic science and history"
+  ],
+  "relatedBooks": [
+    "britannica-guide-influential-people-britannica",
+    "wikipedia-the-missing-manual-john-broughton",
+    "the-book-of-general-ignorance-john-lloyd"
+  ],
+  "subtopic": "01-encyclopedias-and-dictionaries",
+  "categoryPath": [
+    "01-general-knowledge-reference-and-language",
+    "01-encyclopedias-and-companions",
+    "01-encyclopedias-and-dictionaries"
+  ]
+}

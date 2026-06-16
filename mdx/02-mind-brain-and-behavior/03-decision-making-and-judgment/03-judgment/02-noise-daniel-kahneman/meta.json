@@ -1,0 +1,92 @@
+{
+  "slug": "noise-daniel-kahneman",
+  "title": "Noise: A Flaw in Human Judgment",
+  "author": "Daniel Kahneman, Olivier Sibony, Cass R. Sunstein",
+  "publicationYear": 2021,
+  "isbn": "9780316451406",
+  "publisher": "Little, Brown Spark",
+  "language": "en",
+  "genres": [
+    "Psychology",
+    "Decision Science",
+    "Business",
+    "Behavioral Economics"
+  ],
+  "subjects": [
+    "Judgment",
+    "Decision Making",
+    "Cognitive Biases",
+    "Noise",
+    "Behavioral Economics"
+  ],
+  "themes": [
+    "Noise vs Bias",
+    "The Paradox of Judgment",
+    "Decision Hygiene",
+    "Mediating Assessments",
+    "The Wisdom of Crowds",
+    "The Cost of Inconsistency"
+  ],
+  "tags": [
+    "noise",
+    "judgment",
+    "decision-making",
+    "cognitive-biases",
+    "kahneman",
+    "sibony",
+    "sunstein",
+    "behavioral-economics",
+    "variance",
+    "inconsistency"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 10,
+  "estimatedListeningMinutes": 600,
+  "excerpt": "Wherever humans make judgments—from courtrooms to boardrooms, medical clinics to hiring committees—unwanted variability called 'noise' produces errors just as damaging as bias, yet it remains largely invisible. Kahneman, Sibony, and Sunstein reveal how to recognize noise and reduce it through decision hygiene.",
+  "year": 2021,
+  "addedAt": 1781395200000,
+  "authors": [
+    "Daniel Kahneman",
+    "Olivier Sibony",
+    "Cass R. Sunstein"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780316451406-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Noise (unwanted variability in judgment) is as harmful as bias",
+    "Organizations are systematically blind to the noise in their own decisions",
+    "Noise can be reduced through 'decision hygiene' without eliminating valuable diversity",
+    "Where there is judgment, there is noise—and it is usually more than we expect"
+  ],
+  "keyTakeaways": [
+    "Audit your decisions for noise before trying to reduce bias",
+    "Replace unstructured judgment with structured guidelines where possible",
+    "Use the 'noise audit' to measure inconsistency in organizational decisions",
+    "Aggregate multiple independent judgments to reduce noise"
+  ],
+  "whoShouldRead": [
+    "Leaders and managers who make or oversee important decisions",
+    "Professionals in medicine, law, finance, and HR",
+    "Anyone who enjoyed Thinking, Fast and Slow",
+    "Organizational leaders concerned about fairness and consistency"
+  ],
+  "whoShouldSkip": [
+    "Readers who think only bias matters in judgment",
+    "Those looking for individual decision-making tips (focuses on organizational context)"
+  ],
+  "relatedBooks": [
+    "thinking-fast-and-slow-daniel-kahneman",
+    "superforecasting-philip-tetlock",
+    "decisive-chip-dan-heath"
+  ],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "03-decision-making-and-judgment",
+  "subtopic": "03-judgment",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "03-decision-making-and-judgment",
+    "03-judgment"
+  ]
+}

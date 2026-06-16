@@ -1,0 +1,87 @@
+{
+  "id": "leonardo-da-vinci-walter-isaacson",
+  "slug": "leonardo-da-vinci-walter-isaacson",
+  "title": "Leonardo da Vinci",
+  "subtitle": null,
+  "authors": [
+    "Walter Isaacson"
+  ],
+  "year": 2017,
+  "category": "05-society-history-and-power",
+  "subcategory": "12-historical-biographies-and-memoirs",
+  "pages": 624,
+  "isbn": "9781501139154",
+  "language": "en",
+  "genres": [
+    "Biography",
+    "Art History",
+    "History",
+    "Nonfiction"
+  ],
+  "subjects": [
+    "Leonardo da Vinci",
+    "Renaissance",
+    "Art History",
+    "Biography",
+    "Creativity"
+  ],
+  "themes": [
+    "Genius and Curiosity",
+    "Art and Science",
+    "Interdisciplinary Thinking"
+  ],
+  "tags": [
+    "leonardo-da-vinci",
+    "renaissance",
+    "biography",
+    "walter-isaacson",
+    "art-history",
+    "genius",
+    "creativity",
+    "renaissance-man",
+    "italian-renaissance"
+  ],
+  "difficulty": "easy-medium",
+  "estimatedReadingHours": 13,
+  "estimatedListeningMinutes": 780,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "Walter Isaacson's masterful biography of the quintessential Renaissance genius, revealing Leonardo not as a remote genius but as a relentlessly curious, deeply human figure whose greatest masterpiece was his own mind.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781501139154-L.jpg",
+    "color": "#2C1810"
+  },
+  "keyIdeas": [
+    "Leonardo's genius was rooted in relentless curiosity and obsessive observation, not supernatural talent",
+    "His greatest skill was making connections across disciplines — art, science, engineering, anatomy",
+    "His procrastination and perfectionism left many works unfinished, but his notebooks reveal a mind of astonishing range"
+  ],
+  "keyTakeaways": [
+    "Leonardo's curiosity was insatiable — he filled thousands of notebook pages with questions and observations",
+    "He understood that true mastery comes from observing nature directly, not from received wisdom",
+    "His integration of art and science made him the archetypal Renaissance man",
+    "Leonardo left many paintings unfinished because his perfectionism exceeded his practicality",
+    "His notebooks reveal that his scientific investigations were as original as his art"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in creativity, genius, and the Renaissance",
+    "Readers who enjoyed Isaacson's biographies of Steve Jobs and Einstein",
+    "Artists, scientists, and anyone who wants to understand how curiosity drives achievement",
+    "People who believe genius is accessible through discipline and passion"
+  ],
+  "whoShouldSkip": [
+    "Those wanting a quick, summary biography — Isaacson's approach is detailed",
+    "Readers who prefer critical, debunking biographies over celebratory ones",
+    "People looking for pure art history rather than a full-life biography"
+  ],
+  "relatedBooks": [
+    "the-innovators-walter-isaacson"
+  ],
+  "subtopic": "03-leonardo-da-vinci",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "12-historical-biographies-and-memoirs",
+    "03-leonardo-da-vinci"
+  ]
+}

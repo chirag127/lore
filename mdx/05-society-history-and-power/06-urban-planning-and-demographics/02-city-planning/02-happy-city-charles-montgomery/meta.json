@@ -1,0 +1,84 @@
+{
+  "slug": "happy-city-charles-montgomery",
+  "title": "Happy City: Transforming Our Lives Through Urban Design",
+  "subtitle": null,
+  "authors": [
+    "Charles Montgomery"
+  ],
+  "year": 2013,
+  "category": "05-society-history-and-power",
+  "subcategory": "06-urban-planning-and-demographics",
+  "pages": 400,
+  "isbn": "9780374534882",
+  "language": "en",
+  "genres": [
+    "Urban Design",
+    "Psychology",
+    "Society"
+  ],
+  "subjects": [
+    "City Planning",
+    "Happiness",
+    "Well-being",
+    "Urbanism"
+  ],
+  "themes": [
+    "Subjective Well-being",
+    "Urban Psychology",
+    "Social Connection",
+    "Sustainable Design"
+  ],
+  "tags": [
+    "urban design",
+    "happiness",
+    "city planning",
+    "psychology",
+    "well-being",
+    "urbanism"
+  ],
+  "difficulty": "easy-medium",
+  "estimatedReadingHours": 10,
+  "estimatedListeningMinutes": 600,
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "A fascinating exploration of the intersection between urban design and human happiness, blending psychology, neuroscience, and urban studies to ask how cities can make us happier.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780374534882-L.jpg",
+    "color": "#F0A030"
+  },
+  "keyIdeas": [
+    "Urban design directly affects psychological well-being through social connection, stress, autonomy, and daily experience",
+    "Car-centric suburban sprawl isolates people and reduces happiness despite promising the 'good life'",
+    "Dense, walkable, mixed-use neighborhoods with abundant public space increase social connection and life satisfaction",
+    "The design of streets, parks, transit, and housing shapes our social networks, stress levels, and sense of belonging"
+  ],
+  "keyTakeaways": [
+    "The suburban dream promised freedom but delivered isolation, long commutes, and financial stress",
+    "Social connection is the single strongest predictor of happiness, and urban design can either foster or inhibit it",
+    "Commuting is uniquely destructive to happiness — longer commutes consistently reduce life satisfaction",
+    "Cities that prioritize people over cars — through walking, cycling, and public transit — produce happier citizens"
+  ],
+  "whoShouldRead": [
+    "Urban planners and city officials looking for evidence-based design principles",
+    "Anyone interested in the science of happiness and how environment shapes well-being",
+    "Suburban dwellers questioning whether the suburban lifestyle is actually making them happy"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a technical planning manual — this is a popular science book, not a design guide",
+    "Those who strongly prefer suburban living and are not interested in alternative perspectives",
+    "Anyone looking for an economics-focused analysis of cities — the lens here is psychological well-being"
+  ],
+  "relatedBooks": [
+    "the-death-and-life-of-great-american-cities-jane-jacobs",
+    "the-city-in-history-lewis-mumford",
+    "walkable-city-jeff-speck",
+    "the-happiness-hypothesis-jonathan-haidt"
+  ],
+  "subtopic": "02-city-planning",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "06-urban-planning-and-demographics",
+    "02-city-planning"
+  ]
+}

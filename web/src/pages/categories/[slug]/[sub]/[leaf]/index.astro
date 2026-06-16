@@ -1,0 +1,89 @@
+---
+import BaseLayout from '../../../../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const paths: { params: { slug: string; sub: string; leaf: string } }[] = [];
+  const seen = new Set<string>();
+  const books = await getCollection('books');
+  for (const b of books) {
+    if (!b.data.category || !b.data.subcategory) continue;
+    const leaf = b.data.subtopic ?? 'general';
+    const key = `${b.data.category}/${b.data.subcategory}/${leaf}`;
+    if (!seen.has(key)) {
+      seen.add(key);
+      paths.push({ params: { slug: b.data.category, sub: b.data.subcategory, leaf } });
+    }
+  }
+  return paths;
+}
+
+function labelFromSlug(slug: string) {
+  const cleaned = slug.replace(/^\d+-/, '');
+  return cleaned
+    .split('-')
+    .map((word) => (['ai', 'eq', 'ui', 'ux', 'api', 'seo', 'devops'].includes(word) ? word.toUpperCase() : word.charAt(0).toUpperCase() + word.slice(1)))
+    .join(' ');
+}
+
+const { slug, sub, leaf } = Astro.params;
+const books = await getCollection('books');
+const leafBooks = books.filter(
+  b => b.data.category === slug && b.data.subcategory === sub && (b.data.subtopic ?? 'general') === leaf,
+);
+
+const overviewAll = await getCollection('overview');
+const leafSlug = `${slug}/${sub}/${leaf}`;
+const overviewEntry = overviewAll.find(e => e.id === `${leafSlug}/00-index` || e.id.startsWith(`${leafSlug}/`));
+let Content = null;
+if (overviewEntry) {
+  const rendered = await render(overviewEntry);
+  Content = rendered.Content;
+}
+
+const catName = labelFromSlug(slug ?? '');
+const subName = labelFromSlug(sub ?? '');
+const leafName = labelFromSlug(leaf ?? '');
+---
+
+<BaseLayout title={`${leafName} — ${subName} — KnowledgeAtlas`} description={`Browse ${leafBooks.length} books in ${leafName}.`}>
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
+    <p class="font-mono text-[0.6875rem] uppercase tracking-[0.22em] text-terracotta-500">
+      <a href="/categories" class="hover:text-terracotta-600">Categories</a>
+      <span class="mx-2">·</span>
+      <a href={`/categories/${slug}`} class="hover:text-terracotta-600">{catName}</a>
+      <span class="mx-2">·</span>
+      <a href={`/categories/${slug}/${sub}`} class="hover:text-terracotta-600">{subName}</a>
+    </p>
+    <h1 class="font-display text-display-lg font-light mt-4 mb-2 text-balance">
+      {leafName}
+    </h1>
+    <p class="text-ink-soft text-pretty max-w-2xl">
+      {leafBooks.length} {leafBooks.length === 1 ? 'book' : 'books'} on this focused topic.
+    </p>
+
+    {Content && (
+      <div class="prose-bookatlas mt-8 p-5 sm:p-6 border border-rule grain-card grain-overlay">
+        <Content />
+      </div>
+    )}
+
+    <div class="mt-12 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-x-3 sm:gap-x-4 gap-y-6">
+      {leafBooks.sort((a, b) => (a.data.addedAt ?? 0) > (b.data.addedAt ?? 0) ? -1 : 1).map((b) => (
+        <a href={`/books/${b.data.slug}`} class="group block">
+          {b.data.cover?.url ? (
+            <img src={b.data.cover.url} alt={b.data.title} class="w-full aspect-[2/3] object-cover shadow-sm group-hover:shadow-md transition-shadow" loading="lazy" />
+          ) : (
+            <div class="w-full aspect-[2/3] bg-parchment-100 border border-rule flex items-center justify-center p-3">
+              <span class="font-display text-sm text-center text-ink-soft leading-tight">{b.data.title}</span>
+            </div>
+          )}
+          <h3 class="mt-2 font-display text-sm font-light leading-tight text-pretty group-hover:text-terracotta-500 transition-colors">
+            {b.data.title}
+          </h3>
+          <p class="text-xs text-ink-soft truncate">{b.data.authors.join(', ')}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

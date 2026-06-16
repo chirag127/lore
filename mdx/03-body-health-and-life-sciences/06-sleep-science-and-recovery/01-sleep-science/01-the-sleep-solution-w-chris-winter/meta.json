@@ -1,0 +1,94 @@
+{
+  "id": "the-sleep-solution-w-chris-winter",
+  "title": "The Sleep Solution: Why Your Sleep Is Broken and How to Fix It",
+  "slug": "01-the-sleep-solution-w-chris-winter",
+  "authors": [
+    {
+      "name": "W. Chris Winter",
+      "role": "Author"
+    }
+  ],
+  "year": "2017",
+  "originalPublisher": "Penguin Random House (Berkley)",
+  "tradeEditionPublisher": "Penguin Books",
+  "tradeEditionYear": "2018",
+  "pages": 304,
+  "isbn": "9781101903704",
+  "originalIsbn": "9780399583605",
+  "language": "en",
+  "genres": [
+    "Health",
+    "Sleep Medicine",
+    "Science",
+    "Self-Help",
+    "Neurology"
+  ],
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "06-sleep-science-and-recovery",
+  "source": "generated",
+  "generatedAt": "2026-06-12",
+  "difficulty": "beginner",
+  "estimatedReadingHours": 8,
+  "estimatedListeningMinutes": 480,
+  "tags": [
+    "sleep",
+    "insomnia",
+    "sleep medicine",
+    "neurology",
+    "CBT-I",
+    "circadian rhythm",
+    "behavioral health",
+    "sleep hygiene",
+    "two-process model"
+  ],
+  "themes": [
+    "Sleep Science",
+    "Clinical Sleep Medicine",
+    "Behavioral Health",
+    "Insomnia",
+    "CBT-I",
+    "Circadian Biology",
+    "Neurology"
+  ],
+  "rationale": "The Sleep Solution fills an essential gap in the sleep-book landscape: where Why We Sleep provides laboratory science, Winter provides clinical practice. Written by a board-certified neurologist and sleep medicine specialist with 20+ years of patient encounters, this book reframes insomnia as a conditioned behavioral and cognitive problem rather than a sleep-production failure. It popularized CBT-I for a general audience and established the clinically grounded counterpoint to the alarmist narrative of contemporary sleep literature. Its unique contribution is the sleepiness-vs-fatigue distinction, the myth-busting opening, and a practical self-directed CBT-I program that can be implemented without a therapist.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780399583605-L.jpg",
+    "color": "#c62828"
+  },
+  "relatedBooks": [
+    "why-we-sleep-matthew-walker",
+    "the-circadian-code-satchin-panda",
+    "the-promise-of-sleep-william-dement",
+    "sleep-revolution-arianna-huffington",
+    "sleep-smarter-shawn-stevenson"
+  ],
+  "excerpt": "A neurologist and sleep medicine specialist dismantles the myths about sleep and offers an accessible, clinically grounded framework for understanding and curing insomnia and other sleep problems without pills.",
+  "addedAt": 1781222400000,
+  "keyIdeas": [
+    "Sleep problems are less 'not sleeping' than 'poor quality sleep' — and insomnia is as much about fear and frustration as about wakefulness",
+    "The two-process model (circadian + homeostatic) governs sleep; optimizing both beats drug-based approaches",
+    "Sleep hygiene, CBT-I principles, and simple behavioral changes can resolve most insomnia without pills"
+  ],
+  "keyTakeaways": [
+    "Set and hold a consistent wake-up time — it is more powerful than a bedtime",
+    "The bedroom should be reserved for sleep and sex only; phones, TVs, and laptops are seductive sleep thieves",
+    "Insomnia is largely a conditioned response: anxiety about not sleeping fuels the problem; CBT-I breaks that cycle"
+  ],
+  "whoShouldRead": [
+    "Chronic insomniacs who have tried pills, apps, and advice with little success",
+    "Healthcare providers seeking a clinically grounded introduction to sleep medicine",
+    "Anyone confused by conflicting sleep advice who wants a science-based framework",
+    "Co-sleepers and couples where one partner's habits disrupt the other's rest"
+  ],
+  "whoShouldSkip": [
+    "Researchers seeking detailed neurobiology of REM and NREM mechanisms — Winter covers this lightly and clinically",
+    "Readers who want a one-size-fits-all prescription for how many hours to sleep",
+    "Anyone looking for nutritional or supplement-heavy protocols"
+  ],
+  "subtopic": "01-sleep-science",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "06-sleep-science-and-recovery",
+    "01-sleep-science"
+  ]
+}

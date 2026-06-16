@@ -1,0 +1,77 @@
+{
+  "id": "the-way-of-zen-alan-watts",
+  "title": "The Way of Zen",
+  "slug": "01-the-way-of-zen-alan-watts",
+  "authors": [
+    "Alan Watts"
+  ],
+  "year": 1957,
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "03-eastern-philosophy-and-meditation",
+  "pages": 236,
+  "isbn": "9780375705106",
+  "isbn10": "0375705104",
+  "publisher": "Pantheon Books",
+  "language": "en",
+  "genres": [
+    "Philosophy",
+    "Zen Buddhism",
+    "Eastern Philosophy",
+    "Comparative Religion"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-10",
+  "excerpt": "The classic Western introduction to Zen Buddhism, tracing its roots in Taoist philosophy and Mahayana Buddhism and explaining its principles and practice with rare clarity and lucidity.",
+  "tags": [
+    "zen",
+    "buddhism",
+    "taoism",
+    "eastern-philosophy",
+    "alan-watts",
+    "meditation",
+    "non-duality",
+    "comparative-religion"
+  ],
+  "addedAt": 1781049600000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780375705106-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Zen is a synthesis of Chinese Taoism and Indian Mahayana Buddhism, not a purely Japanese creation",
+    "The Tao (the Way) is the spontaneous, unnameable process of the universe — wu-wei (non-action) is its mode of operation",
+    "The ego is a social fiction; liberation comes from seeing through the illusion of the separate self",
+    "Zazen (sitting meditation) and koans are methods of forcing the mind to drop its dualistic grasping",
+    "Zen art — ink painting, tea ceremony, haiku, archery — expresses enlightenment through direct, unself-conscious action"
+  ],
+  "keyTakeaways": [
+    "Zen cannot be understood through intellectual concepts alone; it must be experienced directly",
+    "The conventional distinction between subject and object, self and world, is the root of human frustration",
+    "Satori (awakening) is not a supernatural state but the natural, spontaneous way of seeing reality as it is",
+    "Practice and enlightenment are not separate: sitting in meditation is itself the expression of Buddha-nature"
+  ],
+  "whoShouldRead": [
+    "Anyone curious about Zen Buddhism who wants a historically grounded, intellectually serious introduction",
+    "Readers of D.T. Suzuki who want a more concise and structured presentation",
+    "Students of comparative philosophy interested in the meeting of Eastern and Western thought",
+    "Practitioners of mindfulness and meditation seeking the philosophical foundations of their practice"
+  ],
+  "whoShouldSkip": [
+    "Those looking for a step-by-step meditation manual or practical guide to Zen practice",
+    "Readers who want a strictly traditional, lineage-based presentation of Zen teaching",
+    "Those uncomfortable with a Western interpreter presenting Eastern philosophy through a comparative lens"
+  ],
+  "relatedBooks": [
+    "zen-in-the-art-of-archery-eugen-herrigel",
+    "zen-mind-beginners-mind-shunryu-suzuki",
+    "an-introduction-to-zen-buddhism-dt-suzuki",
+    "the-book-of-tea-kakuzo-okakura",
+    "tao-the-watercourse-way-alan-watts"
+  ],
+  "subtopic": "04-zen-buddhism",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "03-eastern-philosophy-and-meditation",
+    "04-zen-buddhism"
+  ]
+}

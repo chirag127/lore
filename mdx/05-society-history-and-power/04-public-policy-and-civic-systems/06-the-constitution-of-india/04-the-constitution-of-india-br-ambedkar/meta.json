@@ -1,0 +1,81 @@
+{
+  "title": "The Constitution of India: Modern Annotated Edition",
+  "slug": "04-the-constitution-of-india-br-ambedkar",
+  "author": "B.R. Ambedkar",
+  "year": 1950,
+  "isbn": "9780199455503",
+  "isbn10": "0199455502",
+  "pages": 450,
+  "publisher": "Oxford University Press India",
+  "edition": "Annotated Modern Edition",
+  "genre": [
+    "Constitutional Law",
+    "Legal Reference"
+  ],
+  "subgenre": [
+    "Indian Constitutional Law",
+    "Fundamental Rights",
+    "Directive Principles"
+  ],
+  "keywords": [
+    "constitution",
+    "fundamental rights",
+    "directive principles",
+    "br-ambedkar",
+    "constituent assembly",
+    "emergency provisions",
+    "reservation",
+    "union of india",
+    "independent india"
+  ],
+  "rationale": "The Constitution of India is the foundational legal text of the world's largest democracy and constitutional republic. As root Book #1 for the indian-law leaf, it provides the indispensable starting point for any study of Indian law, governance, or constitutional democracy. Written under Ambedkar's chairmanship of the Drafting Committee over nearly three years of Constituent Assembly deliberation, it is the world's longest written national constitution and one of the most ambitious attempts to embed social revolution as a constitutional commitment. The OUP India annotated edition provides modern editorial context essential for contemporary readers.",
+  "verified": true,
+  "verification_source": "Oxford University Press India catalog; Open Library ISBN 9780199455503; ISBN registered OUP India 2017 annotated edition",
+  "excerpt": "The supreme law of India—drafted under the Chairmanship of B.R. Ambedkar over 2 years, 11 months, and 18 days—establishing the world's longest written national constitution and India's democratic framework.",
+  "tags": [
+    "indian-constitution",
+    "constitutional-law",
+    "br-ambedkar",
+    "fundamental-rights",
+    "parliamentary-democracy"
+  ],
+  "authors": [
+    "B.R. Ambedkar"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780199455503-L.jpg",
+    "color": "#3e2723"
+  },
+  "keyIdeas": [
+    "Constitutional supremacy over parliamentary supremacy",
+    "Fundamental Rights as enforceable, justiciable guarantees for all citizens",
+    "Directive Principles of State Policy as the Constitution's social-revolution mandate",
+    "The Preamble declares India a Sovereign, Socialist, Secular, Democratic Republic"
+  ],
+  "keyTakeaways": [
+    "Ambedkar explicitly drew from at least 60 preceding constitutions in crafting India's",
+    "The original 1950 text had 395 Articles, 22 Parts, and 8 Schedules; today 448 Articles, 25 Parts, and 12 Schedules",
+    "Ambedkar publicly disowned the final document in 1953, calling it 'a wheel that will not move'",
+    "The Constitution transformed India from British colonial dominion to a sovereign republic on 26 January 1950"
+  ],
+  "whoShouldRead": [
+    "Law students and constitutional scholars",
+    "Civil services aspirants (UPSC and state PSCs)",
+    "Anyone seeking authoritative grounding in Indian civic rights and duties"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking narrative legal exposition over raw constitutional text"
+  ],
+  "relatedBooks": [
+    "working-a-democratic-constitution-granville-austin",
+    "annihilation-of-caste-br-ambedkar"
+  ],
+  "category": "05-society-history-and-power",
+  "subcategory": "04-public-policy-and-civic-systems",
+  "subtopic": "06-the-constitution-of-india",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "04-public-policy-and-civic-systems",
+    "06-the-constitution-of-india"
+  ]
+}

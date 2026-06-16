@@ -1,0 +1,76 @@
+{
+  "title": "Understanding Distributed Systems: What Every Developer Should Know About Distributed Systems",
+  "slug": "10-understanding-distributed-systems-vitessia",
+  "authors": [
+    "Vitessia"
+  ],
+  "publisher": "Self-Published",
+  "pages": 280,
+  "level": "Beginner to Intermediate",
+  "language": "en",
+  "topics": [
+    "Distributed Systems",
+    "CAP Theorem",
+    "Consensus Protocols",
+    "Clocks and Time",
+    "Data Consistency",
+    "Failure Handling",
+    "Sharding and Partitioning",
+    "Replication",
+    "Microservices",
+    "Distributed Transactions",
+    "Circuit Breakers",
+    "Idempotency",
+    "Network Failures"
+  ],
+  "tags": [
+    "distributed-systems",
+    "cap-theorem",
+    "consensus",
+    "clocks",
+    "consistency",
+    "failure-handling",
+    "sharding",
+    "partitioning",
+    "replication",
+    "microservices",
+    "distributed-transactions",
+    "circuit-breaker",
+    "idempotency",
+    "retries",
+    "backoff",
+    "bulkheads",
+    "two-phase-commit",
+    "saga",
+    "linearizability",
+    "eventual-consistency",
+    "vector-clocks",
+    "vector-clocks",
+    "flp-impossibility",
+    "causal-consistency",
+    "sequential-consistency"
+  ],
+  "coverImage": "/books/understanding-distributed-systems-vitessia/cover.webp",
+  "files": [
+    "index.mdx",
+    "01-content.mdx",
+    "02-analysis.mdx",
+    "03-narration.mdx"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "09-computers-ai-and-software",
+  "subcategory": "03-system-design-and-distributed-systems",
+  "subtopic": "08-understanding-distributed-systems",
+  "categoryPath": [
+    "09-computers-ai-and-software",
+    "03-system-design-and-distributed-systems",
+    "08-understanding-distributed-systems"
+  ]
+}

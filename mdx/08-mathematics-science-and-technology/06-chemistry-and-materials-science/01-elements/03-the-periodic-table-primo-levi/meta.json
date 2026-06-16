@@ -1,0 +1,68 @@
+{
+  "slug": "the-periodic-table-primo-levi",
+  "title": "The Periodic Table",
+  "author": "Primo Levi",
+  "authors": [
+    "Primo Levi"
+  ],
+  "publicationYear": 1975,
+  "year": 1975,
+  "isbn": "9780805239298",
+  "pages": 233,
+  "publisher": "Schocken Books",
+  "language": "en",
+  "genres": [
+    "Chemistry",
+    "Memoir",
+    "Literature",
+    "Science"
+  ],
+  "subjects": [
+    "Elements",
+    "Memoir",
+    "Holocaust History",
+    "Chemistry"
+  ],
+  "themes": [
+    "Memory",
+    "Science and Humanity",
+    "Survival",
+    "Beauty of Chemistry"
+  ],
+  "tags": [
+    "chemistry",
+    "periodic table",
+    "primo levi",
+    "memoir",
+    "holocaust",
+    "elements"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 6,
+  "estimatedListeningMinutes": 360,
+  "excerpt": "A unique blend of memoir, history, and science, structured as short stories each named after a chemical element. Named the best science book ever written by the Royal Institution of Great Britain.",
+  "category": "08-mathematics-science-and-technology",
+  "subcategory": "06-chemistry-and-materials-science",
+  "addedAt": 1781448632787,
+  "whoShouldRead": [
+    "Readers interested in Chemistry and Memoir and Literature and Science"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of The Periodic Table"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780805239298-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "01-elements",
+  "categoryPath": [
+    "08-mathematics-science-and-technology",
+    "06-chemistry-and-materials-science",
+    "01-elements"
+  ]
+}

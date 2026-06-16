@@ -1,0 +1,73 @@
+{
+  "id": "hedge-fund-market-wizards-jack-schwager",
+  "title": "Hedge Fund Market Wizards: How Winning Traders Win",
+  "slug": "01-hedge-fund-market-wizards-jack-schwager",
+  "authors": [
+    "Jack D. Schwager"
+  ],
+  "year": 2012,
+  "category": "07-money-markets-and-wealth",
+  "subcategory": "05-risk-management",
+  "pages": 544,
+  "isbn": "9781118273043",
+  "publisher": "Wiley",
+  "language": "en",
+  "genres": [
+    "Finance",
+    "Investing",
+    "Trading",
+    "Interviews"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "The fourth installment in Schwager's Market Wizards series, presenting in-depth interviews with fifteen of the world's most successful hedge fund managers to uncover the strategies, mindsets, and disciplines that drive consistent outperformance.",
+  "tags": [
+    "hedge-funds",
+    "trading-psychology",
+    "market-wizards",
+    "interviews",
+    "risk-management",
+    "jack-schwager"
+  ],
+  "addedAt": 1781049600000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781118273043-L.jpg",
+    "color": "#1a3a5c"
+  },
+  "keyIdeas": [
+    "The most successful hedge fund traders share common traits: discipline, risk management, and a well-defined edge",
+    "Trading success depends more on psychology and temperament than on strategy or intelligence",
+    "Position sizing and risk control are more important than prediction accuracy",
+    "Each trader must find an approach that fits their personality — there is no universal method"
+  ],
+  "keyTakeaways": [
+    "Risk management is the single most important factor in long-term trading success",
+    "Winning traders think in terms of probabilities, not certainties",
+    "The best hedge fund managers have survived multiple market cycles and learned from failures",
+    "Diversification across uncorrelated strategies reduces portfolio volatility without sacrificing returns"
+  ],
+  "whoShouldRead": [
+    "Aspiring hedge fund managers seeking insights from proven practitioners",
+    "Investors and allocators wanting to understand how top managers think and operate",
+    "Traders at any level looking to improve their psychological approach to markets",
+    "Students of finance interested in the practical application of trading theory"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a historical narrative of the hedge fund industry",
+    "Those wanting detailed quantitative models or algorithmic trading strategies",
+    "Readers who prefer a single author's thesis over multiple interview perspectives"
+  ],
+  "relatedBooks": [
+    "the-new-market-wizards-jack-schwager",
+    "market-wizards-jack-schwager",
+    "stock-market-wizards-jack-schwager",
+    "more-money-than-god-sebastian-mallaby",
+    "inside-the-house-of-money-steven-drobny"
+  ],
+  "subtopic": "01-finance",
+  "categoryPath": [
+    "07-money-markets-and-wealth",
+    "05-risk-management",
+    "01-finance"
+  ]
+}

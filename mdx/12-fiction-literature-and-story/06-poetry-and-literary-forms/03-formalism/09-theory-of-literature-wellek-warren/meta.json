@@ -1,0 +1,68 @@
+{
+  "id": "theory-of-literature",
+  "title": "Theory of Literature",
+  "slug": "09-theory-of-literature-wellek-warren",
+  "authors": [
+    "René Wellek",
+    "Austin Warren"
+  ],
+  "year": 1949,
+  "category": "12-fiction-literature-and-story",
+  "subcategory": "06-poetry-and-literary-forms",
+  "pages": 403,
+  "isbn": "9780156890847",
+  "language": "en",
+  "genres": [
+    "Literary Theory",
+    "Literary Criticism",
+    "Formalism",
+    "Aesthetics"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "The foundational text of the New Criticism and the most important systematic statement of literary theory in the twentieth century, establishing the autonomy of literary study as a discipline.",
+  "tags": [
+    "literary-theory",
+    "new-criticism",
+    "r-new-wellek",
+    "austin-warren",
+    "formalism",
+    "criticism",
+    "poetics"
+  ],
+  "addedAt": 1780963200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780156890847-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "Literary study must be distinguished from the history of ideas, sociology, and psychology",
+    "The literary work is a stratified structure of meaning, not reducible to paraphrase",
+    "Literary theory, criticism, and history are interdependent disciplines",
+    "Evaluation is an essential and inescapable dimension of criticism"
+  ],
+  "keyTakeaways": [
+    "Understand the intrinsic approach to literature that shaped twentieth-century criticism",
+    "Recognise the difference between extrinsic and intrinsic methods of analysis",
+    "Appreciate the theoretical foundations of the New Criticism and its legacy"
+  ],
+  "whoShouldRead": [
+    "Students of literary theory seeking the foundations of modern criticism",
+    "Scholars interested in the institutional history of English studies",
+    "Anyone who wants to understand what it means to study literature as literature"
+  ],
+  "whoShouldSkip": [
+    "Readers who reject the idea of literature as a distinct object of study",
+    "Those seeking a culturally or politically oriented approach to criticism"
+  ],
+  "relatedBooks": [
+    "the-mirror-and-the-lamp-mh-abrams",
+    "anatomy-of-criticism-northrop-frye"
+  ],
+  "subtopic": "03-formalism",
+  "categoryPath": [
+    "12-fiction-literature-and-story",
+    "06-poetry-and-literary-forms",
+    "03-formalism"
+  ]
+}

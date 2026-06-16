@@ -1,0 +1,94 @@
+{
+  "slug": "anatomy-and-physiology-openstax",
+  "title": "Anatomy and Physiology 2e",
+  "authors": [
+    "J. Gordon Betts",
+    "Peter DeSaix",
+    "Eddie Johnson",
+    "Jody E. Johnson",
+    "Oksana Korol",
+    "Dean H. Kruse",
+    "Brandon Poe",
+    "James A. Wise",
+    "Mark Womble",
+    "Kelly A. Young"
+  ],
+  "publicationYear": 2022,
+  "publisher": "OpenStax, Rice University",
+  "isbn13": "9781711494067",
+  "pages": 1314,
+  "language": "en",
+  "genres": [
+    "Textbook",
+    "Anatomy",
+    "Physiology",
+    "Open Educational Resource"
+  ],
+  "subjects": [
+    "Human Anatomy",
+    "Human Physiology",
+    "Body Systems"
+  ],
+  "themes": [
+    "Homeostasis",
+    "Structure-Function Relationship",
+    "Body Systems Integration",
+    "Clinical Applications"
+  ],
+  "tags": [
+    "anatomy",
+    "physiology",
+    "open textbook",
+    "OER",
+    "body systems",
+    "homeostasis",
+    "biology",
+    "allied health",
+    "nursing"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 70,
+  "estimatedListeningMinutes": 1440,
+  "excerpt": "A comprehensive, peer-reviewed open textbook covering human anatomy and physiology organized by body systems, designed for two-semester courses in life sciences and allied health.",
+  "year": 2022,
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781711494067-L.jpg",
+    "color": "#1B4F72"
+  },
+  "keyIdeas": [
+    "Structure and function are inseparable at every level of biological organization",
+    "Homeostasis is the central organizing principle of human physiology",
+    "The body operates as an integrated network of interacting organ systems",
+    "Anatomical terminology provides a universal language for describing the human body"
+  ],
+  "keyTakeaways": [
+    "Master anatomical position, directional terms, and body planes to communicate precisely about the human body",
+    "Understand how feedback mechanisms maintain homeostasis across all organ systems",
+    "Recognize the interdependence of body systems in health and disease",
+    "Apply structure-function relationships to predict physiological responses"
+  ],
+  "whoShouldRead": [
+    "Pre-nursing and allied health students starting their anatomy & physiology sequence",
+    "Biology undergraduates seeking a free, peer-reviewed A&P reference",
+    "Self-learners and career-changers entering healthcare fields",
+    "Instructors looking for an adaptable OER textbook for two-semester A&P courses"
+  ],
+  "whoShouldSkip": [
+    "Advanced medical students needing surgical or cadaver-level anatomical detail",
+    "Readers seeking entertainment rather than systematic textbook study",
+    "Professionals requiring in-depth physiology research with extensive molecular mechanisms"
+  ],
+  "relatedBooks": [
+    "grays-anatomy-for-students-richard-drake",
+    "netter-atlas-human-anatomy-frank-netter"
+  ],
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "01-human-anatomy-and-physiology",
+  "subtopic": "01-human-anatomy",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "01-human-anatomy-and-physiology",
+    "01-human-anatomy"
+  ]
+}

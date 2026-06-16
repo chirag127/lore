@@ -1,0 +1,70 @@
+{
+  "slug": "godel-escher-bach-douglas-hofstadter",
+  "title": "Gödel, Escher, Bach",
+  "subtitle": "An Eternal Golden Braid",
+  "author": "Douglas R. Hofstadter",
+  "publicationYear": 1979,
+  "publisher": "Basic Books",
+  "language": "en",
+  "pageCount": 777,
+  "isbn": "9780465026560",
+  "genres": [
+    "Cognitive Science",
+    "Mathematics",
+    "Philosophy",
+    "Art",
+    "Music"
+  ],
+  "subjects": [
+    "Gödel's incompleteness theorems",
+    "Self-reference",
+    "Artificial intelligence",
+    "Consciousness",
+    "Formal systems",
+    "Recursion"
+  ],
+  "themes": [
+    "Self-reference and strange loops are at the heart of consciousness, mathematics, and art",
+    "Gödel's incompleteness theorem shows that any sufficiently powerful formal system has true statements it cannot prove — a kind of self-reference",
+    "Escher's drawings and Bach's music explore similar patterns of recursion and self-reference",
+    "Meaning emerges from the interaction of levels in a system — from symbols to thoughts",
+    "The mind is a strange loop: a self-referential pattern that arises from the brain's activity",
+    "Artificial intelligence is possible in principle, but requires understanding the mechanisms of meaning and self-reference"
+  ],
+  "tags": [
+    "godel-escher-bach",
+    "douglas-hofstadter",
+    "self-reference",
+    "consciousness",
+    "artificial-intelligence",
+    "godel",
+    "incompleteness",
+    "recursion",
+    "strange-loop",
+    "formal-systems",
+    "cognitive-science",
+    "mathematics",
+    "philosophy",
+    "music"
+  ],
+  "difficulty": "advanced",
+  "estimatedReadingHours": 30,
+  "estimatedListeningMinutes": 1800,
+  "excerpt": "What is a self, and how can a self come out of stuff that is not self? Why are there selves at all? These are the questions that Gödel, Escher, Bach explores. The answer, I believe, lies in the concept of a 'strange loop' — a self-referential, tangled hierarchy that arises when a system loops back on itself. And the most beautiful strange loop of all is the human mind.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780465026560-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "14-consciousness-and-cognition",
+  "subtopic": "02-g-del-s-incompleteness-theorems",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "14-consciousness-and-cognition",
+    "02-g-del-s-incompleteness-theorems"
+  ]
+}

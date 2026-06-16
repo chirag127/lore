@@ -1,0 +1,74 @@
+{
+  "slug": "the-social-animal-elliot-aronson",
+  "title": "The Social Animal",
+  "subtitle": "The definitive introductory textbook on social psychology — the scientific study of how people think about, influence, and relate to one another.",
+  "author": "Elliot Aronson",
+  "publicationYear": 1972,
+  "isbn": "9780205989106",
+  "publisher": "Worth Publishers",
+  "language": "en",
+  "pageCount": 528,
+  "genres": [
+    "Psychology",
+    "Social Science",
+    "Academic"
+  ],
+  "subjects": [
+    "Social Psychology",
+    "Cognitive Dissonance",
+    "Conformity",
+    "Persuasion",
+    "Prejudice",
+    "Group Dynamics",
+    "Attraction"
+  ],
+  "themes": [
+    "The power of the situation in shaping behavior",
+    "Cognitive dissonance as the engine of attitude change",
+    "Conformity and obedience — when and why we yield to social pressure",
+    "Prejudice and intergroup conflict",
+    "The science of attraction and close relationships",
+    "Prosocial behavior and the bystander effect"
+  ],
+  "tags": [
+    "social-psychology",
+    "elliot-aronson",
+    "cognitive-dissonance",
+    "conformity",
+    "obedience",
+    "prejudice",
+    "attraction",
+    "group-dynamics",
+    "bystander-effect",
+    "persuasion",
+    "textbook"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 18,
+  "estimatedListeningMinutes": 900,
+  "awards": [
+    "APA Distinguished Scientific Contribution Award",
+    "One of the 100 most influential psychologists of the 20th century",
+    "Over 3 million copies sold across multiple editions"
+  ],
+  "excerpt": "Elliot Aronson's The Social Animal is the most widely used social psychology textbook in the world, now in its 12th edition. It covers the entire field — conformity, persuasion, cognitive dissonance, attraction, prejudice, aggression, and prosocial behavior — in clear, engaging prose that reads more like a novel than a textbook. Aronson's central theme: the power of the social situation is far greater than most people imagine.",
+  "authors": [
+    "Elliot Aronson"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780205989106-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "07-social-psychology-and-influence",
+  "subtopic": "05-social-psychology",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "07-social-psychology-and-influence",
+    "05-social-psychology"
+  ]
+}

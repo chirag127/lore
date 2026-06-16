@@ -1,0 +1,90 @@
+{
+  "slug": "name-of-the-rose-umberto-eco",
+  "title": "The Name of the Rose",
+  "author": "Umberto Eco",
+  "publicationYear": 1980,
+  "isbn": "9780544176560",
+  "publisher": "Mariner",
+  "language": "en",
+  "genres": [
+    "Fiction",
+    "Historical Fiction",
+    "Mystery",
+    "Postmodern Literature"
+  ],
+  "subjects": [
+    "Medieval History",
+    "Semiotics",
+    "Theology",
+    "Philosophy",
+    "Detective Fiction"
+  ],
+  "themes": [
+    "Laughter and Subversion",
+    "Knowledge and Power",
+    "Interpretation and Meaning",
+    "Faith vs Reason",
+    "Truth and Authority"
+  ],
+  "tags": [
+    "historical fiction",
+    "mystery",
+    "medieval",
+    "semiotics",
+    "monastery",
+    "murder",
+    "philosophy",
+    "postmodern",
+    "library",
+    "detective"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 14,
+  "estimatedListeningMinutes": 960,
+  "excerpt": "A medieval monk investigates a series of murders in a wealthy Italian abbey, uncovering a labyrinth of theological intrigue, forbidden knowledge, and the power of laughter.",
+  "year": 1980,
+  "addedAt": 1781395200000,
+  "authors": [
+    "Umberto Eco"
+  ],
+  "cover": {
+    "url": "https://covers.openstreetsearch.org/b/isbn/9780544176560-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "The pursuit of truth is always entangled with power, ideology, and institutional authority",
+    "Laughter and comedy are subversive forces that threaten rigid systems of belief",
+    "Knowledge can be dangerous—but the suppression of knowledge is more dangerous still",
+    "The meaning of a text is never fixed; interpretation is an endless process"
+  ],
+  "keyTakeaways": [
+    "Great books reward multiple readings—new meanings emerge each time",
+    "Intellectual freedom requires the courage to question authority",
+    "The funniest ideas are often the most dangerous to established power",
+    "History is always more complex than the stories we tell about it"
+  ],
+  "whoShouldRead": [
+    "Lovers of literary detective fiction with intellectual depth",
+    "Readers interested in medieval history, theology, and philosophy",
+    "Fans of Jorge Luis Borges, whose influence pervades the novel",
+    "Anyone who enjoys books about books and the power of libraries"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking straightforward historical adventures",
+    "Those put off by extensive Latin quotations and theological debates",
+    "Readers wanting clear-cut resolutions to every mystery"
+  ],
+  "relatedBooks": [
+    "foucaults-pendulum-umberto-eco",
+    "the-alchemist-paulo-coelho",
+    "in-the-name-of-the-rose-umberto-eco"
+  ],
+  "category": "12-fiction-literature-and-story",
+  "subcategory": "04-historical-fiction",
+  "subtopic": "02-medieval-history",
+  "categoryPath": [
+    "12-fiction-literature-and-story",
+    "04-historical-fiction",
+    "02-medieval-history"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "the-taoist-classics-thomas-cleary",
+  "title": "The Taoist Classics: The Tao Te Ching, Lieh Tzu, and Chuang Tzu",
+  "slug": "03-the-taoist-classics-thomas-cleary",
+  "authors": [
+    "Thomas Cleary (translator)"
+  ],
+  "year": 1999,
+  "category": "04-philosophy-religion-and-worldviews",
+  "subcategory": "03-eastern-philosophy-and-meditation",
+  "pages": 512,
+  "isbn": "9781570624858",
+  "language": "en",
+  "genres": [
+    "Philosophy",
+    "Taoism",
+    "Eastern Philosophy",
+    "Translation"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-11",
+  "rationale": "This collected volume brings together Thomas Cleary's translations of all three foundational Taoist texts — Tao Te Ching, Chuang Tzu, and Lieh Tzu — in one consistent idiom. It serves as a comprehensive single-volume introduction to the Taoist canon, filling the gap between popular single-text translations and multi-author anthologies. Its inclusion of the less-translated Lieh Tzu makes it especially valuable for this leaf directory.",
+  "excerpt": "Thomas Cleary's landmark collected translation of the three foundational Taoist texts — the Tao Te Ching, Lieh Tzu, and Chuang Tzu — presenting the core philosophy of the Way through the lens of one of the 20th century's most prolific translators of Asian classics.",
+  "tags": [
+    "taoism",
+    "daoism",
+    "thomas-cleary",
+    "tao-te-ching",
+    "chuang-tzu",
+    "lieh-tzu",
+    "wuwei",
+    "chinese-philosophy",
+    "eastern-philosophy",
+    "translation"
+  ],
+  "addedAt": 1781136000000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781570624858-L.jpg",
+    "color": "#1a1a2e"
+  },
+  "keyIdeas": [
+    "The Tao (Way) is the formless, unnameable source of all existence that cannot be grasped by intellect or language",
+    "Wuwei (effortless action) is the highest mode of engaging with the world — acting without contrivance, force, or self-interest",
+    "All conceptual distinctions (good/evil, life/death, self/other) are relative and dissolve when viewed from the perspective of the Tao",
+    "The sage rules by non-interference, emptying the self and allowing natural harmony to emerge",
+    "Taoist practice encompasses inner alchemy, longevity techniques, and the integration of body, mind, and spirit"
+  ],
+  "keyTakeaways": [
+    "The Tao Te Ching offers aphoristic wisdom for rulers and individuals on aligning with the Way through simplicity and humility",
+    "The Chuang Tzu uses humor, parable, and paradox to liberate readers from fixed categories and social conditioning",
+    "The Lieh Tzu provides the most practical and accessible entry point into Taoist philosophy, with concrete teachings on destiny, effort, and the natural order"
+  ],
+  "whoShouldRead": [
+    "Students of Eastern philosophy seeking a complete Taoist canon in a single authoritative translation",
+    "Anyone drawn to non-dual thinking, spontaneity, and contemplative approaches to life",
+    "Readers interested in comparative religion and the intersection of Taoism with Buddhism and Confucianism",
+    "Practitioners of meditation, qigong, or internal arts who want to understand the philosophical foundations"
+  ],
+  "whoShouldSkip": [
+    "Those seeking a single, systematic philosophical treatise rather than a collection of diverse texts with different styles and emphases",
+    "Academic specialists who require the full critical apparatus of a scholarly edition with line-by-line annotations"
+  ],
+  "relatedBooks": [
+    "tao-te-ching-lao-tzu",
+    "the-zhuangzi-zhuang-zhou",
+    "the-essential-tao-thomas-cleary"
+  ],
+  "subtopic": "03-taoism",
+  "categoryPath": [
+    "04-philosophy-religion-and-worldviews",
+    "03-eastern-philosophy-and-meditation",
+    "03-taoism"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "the-sea-around-us-rachel-carson",
+  "title": "The Sea Around Us",
+  "slug": "08-the-sea-around-us-rachel-carson",
+  "authors": [
+    "Rachel Carson"
+  ],
+  "year": 1951,
+  "category": "08-mathematics-science-and-technology",
+  "subcategory": "09-ecology-and-environmental-science",
+  "pages": 227,
+  "isbn": "9780190906764",
+  "language": "en",
+  "genres": [
+    "Marine Biology",
+    "Nature Writing",
+    "Oceanography"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "A poetic and scientifically revelatory portrait of the world's oceans, from their primeval origins to the latest oceanographic discoveries.",
+  "tags": [
+    "oceanography",
+    "marine-biology",
+    "ocean",
+    "nature-writing",
+    "classic"
+  ],
+  "addedAt": 1780963200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780190906764-L.jpg",
+    "color": "#1a3a6e"
+  },
+  "keyIdeas": [
+    "The ocean is the cradle of all life on Earth and remains the planet's dominant force",
+    "Ocean currents and tides act as Earth's great regulator of climate and temperature",
+    "The deep sea is a vast, largely unknown frontier teeming with life",
+    "Humanity's relationship with the sea is one of dependence, discovery, and responsibility"
+  ],
+  "keyTakeaways": [
+    "The ocean's physical systems — currents, tides, chemistry — govern planetary conditions",
+    "Life in the sea is interconnected in ways that surface observation cannot capture",
+    "Scientific understanding of the ocean was still in its infancy in the 1950s",
+    "The sea holds both the history of the planet and the key to its future"
+  ],
+  "whoShouldRead": [
+    "Ocean enthusiasts and marine science students",
+    "Anyone who loves poetic nature writing",
+    "Historians of environmental science and conservation",
+    "Readers interested in the origins of modern oceanography"
+  ],
+  "whoShouldSkip": [
+    "Those seeking a field guide or identification manual",
+    "Readers wanting up-to-date oceanographic data (the science has advanced)"
+  ],
+  "relatedBooks": [
+    "the-edge-of-the-sea-rachel-carson",
+    "under-the-sea-wind-rachel-carson",
+    "silent-spring-rachel-carson"
+  ],
+  "subtopic": "03-marine-biology",
+  "categoryPath": [
+    "08-mathematics-science-and-technology",
+    "09-ecology-and-environmental-science",
+    "03-marine-biology"
+  ]
+}

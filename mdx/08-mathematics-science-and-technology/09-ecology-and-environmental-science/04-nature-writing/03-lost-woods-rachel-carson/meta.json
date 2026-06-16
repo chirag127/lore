@@ -1,0 +1,67 @@
+{
+  "id": "lost-woods-rachel-carson",
+  "title": "Lost Woods: The Discovered Writing of Rachel Carson",
+  "slug": "03-lost-woods-rachel-carson",
+  "authors": [
+    "Rachel Carson"
+  ],
+  "year": 1998,
+  "category": "08-mathematics-science-and-technology",
+  "subcategory": "09-ecology-and-environmental-science",
+  "pages": 288,
+  "isbn": "9780807085479",
+  "language": "en",
+  "genres": [
+    "Nature Writing",
+    "Collected Works",
+    "Environmental History"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-09",
+  "excerpt": "A treasure trove of previously uncollected writing by Rachel Carson - childhood stories, letters, speeches, and unpublished fragments spanning her entire career.",
+  "tags": [
+    "collected-works",
+    "environmental-history",
+    "science-writing",
+    "letters",
+    "speeches"
+  ],
+  "addedAt": 1780963200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780807085479-L.jpg",
+    "color": "#2a3a2e"
+  },
+  "keyIdeas": [
+    "Carson's earliest writing reveals the roots of her ecological consciousness",
+    "Her letters show the personal cost and courage behind her public activism",
+    "The range of her interests went far beyond the topics she is famous for",
+    "Writing was for Carson an act of both scientific communication and personal witness"
+  ],
+  "keyTakeaways": [
+    "Carson was a skilled writer before she was a famous one - her early work shows mastery",
+    "She used multiple genres - journalism, speeches, letters - to advance conservation",
+    "Her personal correspondence reveals a warm, witty, deeply committed person",
+    "The environmental movement Carson helped create was built on decades of patient work"
+  ],
+  "whoShouldRead": [
+    "Devotees of Rachel Carson who want to know the person behind the books",
+    "Students of environmental writing and science communication",
+    "Historians of the American conservation movement",
+    "Anyone writing about Carson who needs primary source material"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking a single sustained work (this is a collection)",
+    "Those new to Carson (start with Silent Spring or The Sea Around Us)"
+  ],
+  "relatedBooks": [
+    "silent-spring-rachel-carson",
+    "the-sea-around-us-rachel-carson",
+    "under-the-sea-wind-rachel-carson"
+  ],
+  "subtopic": "04-nature-writing",
+  "categoryPath": [
+    "08-mathematics-science-and-technology",
+    "09-ecology-and-environmental-science",
+    "04-nature-writing"
+  ]
+}

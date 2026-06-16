@@ -1,0 +1,79 @@
+{
+  "id": "the-photographers-eye-michael-freeman",
+  "title": "The Photographer's Eye",
+  "slug": "02-the-photographers-eye-michael-freeman",
+  "authors": [
+    "Michael Freeman"
+  ],
+  "year": 2007,
+  "category": "11-arts-design-and-culture",
+  "subcategory": "04-photography-and-cinematography",
+  "pages": 192,
+  "isbn": "9780240809342",
+  "publisher": "Focal Press",
+  "language": "en",
+  "genres": [
+    "Photography",
+    "Design",
+    "Reference",
+    "Nonfiction"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "A definitive guide to photographic composition, teaching the visual principles that distinguish compelling photographs from snapshots.",
+  "tags": [
+    "photography",
+    "composition",
+    "visual design",
+    "framing",
+    "technique",
+    "digital photography",
+    "Michael Freeman"
+  ],
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780240809342-L.jpg",
+    "color": "#212121"
+  },
+  "keyIdeas": [
+    "Composition is the foundation of photography â€” it transforms seeing into expression",
+    "The frame is the fundamental act of photography â€” choosing what to include and exclude",
+    "Design principles (balance, rhythm, contrast, proportion) apply to photography as to any visual art",
+    "Light, color, and moment are uniquely photographic tools of composition",
+    "Breaking the rules of composition requires understanding them first",
+    "Post-processing is part of composition, not a separate activity"
+  ],
+  "keyTakeaways": [
+    "Learn the rules of composition thoroughly before deciding which to break",
+    "The frame is your most powerful tool â€” every edge is an opportunity",
+    "Move your feet before zooming â€” physical position changes perspective fundamentally",
+    "Understand how the viewer's eye moves through the image",
+    "Pre-visualize the final image before pressing the shutter"
+  ],
+  "whoShouldRead": [
+    "Beginner photographers who want to move beyond snapshots",
+    "Experienced photographers seeking to deepen their compositional understanding",
+    "Digital photographers who want to integrate composition with post-processing",
+    "Designers who work with photographic images",
+    "Anyone who wants to understand why some photographs work and others don't"
+  ],
+  "whoShouldSkip": [
+    "Photographers interested only in technical camera operation",
+    "Advanced professionals who have already mastered composition",
+    "Those seeking a philosophical or critical analysis of photography",
+    "Readers who prefer a lightweight, inspirational approach over systematic instruction"
+  ],
+  "relatedBooks": [
+    "on-photography-susan-sontag",
+    "in-the-blink-of-an-eye-walter-murch",
+    "the-visual-display-of-quantitative-information-edward-tufte",
+    "art-and-visual-perception-rudolf-arnheim",
+    "read-this-if-you-want-to-take-great-photographs-henry-carroll"
+  ],
+  "subtopic": "02-photography",
+  "categoryPath": [
+    "11-arts-design-and-culture",
+    "04-photography-and-cinematography",
+    "02-photography"
+  ]
+}

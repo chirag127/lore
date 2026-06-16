@@ -1,0 +1,97 @@
+{
+  "id": "how-not-to-die-michael-greger",
+  "title": "How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease",
+  "slug": "03-how-not-to-die-michael-greger",
+  "authors": [
+    "Michael Greger, MD",
+    "Gene Stone"
+  ],
+  "year": 2015,
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "04-nutrition-and-metabolic-health",
+  "pages": 576,
+  "isbn": "9781250066114",
+  "publisher": "Flatiron Books",
+  "language": "en",
+  "genres": [
+    "Nutrition",
+    "Health",
+    "Medicine",
+    "Self-Help"
+  ],
+  "subjects": [
+    "Nutrition",
+    "Disease Prevention",
+    "Plant-Based Diet",
+    "Whole Foods",
+    "Evidence-Based Medicine",
+    "Chronic Disease",
+    "Lifestyle Medicine"
+  ],
+  "themes": [
+    "Food as Medicine",
+    "Evidence-Based Nutrition",
+    "Disease Reversal Through Diet",
+    "Empowerment Through Knowledge",
+    "Systemic Dietary Change"
+  ],
+  "tags": [
+    "nutrition",
+    "plant-based",
+    "disease prevention",
+    "Michael Greger",
+    "whole foods",
+    "daily dozen",
+    "evidence-based nutrition",
+    "longevity",
+    "health"
+  ],
+  "difficulty": "easy-medium",
+  "estimatedReadingHours": 14,
+  "excerpt": "The definitive popular guide to evidence-based plant-based nutrition, showing how a whole-food plant-based diet can prevent, treat, and reverse the fifteen leading causes of death. Features the Daily Dozen framework.",
+  "rationale": "Root book #3 for nutrition-science. How Not to Die provides the comprehensive practical framework for evidence-based plant-based nutrition, complementing the investigative (Salt Sugar Fat) and biochemical (The Case Against Sugar) approaches with an actionable lifestyle prescription.",
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://m.media-amazon.com/images/I/71mgCoAURoL.jpg",
+    "color": "#2c6b2e"
+  },
+  "keyIdeas": [
+    "The leading causes of death are largely preventable through dietary and lifestyle changes",
+    "A whole-food plant-based diet addresses multiple chronic diseases simultaneously",
+    "Nutritional science is systematically distorted by industry funding and publication bias",
+    "The same dietary pattern that prevents disease can often reverse it once established",
+    "The Daily Dozen checklist provides a simple framework for optimal nutrition"
+  ],
+  "keyTakeaways": [
+    "Heart disease can be reversed with a plant-based diet, as shown by Dr. Dean Ornish and Dr. Caldwell Esselstyn",
+    "Dietary fiber from whole plant foods is the single most underconsumed nutrient that protects against chronic disease",
+    "The five leading causes of death (heart disease, cancer, lung disease, stroke, dementia) share common dietary roots",
+    "Animal protein consumption is linked to elevated IGF-1 levels, which promote cancer growth",
+    "Leafy greens and berries are the most nutrient-dense foods for disease prevention"
+  ],
+  "whoShouldRead": [
+    "Anyone concerned about preventing or reversing chronic disease",
+    "Patients recently diagnosed with heart disease, diabetes, or hypertension",
+    "Health professionals seeking an evidence-based nutritional framework",
+    "Readers looking for a comprehensive, actionable dietary guide"
+  ],
+  "whoShouldSkip": [
+    "Those committed to an omnivorous diet who do not want to examine evidence for plant-based eating",
+    "Readers who prefer moderate, flexitarian approaches over a dietary prescription",
+    "People looking for quick fixes rather than comprehensive lifestyle change",
+    "Skeptics who distrust systematic reviews of nutritional research"
+  ],
+  "relatedBooks": [
+    "the-how-not-to-diet-cookbook-michael-greger",
+    "the-starch-solution-john-mcdougall",
+    "forks-over-knives-gene-stone",
+    "in-defense-of-food-michael-pollan",
+    "the-blue-zones-dan-buettner"
+  ],
+  "subtopic": "01-nutrition",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "04-nutrition-and-metabolic-health",
+    "01-nutrition"
+  ]
+}

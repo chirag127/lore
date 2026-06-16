@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/book-meta.json",
+  "slug": "05-rework-jason-fried",
+  "title": "Rework",
+  "subtitle": "Change the Way You Work Forever",
+  "authors": [
+    "Jason Fried",
+    "David Heinemeier Hansson"
+  ],
+  "isbn13": "9780307463746",
+  "isbn10": "0307463745",
+  "publisher": "Crown Business",
+  "year": 2010,
+  "pages": 288,
+  "language": "en",
+  "difficulty": "easy",
+  "readingTimeMinutes": 200,
+  "listeningTimeMinutes": 310,
+  "tags": [
+    "entrepreneurship",
+    "startup",
+    "business",
+    "productivity",
+    "management",
+    "basecamp",
+    "37signals",
+    "minimalism",
+    "remote-work",
+    "bootstrapping",
+    "software"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780307463746-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "category": "06-business-strategy-and-organizations",
+  "subcategory": "01-entrepreneurship-and-startups",
+  "subtopic": "06-rework",
+  "categoryPath": [
+    "06-business-strategy-and-organizations",
+    "01-entrepreneurship-and-startups",
+    "06-rework"
+  ]
+}

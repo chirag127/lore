@@ -1,0 +1,80 @@
+{
+  "id": "the-architecture-of-happiness-alain-de-botton",
+  "title": "The Architecture of Happiness",
+  "slug": "02-the-architecture-of-happiness-alain-de-botton",
+  "authors": [
+    "Alain de Botton"
+  ],
+  "year": 2006,
+  "category": "11-arts-design-and-culture",
+  "subcategory": "03-architecture-and-spatial-design",
+  "pages": 288,
+  "isbn": "9780307277244",
+  "publisher": "Vintage",
+  "language": "en",
+  "genres": [
+    "Architecture",
+    "Philosophy",
+    "Nonfiction",
+    "Aesthetics"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-14",
+  "excerpt": "A philosophical exploration of why buildings affect our well-being, arguing that architecture is an expression of our values and aspirations.",
+  "tags": [
+    "architecture",
+    "beauty",
+    "happiness",
+    "aesthetics",
+    "philosophy",
+    "design",
+    "well-being",
+    "Alain de Botton"
+  ],
+  "addedAt": 1781395200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780307277244-L.jpg",
+    "color": "#f9a825"
+  },
+  "keyIdeas": [
+    "Buildings communicate values â€” they tell us what kind of life is worth living",
+    "Beautiful architecture reflects virtues we admire: balance, harmony, honesty, and grace",
+    "Ugly buildings make us unhappy in ways we rarely acknowledge",
+    "Our response to architecture is shaped by psychological needs we may not consciously recognize",
+    "The ideal home is a physical embodiment of our best selves",
+    "Modern architecture failed partly because it ignored human psychological needs"
+  ],
+  "keyTakeaways": [
+    "Pay attention to how buildings and spaces make you feel â€” your emotional response is valid",
+    "Good design aligns the building's message with the values of its inhabitants",
+    "We should demand more from our built environment than mere functionality",
+    "Understanding why we like certain buildings helps us create better ones",
+    "The search for the beautiful home is a search for the beautiful life"
+  ],
+  "whoShouldRead": [
+    "Anyone who has ever wondered why a building makes them feel good or bad",
+    "Homeowners and renters thinking about their living spaces",
+    "Architects who want to reconnect with the human purpose of their work",
+    "Designers seeking a philosophical framework for their practice",
+    "General readers interested in the intersection of art, philosophy, and everyday life"
+  ],
+  "whoShouldSkip": [
+    "Practicing architects seeking technical design guidance",
+    "Readers who dislike philosophical approaches to practical subjects",
+    "Those who believe aesthetic judgment is purely subjective and not worth analyzing",
+    "Architecture students needing construction or technical knowledge"
+  ],
+  "relatedBooks": [
+    "architecture-form-space-order-francis-ching",
+    "complexity-and-contradiction-in-architecture-robert-venturi",
+    "the-poetics-of-space-gaston-bachelard",
+    "genius-loci-christian-norberg-schulz",
+    "the-conscious-home-velvet-bowen"
+  ],
+  "subtopic": "01-architecture",
+  "categoryPath": [
+    "11-arts-design-and-culture",
+    "03-architecture-and-spatial-design",
+    "01-architecture"
+  ]
+}

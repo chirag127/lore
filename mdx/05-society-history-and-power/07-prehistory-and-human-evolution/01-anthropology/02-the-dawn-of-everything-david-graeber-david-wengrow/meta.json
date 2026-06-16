@@ -1,0 +1,94 @@
+{
+  "id": "the-dawn-of-everything-david-graeber-david-wengrow",
+  "title": "The Dawn of Everything: A New History of Humanity",
+  "slug": "02-the-dawn-of-everything-david-graeber-david-wengrow",
+  "authors": [
+    "David Graeber",
+    "David Wengrow"
+  ],
+  "year": 2021,
+  "category": "05-society-history-and-power",
+  "subcategory": "07-prehistory-and-human-evolution",
+  "pages": 704,
+  "isbn": "9780241402429",
+  "isbn_us": "9780374157357",
+  "language": "en",
+  "genres": [
+    "History",
+    "Anthropology",
+    "Archaeology",
+    "Political Theory"
+  ],
+  "publisher_uk": "Allen Lane (Penguin)",
+  "publisher_us": "Farrar, Straus and Giroux",
+  "publication_date_uk": "2021-10-19",
+  "publication_date_us": "2021-11-09",
+  "bestseller_status": "New York Times Bestseller (#2)",
+  "awards": [
+    "Orwell Prize for Political Writing (finalist, 2022)",
+    "Wenjin Book Prize, National Library of China (2025)",
+    "J.I. Staley Prize, School for Advanced Research (2025)"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-06-11",
+  "excerpt": "A sweeping reexamination of human history that challenges the conventional narrative of linear progress from primitivism to civilization, arguing that early human societies were far more diverse, complex, and politically creative than we have been led to believe.",
+  "tags": [
+    "big-history",
+    "anthropology",
+    "archaeology",
+    "prehistory",
+    "inequality",
+    "indigenous-critique",
+    "anarchism",
+    "social-evolution",
+    "agriculture",
+    "origins-of-the-state"
+  ],
+  "addedAt": 1781136000000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780241402429-L.jpg",
+    "color": "#3e2723"
+  },
+  "keyIdeas": [
+    "Early human societies were not confined to small egalitarian bands but included large, complex, decentralized polities",
+    "The Agricultural Revolution was not a sudden trap but a slow, uneven process that people consciously chose and sometimes rejected",
+    "Indigenous critiques of European society during the colonial encounter shaped Enlightenment thinking more than is acknowledged",
+    "The three basic forms of social freedom—to move, to disobey, and to reorganize society—were once common and have been progressively lost",
+    "The state has no single origin; sovereignty, bureaucracy, and politics are distinct sources of domination that can be disentangled",
+    "Many early cities were built without kings, temples, or centralized administration, demonstrating that urbanism and egalitarianism are compatible"
+  ],
+  "keyTakeaways": [
+    "The standard story of human history—from bands to tribes to chiefdoms to states—is an artifact of 18th-century philosophical debates, not a reflection of archaeological evidence",
+    "Agriculture did not inevitably lead to private property, hierarchy, or patriarchy; those outcomes were contingent political choices",
+    "Prehistoric peoples experimented with seasonal political regimes, switching between authoritarian and communal systems",
+    "The question 'what are the origins of inequality?' is itself ideologically loaded; a better question is how we lost our freedoms",
+    "Modern states owe more to colonial violence than to any natural evolutionary progression",
+    "Human history is full of playful, hopeful possibilities that dominant narratives have erased"
+  ],
+  "whoShouldRead": [
+    "Readers of Sapiens, Guns Germs and Steel, or The Better Angels of Our Nature who want a rigorous counter-perspective",
+    "Anyone interested in anarchist political theory, indigenous studies, or the history of the Enlightenment",
+    "Archaeologists and anthropologists looking for a provocative synthesis of recent research",
+    "Activists and organizers seeking historical evidence that alternative social arrangements are possible",
+    "General readers tired of deterministic 'big history' and hungry for a more open-ended account of the human past"
+  ],
+  "whoShouldSkip": [
+    "Readers looking for a concise, linear narrative rather than a sprawling 500-page argument",
+    "Anyone who prefers their history free of explicit political commitments and anarchist framing",
+    "Those seeking a purely materialist or quantitative analysis of prehistory",
+    "Readers easily frustrated by books that spend as much time critiquing other historians as presenting new evidence"
+  ],
+  "relatedBooks": [
+    "debt-the-first-5000-years-david-graeber",
+    "sapiens-yuval-noah-harari",
+    "guns-germs-and-steel-jared-diamond",
+    "against-the-grain-james-c-scott",
+    "the-conquest-of-bread-peter-kropotkin"
+  ],
+  "subtopic": "01-anthropology",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "07-prehistory-and-human-evolution",
+    "01-anthropology"
+  ]
+}

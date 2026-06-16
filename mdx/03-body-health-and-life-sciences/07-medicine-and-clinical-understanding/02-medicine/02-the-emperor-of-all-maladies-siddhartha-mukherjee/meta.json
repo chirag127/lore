@@ -1,0 +1,71 @@
+{
+  "id": "02-medicine-health-sciences/medical-history-and-bioethics/the-emperor-of-all-maladies-siddhartha-mukherjee",
+  "title": "The Emperor of All Maladies",
+  "authors": [
+    "Siddhartha Mukherjee"
+  ],
+  "year": 2010,
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "07-medicine-and-clinical-understanding",
+  "pages": 592,
+  "isbn": "978-1439170915",
+  "language": "en",
+  "genres": [
+    "Medicine",
+    "Oncology",
+    "Science Writing",
+    "History of Medicine",
+    "Pulitzer Prize"
+  ],
+  "source": "generated",
+  "generatedAt": "2026-01-15",
+  "slug": "02-the-emperor-of-all-maladies-siddhartha-mukherjee",
+  "excerpt": "A sweeping biography of cancer — from its first documented appearances to the cutting-edge molecular therapies of the 21st century — told through the doctors, scientists, and patients who fought it.",
+  "tags": [
+    "cancer",
+    "oncology",
+    "medical-history",
+    "medicine",
+    "science-writing",
+    "pulitzer-prize"
+  ],
+  "addedAt": 1768435200000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/id/12648520-L.jpg",
+    "color": "#4a0e0e"
+  },
+  "keyIdeas": [
+    "Cancer is not one disease but hundreds, each with unique genetic drivers",
+    "The war on cancer has been fought in incremental advances, not a single breakthrough",
+    "Cancer's origin lies in the very mechanisms that sustain life (cell division)",
+    "The history of cancer treatment mirrors the history of modern medicine"
+  ],
+  "keyTakeaways": [
+    "Cancer is a disease of the genome — caused by accumulated mutations in DNA",
+    "Chemotherapy, radiation, and surgery have saved millions but with devastating side effects",
+    "Targeted therapies (Gleevec, Herceptin) represent a paradigm shift in treatment",
+    "Prevention and early detection remain the most powerful weapons against cancer"
+  ],
+  "whoShouldRead": [
+    "Anyone affected by cancer (patients, families, caregivers)",
+    "Medical students and healthcare professionals",
+    "Readers interested in the history of science and medicine",
+    "Fans of narrative nonfiction and medical writing"
+  ],
+  "whoShouldSkip": [
+    "Those looking for treatment advice or medical guidance",
+    "Readers who are easily distressed by detailed medical descriptions",
+    "People seeking a purely scientific textbook on oncology"
+  ],
+  "relatedBooks": [
+    "the-gene-siddhartha-mukherjee",
+    "the-immortal-life-of-henrietta-lacks-rebecca-skloot",
+    "when-breath-becomes-air-paul-kalanithi"
+  ],
+  "subtopic": "02-medicine",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "07-medicine-and-clinical-understanding",
+    "02-medicine"
+  ]
+}

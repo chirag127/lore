@@ -1,0 +1,67 @@
+{
+  "slug": "the-handbook-of-fixed-income-securities-frank-fabozzi",
+  "title": "The Handbook of Fixed Income Securities",
+  "author": "Frank J. Fabozzi, Steven V. Mann",
+  "authors": [
+    "Frank J. Fabozzi",
+    "Steven V. Mann"
+  ],
+  "publicationYear": 2021,
+  "year": 2021,
+  "isbn": "9781260473896",
+  "pages": 1840,
+  "publisher": "McGraw Hill",
+  "language": "en",
+  "genres": [
+    "Finance",
+    "Investing",
+    "Reference"
+  ],
+  "subjects": [
+    "Fixed Income",
+    "Bonds",
+    "Portfolio Management",
+    "Derivatives"
+  ],
+  "themes": [
+    "Comprehensive Reference",
+    "Market Analysis",
+    "Investment Management"
+  ],
+  "tags": [
+    "finance",
+    "fixed income",
+    "bonds",
+    "fabozzi",
+    "handbook",
+    "securities"
+  ],
+  "difficulty": "hard",
+  "estimatedReadingHours": 40,
+  "estimatedListeningMinutes": 2400,
+  "excerpt": "The definitive reference covering the full fixed-income spectrum: Treasuries, agencies, MBS, ABS, yield curve analysis, credit analysis, and derivatives.",
+  "category": "07-money-markets-and-wealth",
+  "subcategory": "13-fixed-income-and-bond-markets",
+  "addedAt": 1781448986290,
+  "whoShouldRead": [
+    "Readers interested in Finance and Investing and Reference"
+  ],
+  "whoShouldSkip": [],
+  "keyIdeas": [
+    "Central thesis of The Handbook of Fixed Income Securities"
+  ],
+  "keyTakeaways": [
+    "Understand the core argument and its implications"
+  ],
+  "relatedBooks": [],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9781260473896-L.jpg",
+    "color": "#1a365d"
+  },
+  "subtopic": "02-fixed-income",
+  "categoryPath": [
+    "07-money-markets-and-wealth",
+    "13-fixed-income-and-bond-markets",
+    "02-fixed-income"
+  ]
+}

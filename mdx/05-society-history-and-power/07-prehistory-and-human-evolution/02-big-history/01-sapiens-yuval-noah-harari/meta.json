@@ -1,0 +1,88 @@
+{
+  "id": "18-history/big-history-and-civilization/sapiens-yuval-noah-harari",
+  "title": "Sapiens: A Brief History of Humankind",
+  "slug": "01-sapiens-yuval-noah-harari",
+  "authors": [
+    "Yuval Noah Harari"
+  ],
+  "year": 2015,
+  "category": "05-society-history-and-power",
+  "subcategory": "07-prehistory-and-human-evolution",
+  "pages": 464,
+  "isbn": "9780062316097",
+  "isbn13": "9780062316097",
+  "isbn10": "0062316095",
+  "olid": "OL26645844M",
+  "goodreadsId": "23692271",
+  "language": "en",
+  "genres": [
+    "History",
+    "Big History",
+    "Anthropology",
+    "Nonfiction",
+    "Science"
+  ],
+  "publisher": "Harper",
+  "publicationDate": "2015-02-10",
+  "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+  "coverColor": "#3e2723",
+  "source": "generated",
+  "generatedAt": "2026-06-12",
+  "rationale": "Sapiens is the global phenomenon that defined the 'big history' genre for the 2010s. Its argument about shared fictions as the engine of human cooperation complements Diamond's geographic determinism and Henrich's cultural-evolutionary institutionalism, making it the essential third leg alongside guns-germs-and-steel and the-weirdest-people-in-the-world in this leaf.",
+  "excerpt": "A sweeping narrative of humanity's journey from insignificant African apes to rulers of the world, arguing that our unique ability to believe in shared fictions — myths, religions, nations, money — is the secret of Homo sapiens' domination of the planet.",
+  "tags": [
+    "big-history",
+    "human-evolution",
+    "cognitive-revolution",
+    "agricultural-revolution",
+    "scientific-revolution",
+    "shared-fictions",
+    "anthropology",
+    "yuval-noah-harari",
+    "homo-sapiens",
+    "civilization"
+  ],
+  "addedAt": 1781136000,
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+    "color": "#3e2723"
+  },
+  "keyIdeas": [
+    "The Cognitive Revolution (c. 70,000 years ago) gave Homo sapiens a unique language capable of gossiping and, crucially, talking about things that do not exist — enabling large-scale cooperation through shared fictions",
+    "The Agricultural Revolution (c. 12,000 years ago) was 'history's biggest fraud': it increased food supply but trapped most humans in harder labor, poorer nutrition, and epidemic disease compared to foragers",
+    "Human unification — the gradual merging of separate human cultures into a single global civilization — was driven by money, empire, and religion, three universalising forces that overcame tribalism",
+    "The Scientific Revolution (c. 1500 CE onward) transformed humanity by coupling scientific discovery with imperial ambition and capitalist credit, creating a virtuous cycle of growth that reshaped the planet",
+    "Biology sets the limits of what humans can be; history shapes what happens within those limits — meaning the future will be shaped by our own choices as we engineer our own evolution"
+  ],
+  "keyTakeaways": [
+    "Shared fictions — gods, nations, money, human rights — are not lies or delusions; they are the infrastructure that allows millions of strangers to cooperate",
+    "History has no inherent direction or moral progress; the agricultural, imperial, and scientific revolutions each brought enormous gains alongside devastating suffering",
+    "Happiness depends more on expectations than conditions: foragers may have been happier than modern industrial humans because their expectations were lower",
+    "Human rights, justice, and equality are intersubjective realities that exist only because humans collectively agree they exist — but that agreement is powerful enough to reshape the world",
+    "We are now becoming gods: with biotechnology and AI, we may soon be able to design and redesign living organisms, including ourselves, raising the most profound ethical questions imaginable"
+  ],
+  "whoShouldRead": [
+    "Curious general readers who want a single, accessible narrative connecting biology, anthropology, archaeology, and history",
+    "Students beginning their study of history or anthropology who need a panoramic orienting framework before diving into specialist texts",
+    "Readers of big-history books like Guns Germs and Steel or The WEIRDest People who want a complementary or contrasting perspective",
+    "Technologists and futurists anxious about AI and biotechnology who want to understand how consciousness, morality, and cooperation emerged culturally"
+  ],
+  "whoShouldSkip": [
+    "Professional historians or archaeologists seeking rigorous primary-source argumentation (Harari synthesises secondary literature selectively)",
+    "Readers who object to evolutionary-psychological explanations or to treating religion, nationalism, and human rights as 'imagined orders'",
+    "Those looking for balanced treatment of human progress who will find Harari's ambivalence about agriculture and modernity unnecessarily polemical"
+  ],
+  "relatedBooks": [
+    "guns-germs-and-steel-jared-diamond",
+    "the-weirdest-people-in-the-world-joseph-henrich",
+    "homo-deus-yuval-noah-harari",
+    "against-method-paul-feyerabend",
+    "the-dawn-of-everything-david-graeber"
+  ],
+  "subtopic": "02-big-history",
+  "categoryPath": [
+    "05-society-history-and-power",
+    "07-prehistory-and-human-evolution",
+    "02-big-history"
+  ]
+}

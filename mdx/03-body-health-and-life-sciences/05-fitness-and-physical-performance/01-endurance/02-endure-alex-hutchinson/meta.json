@@ -1,0 +1,66 @@
+{
+  "id": "endure-alex-hutchinson",
+  "title": "Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance",
+  "slug": "02-endure-alex-hutchinson",
+  "authors": [
+    "Alex Hutchinson"
+  ],
+  "year": 2018,
+  "category": "03-body-health-and-life-sciences",
+  "subcategory": "05-fitness-and-physical-performance",
+  "pages": 320,
+  "isbn": "9780062499868",
+  "publisher": "William Morrow",
+  "language": "en",
+  "genres": [
+    "Sports Science",
+    "Health & Fitness",
+    "Neuroscience",
+    "Popular Science"
+  ],
+  "subjects": [
+    "Endurance",
+    "Exercise Physiology",
+    "Sports Psychology",
+    "Fatigue",
+    "Central Governor Theory",
+    "Human Performance"
+  ],
+  "themes": [
+    "The Brain-Body Connection in Performance",
+    "Fatigue as a Neural Construct",
+    "Elasticity of Human Limits",
+    "Mindset and Physical Performance",
+    "Science of Pacing"
+  ],
+  "tags": [
+    "endurance",
+    "exercise science",
+    "sports psychology",
+    "fatigue",
+    "Alex Hutchinson",
+    "human performance",
+    "central governor",
+    "mental toughness",
+    "pacing",
+    "neuroscience"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 9,
+  "excerpt": "A fascinating exploration of the science of endurance, revealing that the limits of human performance are set less by our bodies and more by a 'central governor' in the brain that regulates effort to prevent catastrophe. Winner of the 2019 National Magazine Award.",
+  "rationale": "Root book #2 for Exercise Science & Physical Training. Endure provides the neuroscientific foundation for understanding endurance, complementing Born to Run's narrative inspiration with rigorous science on how the brain regulates performance limits.",
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780062499868-L.jpg"
+  },
+  "whoShouldRead": [],
+  "whoShouldSkip": [],
+  "keyIdeas": [],
+  "keyTakeaways": [],
+  "relatedBooks": [],
+  "subtopic": "01-endurance",
+  "categoryPath": [
+    "03-body-health-and-life-sciences",
+    "05-fitness-and-physical-performance",
+    "01-endurance"
+  ]
+}

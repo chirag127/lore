@@ -1,0 +1,90 @@
+{
+  "slug": "dubliners-james-joyce",
+  "title": "Dubliners",
+  "author": "James Joyce",
+  "publicationYear": 1914,
+  "isbn": "9780140186475",
+  "publisher": "Penguin",
+  "language": "en",
+  "genres": [
+    "Fiction",
+    "Short Stories",
+    "Classic Literature",
+    "Modernist Literature"
+  ],
+  "subjects": [
+    "Irish Literature",
+    "Dublin",
+    "Modernism",
+    "Epiphany",
+    "Paralysis"
+  ],
+  "themes": [
+    "Paralysis and Escape",
+    "Epiphany and Disillusionment",
+    "The Stages of Life",
+    "The City as Character",
+    "Failed Connection"
+  ],
+  "tags": [
+    "short stories",
+    "Irish literature",
+    "Dublin",
+    "epiphany",
+    "modernism",
+    "Joyce",
+    "paralysis",
+    "classic literature",
+    "20th century",
+    "modernist fiction"
+  ],
+  "difficulty": "medium",
+  "estimatedReadingHours": 6,
+  "estimatedListeningMinutes": 420,
+  "excerpt": "Fifteen stories that capture the lives of ordinary Dubliners at the turn of the century—each a portrait of paralysis, yearning, and the sudden flash of insight Joyce called 'epiphany.'",
+  "year": 1914,
+  "addedAt": 1781395200000,
+  "authors": [
+    "James Joyce"
+  ],
+  "cover": {
+    "url": "https://covers.openstreetsearch.org/b/isbn/9780140186475-L.jpg",
+    "color": "#3a3a5c"
+  },
+  "keyIdeas": [
+    "Paralysis is the central condition of modern urban life—the inability to act, to change, to escape",
+    "Epiphany—a sudden moment of spiritual revelation—is the true subject of fiction",
+    "The details of everyday life, rendered with precision, carry the deepest meaning",
+    "Leaving home is the central drama of growing up, and it almost never happens"
+  ],
+  "keyTakeaways": [
+    "Small moments can reveal entire lives—pay attention to the flash of insight",
+    "The hardest cage to escape is the one we carry inside us",
+    "Joyce showed that the local is universal: Dublin is everywhere",
+    "Growing up means recognizing that the world will not accommodate our dreams"
+  ],
+  "whoShouldRead": [
+    "Readers who love the short story form and want to see it transformed",
+    "Students of modernism and 20th-century literature",
+    "Anyone who has ever felt trapped by their circumstances and longed to escape",
+    "Writers interested in how precise language can create profound emotional effects"
+  ],
+  "whoShouldSkip": [
+    "Readers seeking conventional plots with dramatic action and resolution",
+    "Those who find Joyce's later work (Ulysses) impenetrable but hope this is easier",
+    "Readers who dislike stories about disappointment and failed dreams"
+  ],
+  "relatedBooks": [
+    "stories-of-anton-chekhov-anton-chekhov",
+    "nine-stories-jd-salinger",
+    "ulysses-james-joyce"
+  ],
+  "category": "12-fiction-literature-and-story",
+  "subcategory": "07-short-stories-and-novellas",
+  "subtopic": "02-irish-literature",
+  "categoryPath": [
+    "12-fiction-literature-and-story",
+    "07-short-stories-and-novellas",
+    "02-irish-literature"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "the-invisible-gorilla-christopher-chabris",
+  "title": "The Invisible Gorilla: How Our Intuitions Deceive Us",
+  "author": "Christopher Chabris, Daniel Simons",
+  "publicationYear": 2010,
+  "isbn": "9780307459657",
+  "publisher": "Crown",
+  "language": "en",
+  "genres": [
+    "Psychology",
+    "Cognitive Science",
+    "Science"
+  ],
+  "subjects": [
+    "Attention",
+    "Perception",
+    "Cognitive Biases",
+    "Memory",
+    "Intuition"
+  ],
+  "themes": [
+    "Inattentional Blindness",
+    "Illusion of Attention",
+    "Illusion of Memory",
+    "Illusion of Confidence",
+    "Illusion of Knowledge",
+    "Illusion of Cause"
+  ],
+  "tags": [
+    "psychology",
+    "cognitive-science",
+    "attention",
+    "perception",
+    "memory",
+    "illusions",
+    "cognitive-biases",
+    "inattentional-blindness",
+    "gorilla-experiment",
+    "intuition",
+    "chabris",
+    "simons"
+  ],
+  "difficulty": "easy",
+  "estimatedReadingHours": 8,
+  "estimatedListeningMinutes": 480,
+  "excerpt": "The famous 'invisible gorilla' experiment revealed something startling: we massively overestimate what we notice and remember. This book explores six everyday illusions that distort our perception, memory, and judgment, showing why we are not the reliable observers we think we are.",
+  "year": 2010,
+  "addedAt": 1781395200000,
+  "authors": [
+    "Christopher Chabris",
+    "Daniel Simons"
+  ],
+  "cover": {
+    "url": "https://covers.openlibrary.org/b/isbn/9780307459657-L.jpg",
+    "color": "#2c3e50"
+  },
+  "keyIdeas": [
+    "Inattentional blindness causes us to miss obvious things when our attention is focused elsewhere",
+    "We suffer from an illusion of attention, believing we notice more than we actually do",
+    "Memory is reconstructive, not reproductive—we confabulate without realizing it",
+    "Confidence is not a reliable indicator of accuracy"
+  ],
+  "keyTakeaways": [
+    "Don't trust your intuitions about what you've noticed or remember",
+    "Be skeptical of confident eyewitness testimony",
+    "The feeling of knowing is not the same as actual knowledge",
+    "Correlation does not imply causation—the illusion of cause is powerful"
+  ],
+  "whoShouldRead": [
+    "Anyone interested in the limits of human perception and memory",
+    "Professionals who rely on their observations (investigators, doctors, journalists)",
+    "Students of psychology and cognitive science",
+    "Trial lawyers and anyone working with eyewitness evidence"
+  ],
+  "whoShouldSkip": [
+    "Readers who find cognitive dissonance uncomfortable",
+    "Those looking for practical self-help rather than fascinating research"
+  ],
+  "relatedBooks": [
+    "thinking-fast-and-slow-daniel-kahneman",
+    "phantoms-in-the-brain-vs-ramachandran",
+    "incognito-david-eagleman"
+  ],
+  "category": "02-mind-brain-and-behavior",
+  "subcategory": "02-cognitive-psychology",
+  "subtopic": "01-attention",
+  "categoryPath": [
+    "02-mind-brain-and-behavior",
+    "02-cognitive-psychology",
+    "01-attention"
+  ]
+}
