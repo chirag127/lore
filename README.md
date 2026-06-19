@@ -1,78 +1,49 @@
-# BookAtlas
+# oriz-book-lore
 
-A research-grade personal knowledge library built around books.
+Structured book summaries — overview, content, analysis, narration. Part of the [oriz](https://oriz.in) family.
 
-## Structure
+Live: https://book-lore.oriz.in
 
-```text
-mdx/
-  NN-top-category/
-    00-index.mdx
-    NN-discipline-subcategory/
-      00-index.mdx
-      NN-topic-leaf/
-        00-index.mdx
-        NNN-book-slug/
-          01-index.mdx
-          02-content.mdx
-          03-analysis.mdx
-          04-narration.mdx
-          meta.json
-```
+## What this is
 
-## Three-Level Taxonomy
+A free, ad-supported library of structured book summaries across twelve disciplines. Each entry has a four-part artifact set authored as MDX:
 
-BookAtlas uses:
+- `01-index.mdx` — overview
+- `02-content.mdx` — content map
+- `03-analysis.mdx` — critical analysis
+- `04-narration.mdx` — narration script
+- `meta.json` — metadata (title, authors, ISBN, tags, key ideas, related books, …)
 
-1. **Top category** — broad domain of knowledge.
-2. **Subcategory** — discipline or field.
-3. **Leaf category** — focused topic, method, or reader problem.
+Books live under `mdx/NN-top-category/NN-discipline-subcategory/NN-topic-leaf/NNN-book-slug/`. The `schemas/` and `templates/` folders document the authoring conventions and stay at the repo root for future content work.
 
-Books live directly inside leaf categories and `meta.json` stores:
-
-```json
-{
-  "category": "02-mind-brain-and-behavior",
-  "subcategory": "01-learning-science-and-education",
-  "subtopic": "01-learning"
-}
-```
-
-## Active Categories
-
-1. General Knowledge, Reference and Language
-2. Mind, Brain and Behavior
-3. Body, Health and Life Sciences
-4. Philosophy, Religion and Worldviews
-5. Society, History and Power
-6. Business, Strategy and Organizations
-7. Money, Markets and Wealth
-8. Mathematics, Science and Technology
-9. Computers, AI and Software
-10. Communication, Writing and Creativity
-11. Arts, Design and Culture
-12. Fiction, Literature and Story
-
-## Naming Convention
-
-| Level | Format | Example |
-|-------|--------|---------|
-| Category | `NN-name` | `02-mind-brain-and-behavior` |
-| Subcategory | `NN-name` | `01-learning-science-and-education` |
-| Leaf category | `NN-name` | `01-learning` |
-| Book | `NNN-slug` | `001-make-it-stick-peter-brown` |
-
-## Stats
-
-- 466 books
-- 12 top category folders
-- 128 subcategory folders
-- 376 leaf category folders
-
-## Useful Scripts
+## Develop
 
 ```bash
-python scripts/migrate_three_level_taxonomy.py
-node scripts/gen-indexes.mjs
-pnpm build
+pnpm install
+npx envpact-cli@0.2.0     # pull shared env vars from envpact 'shared' block
+pnpm dev
 ```
+
+Visit `http://localhost:4321`.
+
+## Build + deploy
+
+Cloudflare Pages (custom domain `book-lore.oriz.in`):
+
+```bash
+pnpm build
+pnpm deploy   # wrangler deploy
+```
+
+`UV_THREADPOOL_SIZE=64` is recommended at build time — there are several hundred static book pages and Astro's MDX loader benefits from extra worker threads.
+
+## Stack
+
+- Astro 6 + React 19 + Tailwind v4
+- `@chirag127/oriz-ui` design system (shared theme, Sidebar, AccountPanel, ContactForm, AdSlot, NewsletterCta)
+- Firebase Auth (`auth.oriz.in`) — single sign-on across the oriz family
+- Hosted on Cloudflare Pages
+
+## License
+
+MIT — see [LICENSE](./LICENSE). Book summaries are original commentary; quoted excerpts fall under fair-use / fair-dealing.

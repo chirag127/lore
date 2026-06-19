@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+@import '@chirag127/oriz-ui/styles';
+@import '@chirag127/oriz-ui/components.css';
+
+/* site-specific minor overrides only */

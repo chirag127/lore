@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://knowledgeatlas.app/sitemap-index.xml

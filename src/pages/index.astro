@@ -1,0 +1,161 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import { getCollection } from 'astro:content'
+import { SITE_CONFIG } from '~/lib/siteConfig'
+
+const allBooks = await getCollection('books')
+const totalBooks = allBooks.length
+const recent = [...allBooks]
+  .sort((a, b) => (b.data.addedAt ?? 0) - (a.data.addedAt ?? 0))
+  .slice(0, 12)
+const tags = Array.from(new Set(allBooks.flatMap((b) => b.data.tags))).slice(0, 24)
+const totalIdeas = allBooks.reduce((s, b) => s + b.data.keyIdeas.length, 0)
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE_CONFIG.name,
+  url: SITE_CONFIG.origin,
+  description: SITE_CONFIG.description,
+}
+---
+
+<BaseLayout title={`${SITE_CONFIG.name} — ${SITE_CONFIG.tagline}`} description={SITE_CONFIG.description} jsonLd={jsonLd}>
+  <section class="container-page hero">
+    <p class="eyebrow">📖 Book Lore</p>
+    <h1 class="display">
+      Books, understood.
+      <span class="accent">Twelve disciplines, one library.</span>
+    </h1>
+    <p class="lede">
+      A free, structured atlas of book summaries. Every entry has four parts —
+      overview, content map, critical analysis, and narration script — authored
+      as MDX and rendered as static pages.
+    </p>
+    <div class="cta-row">
+      <a href="/books/" class="btn-primary">Browse {totalBooks} books</a>
+      <a href="/categories/" class="btn-ghost">By category</a>
+    </div>
+    <dl class="stats">
+      <div><dt>Books</dt><dd>{totalBooks.toLocaleString()}</dd></div>
+      <div><dt>Key ideas</dt><dd>{totalIdeas.toLocaleString()}</dd></div>
+      <div><dt>Price</dt><dd>$0</dd></div>
+    </dl>
+  </section>
+
+  {recent.length > 0 && (
+    <section class="container-page section">
+      <h2 class="section-h">Recent additions</h2>
+      <ul class="book-grid">
+        {recent.map((b) => (
+          <li>
+            <a href={`/books/${b.data.slug}/`} class="book-card">
+              <span class="book-card-title">{b.data.title}</span>
+              {b.data.authors[0] && <span class="book-card-author">{b.data.authors[0]}</span>}
+              {b.data.excerpt && <span class="book-card-excerpt">{b.data.excerpt}</span>}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {tags.length > 0 && (
+    <section class="container-page section">
+      <h2 class="section-h">Wander by theme</h2>
+      <ul class="tag-list">
+        {tags.map((t) => (
+          <li>
+            <a href={`/books/?tag=${encodeURIComponent(t)}`} class="tag">{t}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  .hero { padding-block: 4rem 3rem; max-width: 920px; }
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin: 0 0 1rem;
+  }
+  .display {
+    font-family: var(--font-serif);
+    font-size: clamp(2.25rem, 5vw, 3.5rem);
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    margin: 0;
+  }
+  .display .accent {
+    display: block;
+    color: var(--color-accent);
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 0.25rem;
+  }
+  .lede { color: var(--color-fg-muted); font-size: 1.125rem; margin: 1.5rem 0 0; max-width: 60ch; }
+  .cta-row { display: flex; gap: 0.75rem; margin-top: 2rem; flex-wrap: wrap; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    height: 44px;
+    padding-inline: 1.25rem;
+    border-radius: var(--radius-button);
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .btn-primary { background: var(--color-accent); color: var(--color-accent-fg); }
+  .btn-ghost { border: 1px solid var(--color-border); color: var(--color-fg); }
+  .btn-ghost:hover { border-color: var(--color-accent); color: var(--color-accent); }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, max-content));
+    gap: 2.5rem;
+    margin: 3rem 0 0;
+  }
+  .stats dt { font-family: var(--font-mono); font-size: 0.6875rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--color-fg-muted); }
+  .stats dd { font-family: var(--font-serif); font-size: clamp(1.75rem, 4vw, 2.5rem); font-weight: 500; margin: 0.25rem 0 0; }
+
+  .section { padding-block: 2.5rem; }
+  .section-h { font-family: var(--font-serif); font-size: 1.5rem; font-weight: 600; margin: 0 0 1.5rem; }
+  .book-grid {
+    list-style: none; padding: 0; margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0.75rem;
+  }
+  .book-card {
+    display: flex; flex-direction: column; gap: 0.375rem;
+    padding: 1rem 1.125rem;
+    background: var(--color-bg-soft);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    color: var(--color-fg);
+    text-decoration: none;
+    height: 100%;
+    transition: border-color 120ms;
+  }
+  .book-card:hover { border-color: color-mix(in oklab, var(--color-accent) 50%, var(--color-border)); color: var(--color-fg); }
+  .book-card-title { font-family: var(--font-serif); font-weight: 600; }
+  .book-card-author { font-size: 0.8125rem; color: var(--color-fg-muted); }
+  .book-card-excerpt { font-size: 0.8125rem; color: var(--color-fg-soft); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .tag-list { display: flex; flex-wrap: wrap; gap: 0.5rem; list-style: none; padding: 0; margin: 0; }
+  .tag {
+    display: inline-flex; align-items: center; height: 32px; padding-inline: 0.875rem;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    color: var(--color-fg-muted);
+    font-size: 0.8125rem;
+    font-family: var(--font-mono);
+    text-transform: lowercase;
+    text-decoration: none;
+  }
+  .tag:hover { border-color: var(--color-accent); color: var(--color-accent); }
+</style>

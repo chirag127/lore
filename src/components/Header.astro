@@ -1,0 +1,79 @@
+---
+import HeaderControls from '~/components/HeaderControls.tsx'
+import { FAMILY, FAMILY_SITES } from '@chirag127/oriz-ui'
+---
+
+<header class="site-header">
+  <div class="container-page header-inner">
+    <a href={FAMILY.rootOrigin} class="brand" aria-label="oriz home">
+      <span class="brand-mark">oriz</span>
+      <span class="brand-dot">.</span>
+      <span class="brand-badge">Book Lore</span>
+    </a>
+
+    <nav aria-label="Primary" class="primary-nav">
+      <a href="/books/">Books</a>
+      <a href="/categories/">Categories</a>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <HeaderControls client:idle sites={FAMILY_SITES} />
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: color-mix(in oklab, var(--color-bg) 85%, transparent);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--color-border);
+  }
+  .header-inner {
+    height: 64px;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+  }
+  .brand {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    font-family: var(--font-serif);
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    text-decoration: none;
+    color: var(--color-fg);
+    line-height: 1;
+  }
+  .brand-dot { color: var(--color-accent); }
+  .brand-badge {
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-fg-muted);
+    border: 1px solid var(--color-border);
+    padding: 0.125rem 0.5rem;
+    border-radius: 999px;
+  }
+  .primary-nav {
+    display: none;
+    gap: 1.5rem;
+    flex: 1;
+    font-size: 0.9375rem;
+  }
+  .primary-nav a {
+    color: var(--color-fg-muted);
+    text-decoration: none;
+  }
+  .primary-nav a:hover { color: var(--color-fg); }
+  @media (min-width: 768px) {
+    .primary-nav { display: flex; }
+  }
+</style>
