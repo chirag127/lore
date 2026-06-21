@@ -1,16 +1,6 @@
-/*
- * Site config — small bag of strings. Used by the BaseLayout for canonical URL,
- * page titles, and JSON-LD descriptions.
- */
-export interface SiteConfig {
-  slug: string
-  name: string
-  origin: string
-  tagline: string
-  description: string
-}
+import type { OrizSiteConfig } from '@chirag127/astro-shell/types'
 
-export const SITE_CONFIG: SiteConfig = {
+export const SITE_CONFIG: OrizSiteConfig = {
   slug: 'book-lore',
   name: 'book·lore',
   origin: 'https://book-lore.oriz.in',
