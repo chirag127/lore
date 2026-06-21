@@ -1,49 +1,40 @@
-# oriz-book-lore
+# Oriz Lore — Book summaries
 
-Structured book summaries — overview, content, analysis, narration. Part of the [oriz](https://oriz.in) family.
+> Free, ad-supported library of structured book summaries across twelve disciplines — overview, content map, critical analysis, narration script.
 
-Live: https://book-lore.oriz.in
+**Live at**: <https://book-lore.oriz.in> · **Status**: production
 
 ## What this is
 
-A free, ad-supported library of structured book summaries across twelve disciplines. Each entry has a four-part artifact set authored as MDX:
+Each book gets a four-part MDX artifact set (`01-index`, `02-content`, `03-analysis`, `04-narration`) plus a `meta.json`. Books are organised under `mdx/NN-top-category/NN-discipline-subcategory/NN-topic-leaf/NNN-book-slug/`; `schemas/` and `templates/` document the authoring conventions.
 
-- `01-index.mdx` — overview
-- `02-content.mdx` — content map
-- `03-analysis.mdx` — critical analysis
-- `04-narration.mdx` — narration script
-- `meta.json` — metadata (title, authors, ISBN, tags, key ideas, related books, …)
+## Per-feature inventory
 
-Books live under `mdx/NN-top-category/NN-discipline-subcategory/NN-topic-leaf/NNN-book-slug/`. The `schemas/` and `templates/` folders document the authoring conventions and stay at the repo root for future content work.
+| Feature | Status |
+| --- | --- |
+| Home (`/`) | ✅ live |
+| Books index (`/books`) and per-book pages (`books/[slug]`) | ✅ live |
+| Categories index (`/categories`) | ✅ live |
+| Account / sign-in (shared) | ✅ live |
+| Legal pages | ✅ live |
+| Per-category landing pages | 🚧 WIP |
+| Audio narration playback | 📜 planned |
 
-## Develop
+## App-specific env vars
 
-```bash
-pnpm install
-npx envpact-cli@0.2.0     # pull shared env vars from envpact 'shared' block
-pnpm dev
-```
+None beyond the family-wide set at `templates/.env.example`.
 
-Visit `http://localhost:4321`.
-
-## Build + deploy
-
-Cloudflare Pages (custom domain `book-lore.oriz.in`):
+## Local dev
 
 ```bash
-pnpm build
-pnpm deploy   # wrangler deploy
+# from the workspace root (c:/D/oriz)
+pnpm -F @chirag127/oriz-book-lore dev
 ```
 
-`UV_THREADPOOL_SIZE=64` is recommended at build time — there are several hundred static book pages and Astro's MDX loader benefits from extra worker threads.
+## Knowledge
 
-## Stack
-
-- Astro 6 + React 19 + Tailwind v4
-- `@chirag127/oriz-ui` design system (shared theme, Sidebar, AccountPanel, ContactForm, AdSlot, NewsletterCta)
-- Firebase Auth (`auth.oriz.in`) — single sign-on across the oriz family
-- Hosted on Cloudflare Pages
+See [`./knowledge/`](./knowledge/) for app-specific decisions, runbooks, and services. Family rules / decisions / architecture live at the master repo's [`knowledge/`](../../../../knowledge/).
 
 ## License
 
-MIT — see [LICENSE](./LICENSE). Book summaries are original commentary; quoted excerpts fall under fair-use / fair-dealing.
+Source-available, all rights reserved. See master [`LICENSE`](../../../../LICENSE) — same terms across the family.
