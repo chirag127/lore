@@ -1,13 +1,25 @@
 ---
 /*
- * BaseLayout — book-lore aged-cream chrome with Cormorant + Source Serif 4 + Caveat.
+ * BaseLayout — book·lore chrome (Sweep #5 revert).
  *
- * No oriz-ui style imports. Auth/contact islands are local copies in src/components.
+ * Per locked chrome policy:
+ *   - Header:    FULLY DIVERGENT per-app (~/components/Header.astro)
+ *   - Footer:    @chirag127/astro-chrome/Footer.astro (shared)
+ *   - Sidebar:   @chirag127/astro-chrome/Sidebar.astro (drawer chrome)
+ *                with PER-APP slot content (AppSidebarContent)
+ *   - BottomBar: @chirag127/astro-chrome/BottomBar.astro (shared)
+ *                with PER-APP actions (src/data/bottombar-actions.ts)
  */
 import '~/styles/global.css'
 import '~/styles/oriz-ui-overrides.css'
+import '@chirag127/astro-shell/tokens.css'
 
-import Layout from '@chirag127/astro-chrome/Layout.astro'
+import Header from '~/components/Header.astro'
+import AppSidebarContent from '~/components/AppSidebarContent.astro'
+import Footer from '@chirag127/astro-chrome/Footer.astro'
+import Sidebar from '@chirag127/astro-chrome/Sidebar.astro'
+import BottomBar from '@chirag127/astro-chrome/BottomBar.astro'
+import { bottomBarActions } from '~/data/bottombar-actions'
 import { SITE_CONFIG } from '~/lib/siteConfig'
 
 interface Props {
@@ -31,13 +43,6 @@ const {
 
 const beaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN
 const ga4Id = import.meta.env.PUBLIC_GA4_ID
-const bottomBarActions = [
-  { icon: '⌂', label: 'Home', href: 'https://oriz.in/' },
-  { icon: '✎', label: 'Blog', href: 'https://blog.oriz.in/' },
-  { icon: '⚒', label: 'Tools', href: 'https://oriz.in/tools/' },
-  { icon: 'ℹ', label: 'About', href: '/about/' },
-]
-import '@chirag127/astro-shell/tokens.css'
 ---
 
 <!doctype html>
@@ -97,8 +102,23 @@ import '@chirag127/astro-shell/tokens.css'
   </head>
   <body>
     <a href="#main" class="skip-link">Skip to content</a>
-    <Layout bottomBarActions={bottomBarActions}>
-      <slot />
-    </Layout>
+    <Header breadcrumb={breadcrumb} />
+    <div class="layout-body">
+      <Sidebar>
+        <AppSidebarContent />
+      </Sidebar>
+      <main id="main" class="layout-main"><slot /></main>
+    </div>
+    <Footer />
+    <BottomBar actions={bottomBarActions} />
+
+    <style>
+      .layout-body { display: flex; align-items: flex-start; }
+      .layout-main { flex: 1 1 auto; min-width: 0; min-height: 50vh; }
+      @media (max-width: 767px) {
+        .layout-body { display: block; }
+        .layout-main { padding-bottom: 64px; }
+      }
+    </style>
   </body>
 </html>

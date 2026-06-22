@@ -1,0 +1,59 @@
+---
+/*
+ * AppSidebarContent — per-app sidebar slot content for book·lore.
+ *
+ * The drawer chrome (sticky aside, burger, off-canvas behavior) comes from
+ * @chirag127/astro-chrome/Sidebar.astro. This file owns the *contents*:
+ * Browse-by groupings that are specific to a book-summaries site.
+ */
+const sections = [
+  {
+    label: 'Browse',
+    items: [
+      { href: '/genre/', label: 'By genre' },
+      { href: '/rating/', label: 'By rating' },
+      { href: '/year/', label: 'By year' },
+      { href: '/author/', label: 'By author' },
+    ],
+  },
+  {
+    label: 'Lists',
+    items: [
+      { href: '/latest/', label: 'Latest summaries' },
+      { href: '/top/', label: 'Top-rated' },
+    ],
+  },
+]
+---
+{sections.map((g) => (
+  <section class="sb-section">
+    <h3 class="sb-h">{g.label}</h3>
+    <ul class="sb-list">
+      {g.items.map((i) => (
+        <li><a href={i.href} class="sb-link">{i.label}</a></li>
+      ))}
+    </ul>
+  </section>
+))}
+
+<style>
+  .sb-section { margin-bottom: 1rem; }
+  .sb-h {
+    font-family: var(--font-mono, ui-monospace, monospace);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-mute, #8a7f6e);
+    margin: 0 0 0.5rem;
+  }
+  .sb-list { list-style: none; margin: 0; padding: 0; }
+  .sb-list li { margin: 0; }
+  .sb-link {
+    display: block;
+    padding: 4px 0;
+    color: var(--ink, #3a342b);
+    text-decoration: none;
+    font-size: 14px;
+  }
+  .sb-link:hover { color: var(--pencil, #2a2620); }
+</style>
