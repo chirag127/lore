@@ -1,8 +1,8 @@
-# Oriz Lore — Book summaries
+# Oriz Lore — Knowledge summaries
 
-> Free, ad-supported library of structured book summaries across twelve disciplines — overview, content map, critical analysis, narration script.
+> Free, ad-supported library of structured summaries across books, courses, documentaries, lectures, podcasts, and research papers — overview, content map, critical analysis, narration script.
 
-**Live at**: <https://book-lore.oriz.in> · **Status**: production
+**Live at**: <https://lore.oriz.in> · **Status**: production
 
 ## What this is
 
@@ -28,7 +28,7 @@ None beyond the family-wide set at `templates/.env.example`.
 
 ```bash
 # from the workspace root (c:/D/oriz)
-pnpm -F @chirag127/oriz-book-lore dev
+pnpm -F @chirag127/oriz-lore-app dev
 ```
 
 ## Knowledge
