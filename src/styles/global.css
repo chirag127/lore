@@ -1,3 +1,27 @@
+/* MD3 dark tokens */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap');
+:root {
+  --md-surface:#0F0D13; --md-surface-container-low:#1D1B20;
+  --md-surface-container:#211F26; --md-surface-container-high:#2B2930;
+  --md-surface-container-highest:#36343B;
+  --md-primary:#D0BCFF; --md-on-primary:#381E72;
+  --md-primary-container:#4F378B; --md-on-primary-container:#EADDFF;
+  --md-secondary:#CCC2DC; --md-secondary-container:#4A4458;
+  --md-on-secondary-container:#E8DEF8;
+  --md-outline:#938F99; --md-outline-variant:#49454F;
+  --md-on-surface:#E6E1E5; --md-on-surface-variant:#CAC4D0;
+  --md-shape-sm:8px; --md-shape-md:12px; --md-shape-lg:16px; --md-shape-xl:28px;
+  --md-font-display:"Google Sans Display","Google Sans",Roboto,sans-serif;
+  --md-font-body:"Google Sans Text","Google Sans",Roboto,sans-serif;
+  --md-font-mono:"Roboto Mono",monospace;
+  color-scheme: dark;
+}
+body { background: var(--md-surface); color: var(--md-on-surface-variant); font-family: var(--md-font-body); }
+a { color: var(--md-primary); }
+h1,h2,h3,h4 { font-family: var(--md-font-display); color: var(--md-on-surface); }
+code, pre { font-family: var(--md-font-mono); }
+pre { background: var(--md-surface-container-high); padding: 16px; border-radius: 12px; }
+
 @import 'tailwindcss';
 
 /*
@@ -31,31 +55,24 @@
 
 @layer base {
   :root {
-    color-scheme: light;
+    color-scheme: dark;
 
-    --paper: #f2ead8;
-    --paper-2: #e8dec6;
-    --ink: #1a1611;
-    --ink-mute: #5a503e;
-    --pencil: #b71c1c;
-    --bottle: #2f5141;
-    --brass: #8c6a2e;
-    --rule: #c9bea4;
+    /* MD3-mapped surface/ink aliases for legacy selectors */
+    --paper: var(--md-surface);
+    --paper-2: var(--md-surface-container);
+    --ink: var(--md-on-surface);
+    --ink-mute: var(--md-on-surface-variant);
+    --pencil: var(--md-primary);
+    --bottle: var(--md-secondary);
+    --brass: var(--md-on-primary-container);
+    --rule: var(--md-outline-variant);
   }
 
-  /* Dark variant — candle-lit reading room. Cream commits in light mode;
-     dark mode reads as a warm interior, not an OLED void. */
+  /* Dark variant — now always dark-first via MD3 tokens above */
   @media (prefers-color-scheme: dark) {
     :root {
       color-scheme: dark;
-      --paper: #1b1813;
-      --paper-2: #221e18;
-      --ink: #ede3cd;
-      --ink-mute: #a89c80;
-      --pencil: #e07a7a;
-      --bottle: #7db39a;
-      --brass: #c9a864;
-      --rule: #3d3528;
+      /* tokens already set at :root level above; no overrides needed */
     }
   }
 
