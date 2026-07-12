@@ -1,0 +1,52 @@
+# Prerelease — build + tag a rolling prerelease on every push to main.
+# Deterministic tag: prerelease-<UTCdate>-<shortsha>. Attaches the dist
+# tarball. Guards against tag-push recursion and cancels superseded runs.
+
+name: prerelease
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: prerelease-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  prerelease:
+    # Skip when the push is itself a tag (avoids recursion).
+    if: ${{ !startsWith(github.ref, 'refs/tags/') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - run: pnpm build
+
+      - name: Compute tag
+        id: tag
+        run: |
+          echo "tag=prerelease-$(date -u +%Y%m%d)-$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Package dist
+        run: tar -czf book-lore-dist.tar.gz -C dist .
+
+      - name: Publish prerelease
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: ${{ steps.tag.outputs.tag }}
+          prerelease: true
+          files: book-lore-dist.tar.gz

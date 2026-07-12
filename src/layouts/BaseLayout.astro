@@ -1,25 +1,15 @@
 ---
 /*
- * BaseLayout — book·lore chrome (Sweep #5 revert).
- *
- * Per locked chrome policy:
- *   - Header:    FULLY DIVERGENT per-app (~/components/Header.astro)
- *   - Footer:    @chirag127/astro-chrome/Footer.astro (shared)
- *   - Sidebar:   @chirag127/astro-chrome/Sidebar.astro (drawer chrome)
- *                with PER-APP slot content (AppSidebarContent)
- *   - BottomBar: @chirag127/astro-chrome/BottomBar.astro (shared)
- *                with PER-APP actions (src/data/bottombar-actions.ts)
+ * BaseLayout — book·lore chrome. Fully self-contained (no shared @chirag127
+ * packages, no auth). Header + Footer + Sidebar + BottomBar are all local.
  */
 import '~/styles/global.css'
-import '~/styles/oriz-ui-overrides.css'
-import '@chirag127/astro-shell/tokens.css'
 
-import FamilyChrome from '@chirag127/astro-shell/components/FamilyChrome.astro'
 import Header from '~/components/Header.astro'
 import AppSidebarContent from '~/components/AppSidebarContent.astro'
-import Footer from '@chirag127/astro-chrome/Footer.astro'
-import Sidebar from '@chirag127/astro-chrome/Sidebar.astro'
-import BottomBar from '@chirag127/astro-chrome/BottomBar.astro'
+import Footer from '~/components/Footer.astro'
+import Sidebar from '~/components/Sidebar.astro'
+import BottomBar from '~/components/BottomBar.astro'
 import { bottomBarActions } from '~/data/bottombar-actions'
 import { SITE_CONFIG } from '~/lib/siteConfig'
 
@@ -65,6 +55,9 @@ const ga4Id = import.meta.env.PUBLIC_GA4_ID
     <meta name="twitter:site" content="@chirag127" />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#0F0D13" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -102,7 +95,6 @@ const ga4Id = import.meta.env.PUBLIC_GA4_ID
     )}
   </head>
   <body>
-    <FamilyChrome slug="oriz-lore-app" title="book·lore" accent="#6b3e2e" />
     <a href="#main" class="skip-link">Skip to content</a>
     <Header breadcrumb={breadcrumb} />
     <div class="layout-body">
@@ -113,6 +105,14 @@ const ga4Id = import.meta.env.PUBLIC_GA4_ID
     </div>
     <Footer />
     <BottomBar actions={bottomBarActions} />
+
+    <script is:inline>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(() => {})
+        })
+      }
+    </script>
 
     <style>
       .layout-body { display: flex; align-items: flex-start; }

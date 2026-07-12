@@ -17,10 +17,9 @@ const updated = '2026-06-19'
     <article class="prose">
       <h2>Who runs this</h2>
       <p>
-        book-lore.oriz.in is operated by Chirag Singhal, based in Bhubaneswar, Odisha, India.
+        lore.oriz.in is operated by Chirag Singhal, based in Bhubaneswar, Odisha, India.
         Contact: <a href="mailto:whyiswhen@gmail.com">whyiswhen@gmail.com</a>. It is part of
-        the <a href="https://oriz.in">oriz</a> family and shares its sign-in and analytics
-        with oriz.in.
+        the <a href="https://oriz.in">oriz</a> family of free static sites.
       </p>
 
       <h2>What we collect</h2>
@@ -30,19 +29,9 @@ const updated = '2026-06-19'
           Cookieless. No personal identifiers.
         </li>
         <li>
-          <strong>Authentication</strong> — if you sign in, Firebase Authentication stores
-          your email, display name, and (if you sign in with Google/GitHub) profile photo.
-          We never see your password.
-        </li>
-        <li>
           <strong>Reading state</strong> — the bottle-green ribbon on each book page writes
           your last-read paragraph to <code>localStorage</code> (key
           <code>bookLore:&lt;slug&gt;:para</code>). This stays on your device.
-        </li>
-        <li>
-          <strong>Bookmarks</strong> (when implemented) — saved to Firestore under your user
-          ID and accessible only to you. Delete them any time from the
-          <a href="/account/">account page</a>.
         </li>
         <li>
           <strong>Contact form</strong> — submissions go through Web3Forms which forwards
@@ -50,20 +39,24 @@ const updated = '2026-06-19'
         </li>
       </ul>
 
+      <p>
+        book·lore is fully public. There is no sign-in, no account, and no server-side
+        store of anything you do here.
+      </p>
+
       <h2>What we don't do</h2>
       <ul>
         <li>No tracking across sessions for analytics (Cloudflare is anonymous).</li>
+        <li>No accounts, no passwords, no personal profiles.</li>
         <li>No selling of personal data.</li>
         <li>No newsletters unless you explicitly subscribe (and right now there is no signup).</li>
       </ul>
 
       <h2>Your rights</h2>
       <p>
-        Delete your account from the <a href="/account/">account page</a>; this removes your
-        Firebase Auth record across every <code>*.oriz.in</code> site. Site-specific data
-        (bookmarks, notes) wipes from there too. Under India's DPDP Act 2023, you have the
-        right to access, correct, and delete your personal data — contact the
-        <a href="/legal/grievance/">grievance officer</a>.
+        Reading state lives only in your browser — clear your site data to wipe it. Under
+        India's DPDP Act 2023, you have the right to access, correct, and delete any personal
+        data we hold — contact the <a href="/legal/grievance/">grievance officer</a>.
       </p>
 
       <h2>Children</h2>

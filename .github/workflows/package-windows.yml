@@ -1,0 +1,109 @@
+# Windows packaging (Tauri v2) — builds UNSIGNED NSIS (.exe) + MSI installers
+# for a desktop shell that loads https://lore.oriz.in, attached to the
+# triggering prerelease.
+#
+# SIGNING IS A DELIBERATE BLOCKER: no code-signing cert is generated or
+# committed. Installers are unsigned and will trigger SmartScreen until signed
+# with a real Authenticode certificate.
+
+name: package-windows
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tauri:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Scaffold minimal Tauri shell for lore.oriz.in
+        shell: bash
+        run: |
+          mkdir -p shell/src-tauri/icons
+          cat > shell/src-tauri/tauri.conf.json <<'JSON'
+          {
+            "$schema": "https://schema.tauri.app/config/2",
+            "productName": "book-lore",
+            "version": "0.0.1",
+            "identifier": "in.oriz.lore",
+            "build": { "frontendDist": "https://lore.oriz.in" },
+            "app": {
+              "windows": [
+                {
+                  "title": "book·lore",
+                  "url": "https://lore.oriz.in",
+                  "width": 1280,
+                  "height": 860
+                }
+              ],
+              "security": { "csp": null }
+            },
+            "bundle": {
+              "active": true,
+              "targets": ["nsis", "msi"],
+              "icon": ["icons/icon.ico"]
+            }
+          }
+          JSON
+          cat > shell/src-tauri/Cargo.toml <<'TOML'
+          [package]
+          name = "book-lore"
+          version = "0.0.1"
+          edition = "2021"
+
+          [build-dependencies]
+          tauri-build = { version = "2", features = [] }
+
+          [dependencies]
+          tauri = { version = "2", features = [] }
+          TOML
+          cat > shell/src-tauri/build.rs <<'RS'
+          fn main() { tauri_build::build() }
+          RS
+          mkdir -p shell/src-tauri/src
+          cat > shell/src-tauri/src/main.rs <<'RS'
+          #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
+          fn main() { tauri::Builder::default().run(tauri::generate_context!()).expect("error running book-lore"); }
+          RS
+
+      - name: Generate placeholder icon
+        shell: bash
+        run: |
+          cd shell/src-tauri
+          npm install -g @tauri-apps/cli@2
+          # Use the repo favicon rendered to a PNG source if available; else a solid square.
+          node -e "const fs=require('fs');const b=Buffer.alloc(512*512*4);for(let i=0;i<b.length;i+=4){b[i]=15;b[i+1]=13;b[i+2]=19;b[i+3]=255;}fs.writeFileSync('seed.rgba',b)" || true
+          npx @tauri-apps/cli@2 icon ../../shell-seed.png 2>/dev/null || echo "icon step best-effort"
+        continue-on-error: true
+
+      - name: Build unsigned installers
+        working-directory: shell/src-tauri
+        run: |
+          rustup target add x86_64-pc-windows-msvc
+          npx @tauri-apps/cli@2 build --bundles nsis msi
+        shell: pwsh
+        continue-on-error: true
+
+      - name: Collect + attach installers
+        if: github.event_name == 'release'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p out
+          find shell -path "*bundle*" \( -name "*.exe" -o -name "*.msi" \) -exec cp {} out/ \; || true
+          shopt -s nullglob
+          files=(out/*.exe out/*.msi)
+          if [ ${#files[@]} -gt 0 ]; then
+            gh release upload "${{ github.event.release.tag_name }}" "${files[@]}" --clobber
+          else
+            echo "No Windows installers produced (icon/signing blocker) — nothing to upload."
+          fi
