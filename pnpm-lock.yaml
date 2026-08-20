@@ -18,8 +18,8 @@ importers:
         specifier: ^3.2.0
         version: 3.7.3
       '@chirag127/oz-ai':
-        specifier: ^0.2.0
-        version: 0.2.0
+        specifier: ^0.3.3
+        version: 0.3.3
       '@clerk/clerk-react':
         specifier: ^5.61.3
         version: 5.61.3(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
@@ -743,8 +743,8 @@ packages:
     resolution: {integrity: sha512-CuNiSqg7+e1cO/GjffyMOm5Tt2jUF9CWHHnvQ/UkqvtkGfHdgwEC0wpmq7fkN3gxwpRnrAN0WzO3vREKmNolMQ==}
     engines: {node: '>=18'}
 
-  '@chirag127/oz-ai@0.2.0':
-    resolution: {integrity: sha512-6AT98B3XbTaoIO21iVqBiI8AI5pAVdRUGCtIZDUWnoLKODNA1h06ti/RdjyWFM5xhegUA6z4dR7XjwSVFabwUw==}
+  '@chirag127/oz-ai@0.3.3':
+    resolution: {integrity: sha512-zdZWkH4LNmswiLOynM2CfZ3C4in+N2IsXSRWtSIoHIQwT/CVrC89My2J+aoCShTz5Ubmy3mniVmQ0K+QriiRVA==}
 
   '@clack/core@1.4.1':
     resolution: {integrity: sha512-FILJa1gGKEFTGZAJE9RpVhrjKz3c3h4ar60dSv6cGuDqufQ84YEIS3GAGvZiN+H6yaLbbvTFNejjCC4tXpZEuw==}
@@ -5869,7 +5869,7 @@ snapshots:
     dependencies:
       fontkitten: 1.0.3
 
-  '@chirag127/oz-ai@0.2.0':
+  '@chirag127/oz-ai@0.3.3':
     dependencies:
       '@gpt4free/g4f.dev': 1.1.2
 
